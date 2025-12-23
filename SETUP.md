@@ -16,9 +16,11 @@ DailyArXiv is an automated tool that fetches the latest research papers from arX
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/xh-g/DailyArXiv.git
+   git clone <your-repository-url>
    cd DailyArXiv
    ```
+   
+   Replace `<your-repository-url>` with your repository URL (e.g., `https://github.com/username/DailyArXiv.git`)
 
 2. **Install dependencies**
    ```bash

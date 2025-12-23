@@ -4,7 +4,11 @@ Test script to verify DailyArXiv setup
 """
 
 import sys
+import os
 import importlib.util
+
+# Constants
+MAX_DISPLAY_LENGTH = 80
 
 def test_imports():
     """Test that all required modules can be imported"""
@@ -23,7 +27,6 @@ def test_imports():
 def test_project_files():
     """Test that all required files exist"""
     print("\nTesting project files...")
-    import os
     required_files = [
         'main.py',
         'utils.py', 
@@ -81,7 +84,12 @@ def test_configuration():
             # Extract keywords line
             for line in content.split('\n'):
                 if line.strip().startswith('keywords = ['):
-                    print(f"  ✅ Keywords configured: {line.strip()[:80]}...")
+                    display_text = line.strip()
+                    if len(display_text) > MAX_DISPLAY_LENGTH:
+                        display_text = display_text[:MAX_DISPLAY_LENGTH] + "..."
+                    else:
+                        display_text = display_text + "..."
+                    print(f"  ✅ Keywords configured: {display_text}")
                     break
         
         # Check max_result
