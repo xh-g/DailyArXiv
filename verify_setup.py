@@ -87,8 +87,6 @@ def test_configuration():
                     display_text = line.strip()
                     if len(display_text) > MAX_DISPLAY_LENGTH:
                         display_text = display_text[:MAX_DISPLAY_LENGTH] + "..."
-                    else:
-                        display_text = display_text + "..."
                     print(f"  ✅ Keywords configured: {display_text}")
                     break
         
@@ -116,7 +114,9 @@ def main():
         test_configuration
     ]
     
-    results = [test() for test in tests]
+    results = []
+    for test in tests:
+        results.append(test())
     
     print("\n" + "=" * 60)
     if all(results):
