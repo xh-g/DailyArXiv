@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["VLA", "reinforcement learning", "Decision Transformer", "Generalist agent"] # TODO add more keywords
+keywords = ["Time Series", "Trajectory", "Graph Neural Networks"] # Customize these keywords for your research area
 
 max_result = 200 # maximum query results from arXiv API for each keyword
 issues_result = 20 # maximum papers to be included in the issue
@@ -37,7 +37,10 @@ back_up_files() # back up README.md and ISSUE_TEMPLATE.md
 # write to README.md
 f_rm = open("README.md", "w") # file for README.md
 f_rm.write("# Daily Papers\n")
-f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\nLast update: {0}\n\n".format(current_date))
+f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\n")
+f_rm.write("## Getting Started\n")
+f_rm.write("**New to this project?** Check out [SETUP.md](SETUP.md) for detailed instructions on how to install, configure, and run DailyArXiv.\n\n")
+f_rm.write("Last update: {0}\n\n".format(current_date))
 
 # write to ISSUE_TEMPLATE.md
 f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md

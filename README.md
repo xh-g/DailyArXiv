@@ -7,6 +7,10 @@ Only the most recent articles for each keyword are retained, up to a maximum of 
 
 You can click the 'Watch' button to receive daily email notifications.
 
+## Getting Started
+**New to this project?** Check out [SETUP.md](SETUP.md) for detailed instructions on how to install, configure, and run DailyArXiv.
+
+
 Last update: 2025-12-23
 
 ## Time Series
