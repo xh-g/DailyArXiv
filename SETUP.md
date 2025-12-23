@@ -30,6 +30,13 @@ DailyArXiv is an automated tool that fetches the latest research papers from arX
    - `feedparser` - For parsing arXiv API responses
    - `pytz` - For timezone handling
 
+3. **Verify your setup** (optional)
+   ```bash
+   python verify_setup.py
+   ```
+   
+   This script will check that all dependencies are installed and files are in place.
+
 ### Configuration
 
 Before running the project, you need to customize the keywords to match your research interests.
@@ -153,6 +160,15 @@ schedule:
 ```
 
 ## Troubleshooting
+
+### Verify Your Setup
+
+Before troubleshooting, run the verification script to check your setup:
+```bash
+python verify_setup.py
+```
+
+This will help identify any missing dependencies or configuration issues.
 
 ### Common Issues
 
