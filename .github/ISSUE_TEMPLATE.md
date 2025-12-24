@@ -1,63 +1,126 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 20 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling](https://arxiv.org/abs/2512.19272v1)** | 2025-12-22 | <details><summary>Prese...</summary><p>Presented at ISQCMC '25: 3rd International Symposium on Quantum Computing and Musical Creativity</p></details> |
-| **[A Composable Channel-Adaptive Architecture for Seizure Classification](https://arxiv.org/abs/2512.19123v1)** | 2025-12-22 | <details><summary>2025 ...</summary><p>2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[HyperLoad: A Cross-Modality Enhanced Large Language Model-Based Framework for Green Data Center Cooling Load Prediction](https://arxiv.org/abs/2512.19114v1)** | 2025-12-22 |  |
-| **[Time-series Forecast for Indoor Zone Air Temperature with Long Horizons: A Case Study with Sensor-based Data from a Smart Building](https://arxiv.org/abs/2512.19038v1)** | 2025-12-22 |  |
-| **[UniCoMTE: A Universal Counterfactual Framework for Explaining Time-Series Classifiers on ECG Data](https://arxiv.org/abs/2512.17100v2)** | 2025-12-22 | 21 pages, 7 figures |
-| **[SCA-LLM: Spectral-Attentive LLM-Based Wireless World Modeling for Agentic Communications](https://arxiv.org/abs/2509.08139v2)** | 2025-12-21 |  |
-| **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v4)** | 2025-12-21 |  |
-| **[ASTIF: Adaptive Semantic-Temporal Integration for Cryptocurrency Price Forecasting](https://arxiv.org/abs/2512.18661v1)** | 2025-12-21 | 33 Pages, 8 Figures |
-| **[Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195v3)** | 2025-12-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[The Procrustean Bed of Time Series: The Optimization Bias of Point-wise Loss](https://arxiv.org/abs/2512.18610v1)** | 2025-12-21 |  |
-| **[Variational Markov chain mixtures with automatic component selection](https://arxiv.org/abs/2406.04653v2)** | 2025-12-21 | <details><summary>v2: c...</summary><p>v2: changed title, streamlined early sections</p></details> |
-| **[State-Space Modeling of Time-Varying Spillovers on Networks](https://arxiv.org/abs/2512.18584v1)** | 2025-12-21 | <details><summary>While...</summary><p>While under review, the material in this paper may be reorganized to meet journal requirements</p></details> |
-| **[Detecting stellar flares in the presence of a deterministic trend and stochastic volatility](https://arxiv.org/abs/2512.18559v1)** | 2025-12-21 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 3 tables. Accepted for publication in MNRAS. Supplementary figures available at https://doi.org/10.5281/zenodo.14991246 . Code available at https://github.com/johnnywalker213/Detecting-stellar-flares</p></details> |
-| **[Multifractality Analysis of Single Qubit Quantum Circuit Outcomes for a Superconducting Quantum Computer](https://arxiv.org/abs/2512.18491v1)** | 2025-12-20 |  |
-| **[When, How Long and How Much? Interpretable Neural Networks for Time Series Regression by Learning to Mask and Aggregate](https://arxiv.org/abs/2512.03578v2)** | 2025-12-20 | <details><summary>Added...</summary><p>Added link to the GitHub repository</p></details> |
+| **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072v3)** | 2025-12-22 | <details><summary>New e...</summary><p>New experiments on VL retention and new ablations. 18 pages</p></details> |
+| **[QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2510.14836v2)** | 2025-12-22 |  |
+| **[cVLA: Towards Efficient Camera-Space VLAs](https://arxiv.org/abs/2507.02190v2)** | 2025-12-20 | <details><summary>20 pa...</summary><p>20 pages, 10 figures; CoRL 2025 Workshop on Generalizable Priors for Robot Manipulation</p></details> |
+| **[Robotic VLA Benefits from Joint Learning with Motion Image Diffusion](https://arxiv.org/abs/2512.18007v1)** | 2025-12-19 | <details><summary>Websi...</summary><p>Website: https://vla-motion.github.io/</p></details> |
+| **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v2)** | 2025-12-19 | <details><summary>Revis...</summary><p>Revised Introduction, Related Work, and Appendix. Additional minor notational and grammatical fixes</p></details> |
+| **[VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments](https://arxiv.org/abs/2512.15258v2)** | 2025-12-19 |  |
+| **[Phantom Menace: Exploring and Enhancing the Robustness of VLA Models Against Physical Sensor Attacks](https://arxiv.org/abs/2511.10008v2)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 main track</p></details> |
+| **[GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](https://arxiv.org/abs/2512.16811v1)** | 2025-12-18 |  |
+| **[EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models](https://arxiv.org/abs/2512.14666v1)** | 2025-12-16 | 15 pages |
+| **[Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model](https://arxiv.org/abs/2512.14031v1)** | 2025-12-16 |  |
+| **[Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080v1)** | 2025-12-15 |  |
+| **[WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://arxiv.org/abs/2512.11047v2)** | 2025-12-15 |  |
+| **[End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection](https://arxiv.org/abs/2511.00139v2)** | 2025-12-13 |  |
+| **[Atomic Action Slicing: Planner-Aligned Options for Generalist VLA Agents](https://arxiv.org/abs/2512.11584v1)** | 2025-12-12 | <details><summary>The 4...</summary><p>The 41st ACM/SIGAPP Symposium On Applied Computing</p></details> |
+| **[Towards Accessible Physical AI: LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control](https://arxiv.org/abs/2512.11921v1)** | 2025-12-11 |  |
+| **[HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](https://arxiv.org/abs/2512.09928v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project page: https://hifvla.github.io Github: https://github.com/OpenHelix-Team/HiF-VLA</p></details> |
+| **[PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention](https://arxiv.org/abs/2512.03724v2)** | 2025-12-08 |  |
+| **[Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](https://arxiv.org/abs/2512.07472v1)** | 2025-12-08 |  |
+| **[WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2512.11872v1)** | 2025-12-06 |  |
+| **[HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies](https://arxiv.org/abs/2512.05693v1)** | 2025-12-05 |  |
 
-## Trajectory
+## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Are All Data Necessary? Efficient Data Pruning for Large-scale Autonomous Driving Dataset via Trajectory Entropy Maximization](https://arxiv.org/abs/2512.19270v1)** | 2025-12-22 | 7 pages, 4 figures |
-| **[FC-MIR: A Mobile Screen Awareness Framework for Intent-Aware Recommendation based on Frame-Compressed Multimodal Trajectory Reasoning](https://arxiv.org/abs/2512.19107v1)** | 2025-12-22 |  |
-| **[Multimodal Classification Network Guided Trajectory Planning for Four-Wheel Independent Steering Autonomous Parking Considering Obstacle Attributes](https://arxiv.org/abs/2512.18836v1)** | 2025-12-21 |  |
-| **[CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles](https://arxiv.org/abs/2512.18703v1)** | 2025-12-21 |  |
-| **[Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning](https://arxiv.org/abs/2512.18604v1)** | 2025-12-21 |  |
-| **[Commercial Vehicle Braking Optimization: A Robust SIFT-Trajectory Approach](https://arxiv.org/abs/2512.18597v1)** | 2025-12-21 | 5 figures,16 pages |
-| **[Trajectory-Aware Eligibility Traces for Off-Policy Reinforcement Learning](https://arxiv.org/abs/2301.11321v3)** | 2025-12-21 | <details><summary>ICML ...</summary><p>ICML 2023. 18 pages, 4 figures, 1 table. Fixed off-by-1 error in Tightrope Problem</p></details> |
-| **[MoE Pathfinder: Trajectory-driven Expert Pruning](https://arxiv.org/abs/2512.18425v1)** | 2025-12-20 | 12 pages, 3 figures |
-| **[LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning](https://arxiv.org/abs/2512.18211v1)** | 2025-12-20 |  |
-| **[Planning as Descent: Goal-Conditioned Latent Trajectory Synthesis in Learned Energy Landscapes](https://arxiv.org/abs/2512.17846v1)** | 2025-12-19 |  |
-| **[Privacy-Preserving Synthetic Dataset of Individual Daily Trajectories for City-Scale Mobility Analytics](https://arxiv.org/abs/2512.17239v1)** | 2025-12-19 | 9 pages, 4 figures |
-| **[Tracing the Roots: Leveraging Temporal Dynamics in Diffusion Trajectories for Origin Attribution](https://arxiv.org/abs/2411.07449v3)** | 2025-12-18 |  |
-| **[The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text](https://arxiv.org/abs/2512.16924v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page and code: https://worldcanvas.github.io/</p></details> |
-| **[Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos](https://arxiv.org/abs/2512.16907v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project website: https://egoman-project.github.io</p></details> |
-| **[R3ST: A Synthetic 3D Dataset With Realistic Trajectories](https://arxiv.org/abs/2512.16784v1)** | 2025-12-18 |  |
+| **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v1)** | 2025-12-18 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
+| **[Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models](https://arxiv.org/abs/2512.13072v1)** | 2025-12-15 |  |
+| **[From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production](https://arxiv.org/abs/2510.23856v2)** | 2025-12-09 | <details><summary>AAAI ...</summary><p>AAAI Conference on Artificial Intelligence</p></details> |
+| **[SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797v1)** | 2025-12-04 |  |
+| **[Large Language Models as Generalist Policies for Network Optimization](https://arxiv.org/abs/2512.11839v1)** | 2025-12-03 | <details><summary>In su...</summary><p>In submission. Project homepage: https://duowuyms.github.io/trailblazer</p></details> |
+| **[Generalist Large Language Models Outperform Clinical Tools on Medical Benchmarks](https://arxiv.org/abs/2512.01191v1)** | 2025-12-01 | <details><summary>17 pa...</summary><p>17 pages, 4 figures (2 regular, 2 supplemental)</p></details> |
+| **[RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies](https://arxiv.org/abs/2506.18123v2)** | 2025-11-29 | <details><summary>Websi...</summary><p>Website: https://robo-arena.github.io/</p></details> |
+| **[UMind-VL: A Generalist Ultrasound Vision-Language Model for Unified Grounded Perception and Comprehensive Interpretation](https://arxiv.org/abs/2511.22256v1)** | 2025-11-27 |  |
+| **[Health system learning achieves generalist neuroimaging models](https://arxiv.org/abs/2511.18640v1)** | 2025-11-23 | <details><summary>53 pa...</summary><p>53 pages, 4 main figures, 10 extended data figures</p></details> |
+| **[Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots](https://arxiv.org/abs/2511.00917v2)** | 2025-11-18 | <details><summary>Plan ...</summary><p>Plan to resubmit after significant revisions</p></details> |
+| **[Generalist Foundation Models Are Not Clinical Enough for Hospital Operations](https://arxiv.org/abs/2511.13703v1)** | 2025-11-17 |  |
+| **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/abs/2511.08151v2)** | 2025-11-17 | <details><summary>1. To...</summary><p>1. To ensure result rigor, the model outputs require further evaluation by human experts. 2. The results may affect our conclusions and methods, thus necessitating a more detailed review. 3. We anticipate subsequent revisions may be substantial, potentially involving major adjustments to the methodology. Given the uncertainty surrounding the revision process, we decide to request a withdrawal</p></details> |
+| **[MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys](https://arxiv.org/abs/2511.10108v1)** | 2025-11-13 |  |
+| **[Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://arxiv.org/abs/2511.08892v1)** | 2025-11-12 |  |
+| **[UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://arxiv.org/abs/2511.08521v1)** | 2025-11-11 | <details><summary>Techn...</summary><p>Technical Report. 24 figures, 37 pages. Website: https://univa.online/</p></details> |
+| **[Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](https://arxiv.org/abs/2510.08668v2)** | 2025-11-05 |  |
+| **[Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism](https://arxiv.org/abs/2510.26083v1)** | 2025-10-30 |  |
+| **[PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer](https://arxiv.org/abs/2509.26386v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation](https://arxiv.org/abs/2510.24093v1)** | 2025-10-28 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work. The last two authors are co-corresponding authors</p></details> |
+| **[Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents](https://arxiv.org/abs/2510.23691v1)** | 2025-10-27 |  |
 
-## Graph Neural Networks
+## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GraphGeo: Multi-Agent Debate Framework for Visual Geo-localization with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2511.00908v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement](https://arxiv.org/abs/2512.19530v1)** | 2025-12-22 | 13 pages, 6 figures |
-| **[Kolmogorov-Arnold Graph Neural Networks Applied to Inorganic Nanomaterials Dataset](https://arxiv.org/abs/2512.19494v1)** | 2025-12-22 |  |
-| **[Learning General Policies with Policy Gradient Methods](https://arxiv.org/abs/2512.19366v1)** | 2025-12-22 | <details><summary>In Pr...</summary><p>In Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023)</p></details> |
-| **[A Logical View of GNN-Style Computation and the Role of Activation Functions](https://arxiv.org/abs/2512.19332v1)** | 2025-12-22 |  |
-| **[Certified Defense on the Fairness of Graph Neural Networks](https://arxiv.org/abs/2311.02757v3)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at SIGKDD'26 for publication</p></details> |
-| **[LogicXGNN: Grounded Logical Rules for Explaining Graph Neural Networks](https://arxiv.org/abs/2503.19476v3)** | 2025-12-21 | 31 pages, 14 figures |
-| **[Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance](https://arxiv.org/abs/2512.16661v2)** | 2025-12-21 | 5 pages, 3 figures |
-| **[Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models](https://arxiv.org/abs/2512.16244v2)** | 2025-12-21 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Scaling up Stability: Reinforcement Learning for Distributed Control of Networked Systems in the Space of Stabilizing Policies](https://arxiv.org/abs/2512.18540v1)** | 2025-12-20 |  |
-| **[Feature-Enhanced Graph Neural Networks for Classification of Synthetic Graph Generative Models: A Benchmarking Study](https://arxiv.org/abs/2512.18524v1)** | 2025-12-20 | <details><summary>This ...</summary><p>This is a preprint version of a manuscript currently under review at The Journal of Supercomputing (Springer)</p></details> |
-| **[Self-Supervised Learning of Graph Representations for Network Intrusion Detection](https://arxiv.org/abs/2509.16625v5)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[APC-GNN++: An Adaptive Patient-Centric GNN with Context-Aware Attention and Mini-Graph Explainability for Diabetes Classification](https://arxiv.org/abs/2512.18473v1)** | 2025-12-20 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, 5 tables</p></details> |
-| **[A Distributed Hierarchical Spatio-Temporal Edge-Enhanced Graph Neural Network for City-Scale Dynamic Logistics Routing](https://arxiv.org/abs/2512.18441v1)** | 2025-12-20 |  |
-| **[Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval](https://arxiv.org/abs/2512.18407v1)** | 2025-12-20 | 10 pages, 5 figures |
+| **[Sample-Efficient Policy Constraint Offline Deep Reinforcement Learning based on Sample Filtering](https://arxiv.org/abs/2512.20115v1)** | 2025-12-23 |  |
+| **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
+| **[Diffusion Self-Weighted Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2505.18345v2)** | 2025-12-23 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR). 21 pages, 6 figures</p></details> |
+| **[CORE: Compensable Reward as a Catalyst for Improving Offline RL in Wireless Networks](https://arxiv.org/abs/2512.19671v1)** | 2025-12-22 |  |
+| **[MOORL: A Framework for Integrating Offline-Online Reinforcement Learning](https://arxiv.org/abs/2506.09574v2)** | 2025-12-22 |  |
+| **[From Novelty to Imitation: Self-Distilled Rewards for Offline Reinforcement Learning](https://arxiv.org/abs/2507.12815v2)** | 2025-12-22 |  |
+| **[Offline Reinforcement Learning for End-to-End Autonomous Driving](https://arxiv.org/abs/2512.18662v1)** | 2025-12-21 | 15 pages |
+| **[ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts](https://arxiv.org/abs/2511.23442v2)** | 2025-12-16 |  |
+| **[PrivORL: Differentially Private Synthetic Dataset for Offline Reinforcement Learning](https://arxiv.org/abs/2512.07342v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted at NDSS 2026; code available at https://github.com/2019ChenGong/PrivORL</p></details> |
+| **[V-OCBF: Learning Safety Filters from Offline Data via Value-Guided Offline Control Barrier Functions](https://arxiv.org/abs/2512.10822v1)** | 2025-12-11 | <details><summary>23 pa...</summary><p>23 pages, 8 figure, 7 tables</p></details> |
+| **[Latent Action World Models for Control with Unlabeled Trajectories](https://arxiv.org/abs/2512.10016v1)** | 2025-12-10 |  |
+| **[Scalable Offline Model-Based RL with Action Chunks](https://arxiv.org/abs/2512.08108v1)** | 2025-12-08 | 22 pages, 7 figures |
+| **[RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](https://arxiv.org/abs/2510.02695v2)** | 2025-12-08 |  |
+| **[Data Fusion-Enhanced Decision Transformer for Stable Cross-Domain Generalization](https://arxiv.org/abs/2511.09173v2)** | 2025-12-07 | 32 pages,4 figures |
+| **[State Diversity Matters in Offline Behavior Distillation](https://arxiv.org/abs/2512.06692v1)** | 2025-12-07 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables</p></details> |
+| **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v2)** | 2025-12-02 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
+| **[Dual-Robust Cross-Domain Offline Reinforcement Learning Against Dynamics Shifts](https://arxiv.org/abs/2512.02486v1)** | 2025-12-02 |  |
+| **[Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265v5)** | 2025-12-01 |  |
+| **[Symmetric Behavior Regularized Policy Optimization](https://arxiv.org/abs/2508.04225v3)** | 2025-12-01 |  |
+| **[Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets](https://arxiv.org/abs/2512.00536v1)** | 2025-11-29 | 29 pages, 2 figures |
+
+## robotic learning
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
+| **[Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](https://arxiv.org/abs/2512.19402v1)** | 2025-12-22 |  |
+| **[TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation](https://arxiv.org/abs/2512.19390v1)** | 2025-12-22 |  |
+| **[Translating Flow to Policy via Hindsight Online Imitation](https://arxiv.org/abs/2512.19269v1)** | 2025-12-22 |  |
+| **[SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning](https://arxiv.org/abs/2512.18068v1)** | 2025-12-19 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables</p></details> |
+| **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v1)** | 2025-12-19 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
+| **[Learning-Based Safety-Aware Task Scheduling for Efficient Human-Robot Collaboration](https://arxiv.org/abs/2512.17560v1)** | 2025-12-19 | 8 pages |
+| **[Mitty: Diffusion-based Human-to-Robot Video Generation](https://arxiv.org/abs/2512.17253v1)** | 2025-12-19 |  |
+| **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v1)** | 2025-12-18 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
+| **[CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion](https://arxiv.org/abs/2512.16023v1)** | 2025-12-17 | 9 pages, 7 figures |
+| **[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/abs/2512.15715v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://github.com/facebookresearch/pixio</p></details> |
+| **[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840v1)** | 2025-12-17 | 29 pages, 16 figures |
+| **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v1)** | 2025-12-15 | 13 pages, 12 figures |
+| **[Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080v1)** | 2025-12-15 |  |
+| **[HACTS: a Human-As-Copilot Teleoperation System for Robot Learning](https://arxiv.org/abs/2503.24070v2)** | 2025-12-15 |  |
+| **[CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction](https://arxiv.org/abs/2512.11988v1)** | 2025-12-12 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables. Project page: https://nvlabs.github.io/CARI4D/</p></details> |
+| **[From "Thumbs Up" to "10 out of 10": Reconsidering Scalar Feedback in Interactive Reinforcement Learning](https://arxiv.org/abs/2311.10284v2)** | 2025-12-12 |  |
+| **[Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/abs/2506.16685v4)** | 2025-12-11 |  |
+| **[H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos](https://arxiv.org/abs/2512.09406v1)** | 2025-12-10 | 13 pages, 6 figures |
+| **[Towards Task-Oriented Flying: Framework, Infrastructure, and Principles](https://arxiv.org/abs/2504.15129v2)** | 2025-12-09 |  |
+
+## decision transformer
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Quantum Decision Transformers (QDT): Synergistic Entanglement and Interference for Offline Reinforcement Learning](https://arxiv.org/abs/2512.14726v1)** | 2025-12-09 |  |
+| **[Benchmarking Offline Multi-Objective Reinforcement Learning in Critical Care](https://arxiv.org/abs/2512.08012v1)** | 2025-12-08 |  |
+| **[Data Fusion-Enhanced Decision Transformer for Stable Cross-Domain Generalization](https://arxiv.org/abs/2511.09173v2)** | 2025-12-07 | 32 pages,4 figures |
+| **[Hybrid Quantum-Classical Ensemble Learning for S\&P 500 Directional Prediction](https://arxiv.org/abs/2512.15738v1)** | 2025-12-06 |  |
+| **[Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer](https://arxiv.org/abs/2408.01402v2)** | 2025-12-02 | <details><summary>2 fig...</summary><p>2 figures, 10 tables. Published in Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[DeepFleet: Multi-Agent Foundation Models for Mobile Robots](https://arxiv.org/abs/2508.08574v2)** | 2025-11-21 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 2 tables</p></details> |
+| **[A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms](https://arxiv.org/abs/2511.16475v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual conference of the South African Institute of Computer Scientists and Information Technologists (SIACSIT 2025)</p></details> |
+| **[Toward Explainable Offline RL: Analyzing Representations in Intrinsically Motivated Decision Transformers](https://arxiv.org/abs/2506.13958v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted for poster presentation at the NeurIPS 2025 workshop "CogInterp: Interpreting Cognition in Deep Learning Models", San Diego, CA, USA</p></details> |
+| **[Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning](https://arxiv.org/abs/2511.13133v1)** | 2025-11-17 |  |
+| **[ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving](https://arxiv.org/abs/2511.11079v2)** | 2025-11-17 |  |
+| **[On the Convergence and Stability of Upside-Down Reinforcement Learning, Goal-Conditioned Supervised Learning, and Online Decision Transformers](https://arxiv.org/abs/2502.05672v2)** | 2025-11-11 | <details><summary>85 pa...</summary><p>85 pages in main text + 4 pages of references + 26 pages of appendices, 12 figures in main text + 2 figures in appendices; source code available at https://github.com/struplm/eUDRL-GCSL-ODT-Convergence-public</p></details> |
+| **[Unified token representations for sequential decision models](https://arxiv.org/abs/2510.21448v1)** | 2025-10-24 |  |
+| **[Out-of-distribution Tests Reveal Compositionality in Chess Transformers](https://arxiv.org/abs/2510.20783v1)** | 2025-10-23 |  |
+| **[Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning](https://arxiv.org/abs/2406.05064v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in Reinforcement Learning Conference 2025</p></details> |
+| **[Robust Adversarial Reinforcement Learning in Stochastic Games via Sequence Modeling](https://arxiv.org/abs/2510.11877v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by Reliable ML Workshop @ NeurIPS 2025</p></details> |
+| **[Maximum In-Support Return Modeling for Dynamic Recommendation with Language Model Prior](https://arxiv.org/abs/2510.12816v1)** | 2025-10-09 | CIKM'25 |
+| **[Adjusting the Output of Decision Transformer with Action Gradient](https://arxiv.org/abs/2510.05285v1)** | 2025-10-06 |  |
+| **[Prompt Tuning Decision Transformers with Structured and Scalable Bandits](https://arxiv.org/abs/2502.04979v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?](https://arxiv.org/abs/2412.03959v2)** | 2025-09-29 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE Transactions on Mobile Computing. Besides, Guanwen Xie and Jingzehua Xu contributed equally to this work</p></details> |
+| **[Double Check My Desired Return: Transformer with Target Alignment for Offline Reinforcement Learning](https://arxiv.org/abs/2508.16420v2)** | 2025-09-28 |  |
 
