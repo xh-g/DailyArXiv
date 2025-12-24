@@ -1,6 +1,7 @@
 name: Update
 
 on:
+  workflow_dispatch:  # Allow manual trigger
   label:
     types:
       - created # for test
@@ -38,8 +39,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: xh-g
+        email: github-actions[bot]@users.noreply.github.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
