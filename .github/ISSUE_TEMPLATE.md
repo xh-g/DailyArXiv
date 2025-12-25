@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 25, 2025
+title: Latest 15 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107v2)** | 2025-12-23 |  |
 | **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072v3)** | 2025-12-22 | <details><summary>New e...</summary><p>New experiments on VL retention and new ablations. 18 pages</p></details> |
 | **[QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2510.14836v2)** | 2025-12-22 |  |
 | **[cVLA: Towards Efficient Camera-Space VLAs](https://arxiv.org/abs/2507.02190v2)** | 2025-12-20 | <details><summary>20 pa...</summary><p>20 pages, 10 figures; CoRL 2025 Workshop on Generalizable Priors for Robot Manipulation</p></details> |
@@ -21,12 +22,6 @@ labels: documentation
 | **[WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://arxiv.org/abs/2512.11047v2)** | 2025-12-15 |  |
 | **[End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection](https://arxiv.org/abs/2511.00139v2)** | 2025-12-13 |  |
 | **[Atomic Action Slicing: Planner-Aligned Options for Generalist VLA Agents](https://arxiv.org/abs/2512.11584v1)** | 2025-12-12 | <details><summary>The 4...</summary><p>The 41st ACM/SIGAPP Symposium On Applied Computing</p></details> |
-| **[Towards Accessible Physical AI: LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control](https://arxiv.org/abs/2512.11921v1)** | 2025-12-11 |  |
-| **[HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](https://arxiv.org/abs/2512.09928v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project page: https://hifvla.github.io Github: https://github.com/OpenHelix-Team/HiF-VLA</p></details> |
-| **[PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention](https://arxiv.org/abs/2512.03724v2)** | 2025-12-08 |  |
-| **[Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](https://arxiv.org/abs/2512.07472v1)** | 2025-12-08 |  |
-| **[WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2512.11872v1)** | 2025-12-06 |  |
-| **[HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies](https://arxiv.org/abs/2512.05693v1)** | 2025-12-05 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -46,11 +41,6 @@ labels: documentation
 | **[MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys](https://arxiv.org/abs/2511.10108v1)** | 2025-11-13 |  |
 | **[Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://arxiv.org/abs/2511.08892v1)** | 2025-11-12 |  |
 | **[UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://arxiv.org/abs/2511.08521v1)** | 2025-11-11 | <details><summary>Techn...</summary><p>Technical Report. 24 figures, 37 pages. Website: https://univa.online/</p></details> |
-| **[Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](https://arxiv.org/abs/2510.08668v2)** | 2025-11-05 |  |
-| **[Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism](https://arxiv.org/abs/2510.26083v1)** | 2025-10-30 |  |
-| **[PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer](https://arxiv.org/abs/2509.26386v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation](https://arxiv.org/abs/2510.24093v1)** | 2025-10-28 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work. The last two authors are co-corresponding authors</p></details> |
-| **[Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents](https://arxiv.org/abs/2510.23691v1)** | 2025-10-27 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -70,11 +60,6 @@ labels: documentation
 | **[RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](https://arxiv.org/abs/2510.02695v2)** | 2025-12-08 |  |
 | **[Data Fusion-Enhanced Decision Transformer for Stable Cross-Domain Generalization](https://arxiv.org/abs/2511.09173v2)** | 2025-12-07 | 32 pages,4 figures |
 | **[State Diversity Matters in Offline Behavior Distillation](https://arxiv.org/abs/2512.06692v1)** | 2025-12-07 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables</p></details> |
-| **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v2)** | 2025-12-02 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
-| **[Dual-Robust Cross-Domain Offline Reinforcement Learning Against Dynamics Shifts](https://arxiv.org/abs/2512.02486v1)** | 2025-12-02 |  |
-| **[Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265v5)** | 2025-12-01 |  |
-| **[Symmetric Behavior Regularized Policy Optimization](https://arxiv.org/abs/2508.04225v3)** | 2025-12-01 |  |
-| **[Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets](https://arxiv.org/abs/2512.00536v1)** | 2025-11-29 | 29 pages, 2 figures |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
@@ -94,11 +79,6 @@ labels: documentation
 | **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v1)** | 2025-12-15 | 13 pages, 12 figures |
 | **[Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080v1)** | 2025-12-15 |  |
 | **[HACTS: a Human-As-Copilot Teleoperation System for Robot Learning](https://arxiv.org/abs/2503.24070v2)** | 2025-12-15 |  |
-| **[CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction](https://arxiv.org/abs/2512.11988v1)** | 2025-12-12 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables. Project page: https://nvlabs.github.io/CARI4D/</p></details> |
-| **[From "Thumbs Up" to "10 out of 10": Reconsidering Scalar Feedback in Interactive Reinforcement Learning](https://arxiv.org/abs/2311.10284v2)** | 2025-12-12 |  |
-| **[Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/abs/2506.16685v4)** | 2025-12-11 |  |
-| **[H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos](https://arxiv.org/abs/2512.09406v1)** | 2025-12-10 | 13 pages, 6 figures |
-| **[Towards Task-Oriented Flying: Framework, Infrastructure, and Principles](https://arxiv.org/abs/2504.15129v2)** | 2025-12-09 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
@@ -118,9 +98,4 @@ labels: documentation
 | **[Out-of-distribution Tests Reveal Compositionality in Chess Transformers](https://arxiv.org/abs/2510.20783v1)** | 2025-10-23 |  |
 | **[Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning](https://arxiv.org/abs/2406.05064v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in Reinforcement Learning Conference 2025</p></details> |
 | **[Robust Adversarial Reinforcement Learning in Stochastic Games via Sequence Modeling](https://arxiv.org/abs/2510.11877v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by Reliable ML Workshop @ NeurIPS 2025</p></details> |
-| **[Maximum In-Support Return Modeling for Dynamic Recommendation with Language Model Prior](https://arxiv.org/abs/2510.12816v1)** | 2025-10-09 | CIKM'25 |
-| **[Adjusting the Output of Decision Transformer with Action Gradient](https://arxiv.org/abs/2510.05285v1)** | 2025-10-06 |  |
-| **[Prompt Tuning Decision Transformers with Structured and Scalable Bandits](https://arxiv.org/abs/2502.04979v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?](https://arxiv.org/abs/2412.03959v2)** | 2025-09-29 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE Transactions on Mobile Computing. Besides, Guanwen Xie and Jingzehua Xu contributed equally to this work</p></details> |
-| **[Double Check My Desired Return: Transformer with Target Alignment for Offline Reinforcement Learning](https://arxiv.org/abs/2508.16420v2)** | 2025-09-28 |  |
 
