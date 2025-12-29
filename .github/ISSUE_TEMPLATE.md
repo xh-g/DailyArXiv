@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with a Generalist Foundation Model and Multimodal Database](https://arxiv.org/abs/2512.21652v1)** | 2025-12-25 | <details><summary>Githu...</summary><p>Github: https://github.com/wangziblake/CardioMM_MMCMR-427K</p></details> |
 | **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v1)** | 2025-12-18 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
 | **[Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models](https://arxiv.org/abs/2512.13072v1)** | 2025-12-15 |  |
 | **[From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production](https://arxiv.org/abs/2510.23856v2)** | 2025-12-09 | <details><summary>AAAI ...</summary><p>AAAI Conference on Artificial Intelligence</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/abs/2511.08151v2)** | 2025-11-17 | <details><summary>1. To...</summary><p>1. To ensure result rigor, the model outputs require further evaluation by human experts. 2. The results may affect our conclusions and methods, thus necessitating a more detailed review. 3. We anticipate subsequent revisions may be substantial, potentially involving major adjustments to the methodology. Given the uncertainty surrounding the revision process, we decide to request a withdrawal</p></details> |
 | **[MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys](https://arxiv.org/abs/2511.10108v1)** | 2025-11-13 |  |
 | **[Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://arxiv.org/abs/2511.08892v1)** | 2025-11-12 |  |
-| **[UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://arxiv.org/abs/2511.08521v1)** | 2025-11-11 | <details><summary>Techn...</summary><p>Technical Report. 24 figures, 37 pages. Website: https://univa.online/</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
 | **[Sample-Efficient Policy Constraint Offline Deep Reinforcement Learning based on Sample Filtering](https://arxiv.org/abs/2512.20115v1)** | 2025-12-23 |  |
 | **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
 | **[Diffusion Self-Weighted Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2505.18345v2)** | 2025-12-23 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR). 21 pages, 6 figures</p></details> |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Scalable Offline Model-Based RL with Action Chunks](https://arxiv.org/abs/2512.08108v1)** | 2025-12-08 | 22 pages, 7 figures |
 | **[RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](https://arxiv.org/abs/2510.02695v2)** | 2025-12-08 |  |
 | **[Data Fusion-Enhanced Decision Transformer for Stable Cross-Domain Generalization](https://arxiv.org/abs/2511.09173v2)** | 2025-12-07 | 32 pages,4 figures |
-| **[State Diversity Matters in Offline Behavior Distillation](https://arxiv.org/abs/2512.06692v1)** | 2025-12-07 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/abs/2506.16685v5)** | 2025-12-25 |  |
 | **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
 | **[Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](https://arxiv.org/abs/2512.19402v1)** | 2025-12-22 |  |
 | **[TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation](https://arxiv.org/abs/2512.19390v1)** | 2025-12-22 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840v1)** | 2025-12-17 | 29 pages, 16 figures |
 | **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v1)** | 2025-12-15 | 13 pages, 12 figures |
 | **[Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080v1)** | 2025-12-15 |  |
-| **[HACTS: a Human-As-Copilot Teleoperation System for Robot Learning](https://arxiv.org/abs/2503.24070v2)** | 2025-12-15 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
