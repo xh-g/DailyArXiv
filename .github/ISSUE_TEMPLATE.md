@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 01, 2026
+title: Latest 15 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots](https://arxiv.org/abs/2512.24673v1)** | 2025-12-31 |  |
+| **[Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning](https://arxiv.org/abs/2512.24426v1)** | 2025-12-30 |  |
 | **[Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone](https://arxiv.org/abs/2512.22615v1)** | 2025-12-27 |  |
 | **[VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models](https://arxiv.org/abs/2512.22539v1)** | 2025-12-27 |  |
 | **[STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107v2)** | 2025-12-23 |  |
@@ -20,15 +22,13 @@ labels: documentation
 | **[Phantom Menace: Exploring and Enhancing the Robustness of VLA Models Against Physical Sensor Attacks](https://arxiv.org/abs/2511.10008v2)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 main track</p></details> |
 | **[GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](https://arxiv.org/abs/2512.16811v1)** | 2025-12-18 |  |
 | **[EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models](https://arxiv.org/abs/2512.14666v1)** | 2025-12-16 | 15 pages |
-| **[Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model](https://arxiv.org/abs/2512.14031v1)** | 2025-12-16 |  |
-| **[Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080v1)** | 2025-12-15 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v2)** | 2025-12-30 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
 | **[Reddit Deplatforming and Toxicity Dynamics on Generalist Voat Communities](https://arxiv.org/abs/2512.22348v1)** | 2025-12-26 |  |
 | **[Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with a Generalist Foundation Model and Multimodal Database](https://arxiv.org/abs/2512.21652v1)** | 2025-12-25 | <details><summary>Githu...</summary><p>Github: https://github.com/wangziblake/CardioMM_MMCMR-427K</p></details> |
-| **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v1)** | 2025-12-18 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
 | **[Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models](https://arxiv.org/abs/2512.13072v1)** | 2025-12-15 |  |
 | **[From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production](https://arxiv.org/abs/2510.23856v2)** | 2025-12-09 | <details><summary>AAAI ...</summary><p>AAAI Conference on Artificial Intelligence</p></details> |
 | **[SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797v1)** | 2025-12-04 |  |
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v1)** | 2025-12-31 |  |
+| **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762v3)** | 2025-12-30 |  |
 | **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v3)** | 2025-12-27 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
 | **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
 | **[Masking Teacher and Reinforcing Student for Distilling Vision-Language Models](https://arxiv.org/abs/2512.22238v1)** | 2025-12-23 |  |
@@ -58,12 +60,11 @@ labels: documentation
 | **[ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts](https://arxiv.org/abs/2511.23442v2)** | 2025-12-16 |  |
 | **[PrivORL: Differentially Private Synthetic Dataset for Offline Reinforcement Learning](https://arxiv.org/abs/2512.07342v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted at NDSS 2026; code available at https://github.com/2019ChenGong/PrivORL</p></details> |
 | **[V-OCBF: Learning Safety Filters from Offline Data via Value-Guided Offline Control Barrier Functions](https://arxiv.org/abs/2512.10822v1)** | 2025-12-11 | <details><summary>23 pa...</summary><p>23 pages, 8 figure, 7 tables</p></details> |
-| **[Latent Action World Models for Control with Unlabeled Trajectories](https://arxiv.org/abs/2512.10016v1)** | 2025-12-10 |  |
-| **[Scalable Offline Model-Based RL with Action Chunks](https://arxiv.org/abs/2512.08108v1)** | 2025-12-08 | 22 pages, 7 figures |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v2)** | 2025-12-30 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
 | **[Interactive Robot Programming for Surface Finishing via Task-Centric Mixed Reality Interfaces](https://arxiv.org/abs/2512.23616v1)** | 2025-12-29 | <details><summary>Curre...</summary><p>Currently under review at Intelligent Service Robotics</p></details> |
 | **[How Much Progress Did I Make? An Unexplored Human Feedback Signal for Teaching Robots](https://arxiv.org/abs/2407.06459v2)** | 2025-12-29 | 8 pages. RO-MAN 2024 |
 | **[Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments](https://arxiv.org/abs/2510.23928v3)** | 2025-12-28 | <details><summary>Accep...</summary><p>Accepted at ROBOVIS 2026</p></details> |
@@ -77,7 +78,6 @@ labels: documentation
 | **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v1)** | 2025-12-19 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
 | **[Learning-Based Safety-Aware Task Scheduling for Efficient Human-Robot Collaboration](https://arxiv.org/abs/2512.17560v1)** | 2025-12-19 | 8 pages |
 | **[Mitty: Diffusion-based Human-to-Robot Video Generation](https://arxiv.org/abs/2512.17253v1)** | 2025-12-19 |  |
-| **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v1)** | 2025-12-18 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
 | **[CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion](https://arxiv.org/abs/2512.16023v1)** | 2025-12-17 | 9 pages, 7 figures |
 
 ## decision transformer
