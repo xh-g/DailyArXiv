@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 05, 2026
+title: Latest 15 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,7 @@ labels: documentation
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Online Finetuning Decision Transformers with Pure RL Gradients](https://arxiv.org/abs/2601.00167v1)** | 2026-01-01 |  |
 | **[Quantum Decision Transformers (QDT): Synergistic Entanglement and Interference for Offline Reinforcement Learning](https://arxiv.org/abs/2512.14726v1)** | 2025-12-09 |  |
 | **[Benchmarking Offline Multi-Objective Reinforcement Learning in Critical Care](https://arxiv.org/abs/2512.08012v1)** | 2025-12-08 |  |
 | **[Data Fusion-Enhanced Decision Transformer for Stable Cross-Domain Generalization](https://arxiv.org/abs/2511.09173v2)** | 2025-12-07 | 32 pages,4 figures |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Unified token representations for sequential decision models](https://arxiv.org/abs/2510.21448v1)** | 2025-10-24 |  |
 | **[Out-of-distribution Tests Reveal Compositionality in Chess Transformers](https://arxiv.org/abs/2510.20783v1)** | 2025-10-23 |  |
 | **[Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning](https://arxiv.org/abs/2406.05064v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in Reinforcement Learning Conference 2025</p></details> |
-| **[Robust Adversarial Reinforcement Learning in Stochastic Games via Sequence Modeling](https://arxiv.org/abs/2510.11877v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by Reliable ML Workshop @ NeurIPS 2025</p></details> |
 
