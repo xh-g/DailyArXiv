@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Validating Generalist Robots with Situation Calculus and STL Falsification](https://arxiv.org/abs/2601.03038v1)** | 2026-01-06 |  |
+| **[NitroGen: An Open Foundation Model for Generalist Gaming Agents](https://arxiv.org/abs/2601.02427v1)** | 2026-01-04 | 16 pages, 7 figures |
 | **[Reasoning Over Recall: Evaluating the Efficacy of Generalist Architectures vs. Specialized Fine-Tunes in RAG-Based Mental Health Dialogue Systems](https://arxiv.org/abs/2601.01341v1)** | 2026-01-04 |  |
 | **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v2)** | 2025-12-30 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
 | **[Reddit Deplatforming and Toxicity Dynamics on Generalist Voat Communities](https://arxiv.org/abs/2512.22348v1)** | 2025-12-26 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[UMind-VL: A Generalist Ultrasound Vision-Language Model for Unified Grounded Perception and Comprehensive Interpretation](https://arxiv.org/abs/2511.22256v1)** | 2025-11-27 |  |
 | **[Health system learning achieves generalist neuroimaging models](https://arxiv.org/abs/2511.18640v1)** | 2025-11-23 | <details><summary>53 pa...</summary><p>53 pages, 4 main figures, 10 extended data figures</p></details> |
 | **[Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots](https://arxiv.org/abs/2511.00917v2)** | 2025-11-18 | <details><summary>Plan ...</summary><p>Plan to resubmit after significant revisions</p></details> |
-| **[Generalist Foundation Models Are Not Clinical Enough for Hospital Operations](https://arxiv.org/abs/2511.13703v1)** | 2025-11-17 |  |
-| **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/abs/2511.08151v2)** | 2025-11-17 | <details><summary>1. To...</summary><p>1. To ensure result rigor, the model outputs require further evaluation by human experts. 2. The results may affect our conclusions and methods, thus necessitating a more detailed review. 3. We anticipate subsequent revisions may be substantial, potentially involving major adjustments to the methodology. Given the uncertainty surrounding the revision process, we decide to request a withdrawal</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies](https://arxiv.org/abs/2601.02754v1)** | 2026-01-06 | <details><summary>11pag...</summary><p>11pages, 5figures, In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p></details> |
 | **[Online Finetuning Decision Transformers with Pure RL Gradients](https://arxiv.org/abs/2601.00167v1)** | 2026-01-01 |  |
 | **[Quantum Decision Transformers (QDT): Synergistic Entanglement and Interference for Offline Reinforcement Learning](https://arxiv.org/abs/2512.14726v1)** | 2025-12-09 |  |
 | **[Benchmarking Offline Multi-Objective Reinforcement Learning in Critical Care](https://arxiv.org/abs/2512.08012v1)** | 2025-12-08 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[On the Convergence and Stability of Upside-Down Reinforcement Learning, Goal-Conditioned Supervised Learning, and Online Decision Transformers](https://arxiv.org/abs/2502.05672v2)** | 2025-11-11 | <details><summary>85 pa...</summary><p>85 pages in main text + 4 pages of references + 26 pages of appendices, 12 figures in main text + 2 figures in appendices; source code available at https://github.com/struplm/eUDRL-GCSL-ODT-Convergence-public</p></details> |
 | **[Unified token representations for sequential decision models](https://arxiv.org/abs/2510.21448v1)** | 2025-10-24 |  |
 | **[Out-of-distribution Tests Reveal Compositionality in Chess Transformers](https://arxiv.org/abs/2510.20783v1)** | 2025-10-23 |  |
-| **[Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning](https://arxiv.org/abs/2406.05064v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in Reinforcement Learning Conference 2025</p></details> |
 
