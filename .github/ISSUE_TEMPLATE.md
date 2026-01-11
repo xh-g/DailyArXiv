@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 09, 2026
+title: Latest 15 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving and Accelerating Offline RL in Large Discrete Action Spaces with Structured Policy Initialization](https://arxiv.org/abs/2601.04441v1)** | 2026-01-07 |  |
+| **[BraVE: Offline Reinforcement Learning for Discrete Combinatorial Action Spaces](https://arxiv.org/abs/2410.21151v3)** | 2026-01-07 |  |
 | **[dataRLsec: Safety, Security, and Reliability With Robust Offline Reinforcement Learning for DPAs](https://arxiv.org/abs/2601.01289v1)** | 2026-01-03 | 10 pages, 3 figures |
 | **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v1)** | 2025-12-31 |  |
 | **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762v3)** | 2025-12-30 |  |
@@ -58,12 +60,13 @@ labels: documentation
 | **[CORE: Compensable Reward as a Catalyst for Improving Offline RL in Wireless Networks](https://arxiv.org/abs/2512.19671v1)** | 2025-12-22 |  |
 | **[MOORL: A Framework for Integrating Offline-Online Reinforcement Learning](https://arxiv.org/abs/2506.09574v2)** | 2025-12-22 |  |
 | **[From Novelty to Imitation: Self-Distilled Rewards for Offline Reinforcement Learning](https://arxiv.org/abs/2507.12815v2)** | 2025-12-22 |  |
-| **[Offline Reinforcement Learning for End-to-End Autonomous Driving](https://arxiv.org/abs/2512.18662v1)** | 2025-12-21 | 15 pages |
-| **[ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts](https://arxiv.org/abs/2511.23442v2)** | 2025-12-16 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164v4)** | 2026-01-08 | <details><summary>See p...</summary><p>See project website for videos: https://physicalintelligence.company/blog/pi0 Published in RSS 2025</p></details> |
+| **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v2)** | 2026-01-08 |  |
+| **[UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation](https://arxiv.org/abs/2601.04629v1)** | 2026-01-08 |  |
 | **[Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot](https://arxiv.org/abs/2601.02078v1)** | 2026-01-05 |  |
 | **[Learning Diffusion Policy from Primitive Skills for Robot Manipulation](https://arxiv.org/abs/2601.01948v1)** | 2026-01-05 | Accepted to AAAI2026 |
 | **[H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920v3)** | 2026-01-04 |  |
@@ -76,9 +79,6 @@ labels: documentation
 | **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
 | **[Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](https://arxiv.org/abs/2512.19402v1)** | 2025-12-22 |  |
 | **[TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation](https://arxiv.org/abs/2512.19390v1)** | 2025-12-22 |  |
-| **[Translating Flow to Policy via Hindsight Online Imitation](https://arxiv.org/abs/2512.19269v1)** | 2025-12-22 |  |
-| **[SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning](https://arxiv.org/abs/2512.18068v1)** | 2025-12-19 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables</p></details> |
-| **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v1)** | 2025-12-19 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
