@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,8 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810v1)** | 2026-01-09 | 15 pages |
+| **[iTeach: Interactive Teaching for Robot Perception using Mixed Reality](https://arxiv.org/abs/2410.09072v3)** | 2026-01-09 |  |
 | **[$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164v4)** | 2026-01-08 | <details><summary>See p...</summary><p>See project website for videos: https://physicalintelligence.company/blog/pi0 Published in RSS 2025</p></details> |
 | **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v2)** | 2026-01-08 |  |
 | **[UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation](https://arxiv.org/abs/2601.04629v1)** | 2026-01-08 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[EMMA: Scaling Mobile Manipulation via Egocentric Human Data](https://arxiv.org/abs/2509.04443v3)** | 2025-12-27 |  |
 | **[Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections](https://arxiv.org/abs/2506.16685v5)** | 2025-12-25 |  |
 | **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
-| **[Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](https://arxiv.org/abs/2512.19402v1)** | 2025-12-22 |  |
-| **[TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation](https://arxiv.org/abs/2512.19390v1)** | 2025-12-22 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
