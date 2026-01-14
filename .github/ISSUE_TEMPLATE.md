@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v1)** | 2026-01-11 |  |
+| **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v2)** | 2026-01-13 |  |
 | **[Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone](https://arxiv.org/abs/2512.22615v2)** | 2026-01-04 | <details><summary>Add r...</summary><p>Add real-world experiments</p></details> |
 | **[VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots](https://arxiv.org/abs/2512.24673v1)** | 2025-12-31 |  |
 | **[Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning](https://arxiv.org/abs/2512.24426v1)** | 2025-12-30 |  |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STO-RL: Offline RL under Sparse Rewards via LLM-Guided Subgoal Temporal Order](https://arxiv.org/abs/2601.08107v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
 | **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762v4)** | 2026-01-12 |  |
 | **[Offline Meta-Reinforcement Learning with Flow-Based Task Inference and Adaptive Correction of Feature Overgeneralization](https://arxiv.org/abs/2601.07164v1)** | 2026-01-12 |  |
 | **[Improving and Accelerating Offline RL in Large Discrete Action Spaces with Structured Policy Initialization](https://arxiv.org/abs/2601.04441v1)** | 2026-01-07 |  |
@@ -59,12 +60,11 @@ labels: documentation
 | **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
 | **[Diffusion Self-Weighted Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2505.18345v2)** | 2025-12-23 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR). 21 pages, 6 figures</p></details> |
 | **[CORE: Compensable Reward as a Catalyst for Improving Offline RL in Wireless Networks](https://arxiv.org/abs/2512.19671v1)** | 2025-12-22 |  |
-| **[MOORL: A Framework for Integrating Offline-Online Reinforcement Learning](https://arxiv.org/abs/2506.09574v2)** | 2025-12-22 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v1)** | 2026-01-11 |  |
+| **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v2)** | 2026-01-13 |  |
 | **[SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810v1)** | 2026-01-09 | 15 pages |
 | **[iTeach: Interactive Teaching for Robot Perception using Mixed Reality](https://arxiv.org/abs/2410.09072v3)** | 2026-01-09 |  |
 | **[$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164v4)** | 2026-01-08 | <details><summary>See p...</summary><p>See project website for videos: https://physicalintelligence.company/blog/pi0 Published in RSS 2025</p></details> |
