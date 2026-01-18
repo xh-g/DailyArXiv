@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeFlow: Decoupling Manifold Modeling and Value Maximization for Offline Policy Extraction](https://arxiv.org/abs/2601.10471v1)** | 2026-01-15 | 13 pages, 3 figures |
+| **[Advancing Safe Mechanical Ventilation Using Offline RL With Hybrid Actions and Clinically Aligned Rewards](https://arxiv.org/abs/2506.14375v2)** | 2026-01-15 | Accepted to AAAI-26 |
 | **[STO-RL: Offline RL under Sparse Rewards via LLM-Guided Subgoal Temporal Order](https://arxiv.org/abs/2601.08107v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
 | **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762v4)** | 2026-01-12 |  |
 | **[Offline Meta-Reinforcement Learning with Flow-Based Task Inference and Adaptive Correction of Feature Overgeneralization](https://arxiv.org/abs/2601.07164v1)** | 2026-01-12 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Masking Teacher and Reinforcing Student for Distilling Vision-Language Models](https://arxiv.org/abs/2512.22238v1)** | 2025-12-23 |  |
 | **[Sample-Efficient Policy Constraint Offline Deep Reinforcement Learning based on Sample Filtering](https://arxiv.org/abs/2512.20115v1)** | 2025-12-23 |  |
 | **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
-| **[Diffusion Self-Weighted Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2505.18345v2)** | 2025-12-23 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR). 21 pages, 6 figures</p></details> |
-| **[CORE: Compensable Reward as a Catalyst for Improving Offline RL in Wireless Networks](https://arxiv.org/abs/2512.19671v1)** | 2025-12-22 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DecisionLLM: Large Language Models for Long Sequence Decision Exploration](https://arxiv.org/abs/2601.10148v1)** | 2026-01-15 |  |
 | **[Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies](https://arxiv.org/abs/2601.02754v1)** | 2026-01-06 | <details><summary>11pag...</summary><p>11pages, 5figures, In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p></details> |
 | **[Online Finetuning Decision Transformers with Pure RL Gradients](https://arxiv.org/abs/2601.00167v1)** | 2026-01-01 |  |
 | **[Quantum Decision Transformers (QDT): Synergistic Entanglement and Interference for Offline Reinforcement Learning](https://arxiv.org/abs/2512.14726v1)** | 2025-12-09 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving](https://arxiv.org/abs/2511.11079v2)** | 2025-11-17 |  |
 | **[On the Convergence and Stability of Upside-Down Reinforcement Learning, Goal-Conditioned Supervised Learning, and Online Decision Transformers](https://arxiv.org/abs/2502.05672v2)** | 2025-11-11 | <details><summary>85 pa...</summary><p>85 pages in main text + 4 pages of references + 26 pages of appendices, 12 figures in main text + 2 figures in appendices; source code available at https://github.com/struplm/eUDRL-GCSL-ODT-Convergence-public</p></details> |
 | **[Unified token representations for sequential decision models](https://arxiv.org/abs/2510.21448v1)** | 2025-10-24 |  |
-| **[Out-of-distribution Tests Reveal Compositionality in Chess Transformers](https://arxiv.org/abs/2510.20783v1)** | 2025-10-23 |  |
 
