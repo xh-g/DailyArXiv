@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 19, 2026
+title: Latest 15 Papers - January 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2601.11404v1)** | 2026-01-16 |  |
+| **[VLAgents: A Policy Server for Efficient VLA Inference](https://arxiv.org/abs/2601.11250v1)** | 2026-01-16 |  |
 | **[What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789v4)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v2)** | 2026-01-13 |  |
 | **[Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone](https://arxiv.org/abs/2512.22615v2)** | 2026-01-04 | <details><summary>Add r...</summary><p>Add real-world experiments</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[cVLA: Towards Efficient Camera-Space VLAs](https://arxiv.org/abs/2507.02190v2)** | 2025-12-20 | <details><summary>20 pa...</summary><p>20 pages, 10 figures; CoRL 2025 Workshop on Generalizable Priors for Robot Manipulation</p></details> |
 | **[Robotic VLA Benefits from Joint Learning with Motion Image Diffusion](https://arxiv.org/abs/2512.18007v1)** | 2025-12-19 | <details><summary>Websi...</summary><p>Website: https://vla-motion.github.io/</p></details> |
 | **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v2)** | 2025-12-19 | <details><summary>Revis...</summary><p>Revised Introduction, Related Work, and Appendix. Additional minor notational and grammatical fixes</p></details> |
-| **[VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments](https://arxiv.org/abs/2512.15258v2)** | 2025-12-19 |  |
-| **[Phantom Menace: Exploring and Enhancing the Robustness of VLA Models Against Physical Sensor Attacks](https://arxiv.org/abs/2511.10008v2)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 main track</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency](https://arxiv.org/abs/2601.11352v1)** | 2026-01-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables and unpublished</p></details> |
+| **[A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2306.07541v3)** | 2026-01-16 | <details><summary>The f...</summary><p>The final published version is available at IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/11267513/. We correct the GitHub repo url in this version</p></details> |
 | **[DeFlow: Decoupling Manifold Modeling and Value Maximization for Offline Policy Extraction](https://arxiv.org/abs/2601.10471v1)** | 2026-01-15 | 13 pages, 3 figures |
 | **[Advancing Safe Mechanical Ventilation Using Offline RL With Hybrid Actions and Clinically Aligned Rewards](https://arxiv.org/abs/2506.14375v2)** | 2026-01-15 | Accepted to AAAI-26 |
 | **[STO-RL: Offline RL under Sparse Rewards via LLM-Guided Subgoal Temporal Order](https://arxiv.org/abs/2601.08107v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
@@ -58,14 +60,15 @@ labels: documentation
 | **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
 | **[Horizon Reduction as Information Loss in Offline Reinforcement Learning](https://arxiv.org/abs/2601.00831v1)** | 2025-12-25 | 13 pages, 3 figures |
 | **[Masking Teacher and Reinforcing Student for Distilling Vision-Language Models](https://arxiv.org/abs/2512.22238v1)** | 2025-12-23 |  |
-| **[Sample-Efficient Policy Constraint Offline Deep Reinforcement Learning based on Sample Filtering](https://arxiv.org/abs/2512.20115v1)** | 2025-12-23 |  |
-| **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v3)** | 2025-12-23 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents](https://arxiv.org/abs/2601.11421v1)** | 2026-01-16 |  |
+| **[The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning](https://arxiv.org/abs/2601.11394v1)** | 2026-01-16 |  |
+| **[X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning](https://arxiv.org/abs/2601.11269v1)** | 2026-01-16 |  |
+| **[SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810v2)** | 2026-01-16 | 15 pages |
 | **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v2)** | 2026-01-13 |  |
-| **[SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810v1)** | 2026-01-09 | 15 pages |
 | **[iTeach: Interactive Teaching for Robot Perception using Mixed Reality](https://arxiv.org/abs/2410.09072v3)** | 2026-01-09 |  |
 | **[$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164v4)** | 2026-01-08 | <details><summary>See p...</summary><p>See project website for videos: https://physicalintelligence.company/blog/pi0 Published in RSS 2025</p></details> |
 | **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v2)** | 2026-01-08 |  |
@@ -76,9 +79,6 @@ labels: documentation
 | **[H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920v3)** | 2026-01-04 |  |
 | **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v2)** | 2025-12-30 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
 | **[Interactive Robot Programming for Surface Finishing via Task-Centric Mixed Reality Interfaces](https://arxiv.org/abs/2512.23616v1)** | 2025-12-29 | <details><summary>Curre...</summary><p>Currently under review at Intelligent Service Robotics</p></details> |
-| **[How Much Progress Did I Make? An Unexplored Human Feedback Signal for Teaching Robots](https://arxiv.org/abs/2407.06459v2)** | 2025-12-29 | 8 pages. RO-MAN 2024 |
-| **[Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments](https://arxiv.org/abs/2510.23928v3)** | 2025-12-28 | <details><summary>Accep...</summary><p>Accepted at ROBOVIS 2026</p></details> |
-| **[EMMA: Scaling Mobile Manipulation via Egocentric Human Data](https://arxiv.org/abs/2509.04443v3)** | 2025-12-27 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
