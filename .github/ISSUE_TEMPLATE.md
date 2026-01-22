@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DroneVLA: VLA based Aerial Manipulation](https://arxiv.org/abs/2601.13809v1)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been accepted for publication at LBR of HRI 2026 conference</p></details> |
+| **[TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945v1)** | 2026-01-21 |  |
+| **[DroneVLA: VLA based Aerial Manipulation](https://arxiv.org/abs/2601.13809v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at LBR of HRI 2026 conference</p></details> |
 | **[Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving](https://arxiv.org/abs/2601.12142v1)** | 2026-01-17 | Accepted by IV |
 | **[Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710v2)** | 2026-01-17 |  |
 | **[ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2601.11404v1)** | 2026-01-16 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107v2)** | 2025-12-23 |  |
 | **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072v3)** | 2025-12-22 | <details><summary>New e...</summary><p>New experiments on VL retention and new ablations. 18 pages</p></details> |
 | **[Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA](https://arxiv.org/abs/2512.22208v1)** | 2025-12-22 |  |
-| **[QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2510.14836v2)** | 2025-12-22 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PCL-Reasoner-V1.5: Advancing Math Reasoning with Offline Reinforcement Learning](https://arxiv.org/abs/2601.14716v1)** | 2026-01-21 |  |
 | **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v3)** | 2026-01-20 |  |
 | **[DeFlow: Decoupling Manifold Modeling and Value Maximization for Offline Policy Extraction](https://arxiv.org/abs/2601.10471v2)** | 2026-01-17 | 14 pages, 3 figures |
 | **[Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency](https://arxiv.org/abs/2601.11352v1)** | 2026-01-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables and unpublished</p></details> |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v1)** | 2025-12-31 |  |
 | **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v3)** | 2025-12-27 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
 | **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
-| **[Horizon Reduction as Information Loss in Offline Reinforcement Learning](https://arxiv.org/abs/2601.00831v1)** | 2025-12-25 | 13 pages, 3 figures |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniCon: A Unified System for Efficient Robot Learning Transfers](https://arxiv.org/abs/2601.14617v1)** | 2026-01-21 | <details><summary>in su...</summary><p>in submission, under review</p></details> |
 | **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v2)** | 2026-01-20 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
 | **[CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction](https://arxiv.org/abs/2512.11988v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables. Project page: https://nvlabs.github.io/CARI4D/</p></details> |
 | **[Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/abs/2601.12993v1)** | 2026-01-19 | 44 pages |
@@ -78,11 +79,12 @@ labels: documentation
 | **[$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164v4)** | 2026-01-08 | <details><summary>See p...</summary><p>See project website for videos: https://physicalintelligence.company/blog/pi0 Published in RSS 2025</p></details> |
 | **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v2)** | 2026-01-08 |  |
 | **[UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation](https://arxiv.org/abs/2601.04629v1)** | 2026-01-08 |  |
-| **[Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot](https://arxiv.org/abs/2601.02078v1)** | 2026-01-05 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[P-MOSS: Scheduling Main-Memory Indexes Over NUMA Servers Using Next Token Prediction](https://arxiv.org/abs/2411.02933v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to SIGMOD'26</p></details> |
+| **[Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree](https://arxiv.org/abs/2601.14523v1)** | 2026-01-20 |  |
 | **[DecisionLLM: Large Language Models for Long Sequence Decision Exploration](https://arxiv.org/abs/2601.10148v1)** | 2026-01-15 |  |
 | **[Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies](https://arxiv.org/abs/2601.02754v1)** | 2026-01-06 | <details><summary>11pag...</summary><p>11pages, 5figures, In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p></details> |
 | **[Online Finetuning Decision Transformers with Pure RL Gradients](https://arxiv.org/abs/2601.00167v1)** | 2026-01-01 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Toward Explainable Offline RL: Analyzing Representations in Intrinsically Motivated Decision Transformers](https://arxiv.org/abs/2506.13958v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted for poster presentation at the NeurIPS 2025 workshop "CogInterp: Interpreting Cognition in Deep Learning Models", San Diego, CA, USA</p></details> |
 | **[Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning](https://arxiv.org/abs/2511.13133v1)** | 2025-11-17 |  |
 | **[ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving](https://arxiv.org/abs/2511.11079v2)** | 2025-11-17 |  |
-| **[On the Convergence and Stability of Upside-Down Reinforcement Learning, Goal-Conditioned Supervised Learning, and Online Decision Transformers](https://arxiv.org/abs/2502.05672v2)** | 2025-11-11 | <details><summary>85 pa...</summary><p>85 pages in main text + 4 pages of references + 26 pages of appendices, 12 figures in main text + 2 figures in appendices; source code available at https://github.com/struplm/eUDRL-GCSL-ODT-Convergence-public</p></details> |
-| **[Unified token representations for sequential decision models](https://arxiv.org/abs/2510.21448v1)** | 2025-10-24 |  |
 
