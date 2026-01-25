@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 23, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,8 +45,9 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v4)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2025</p></details> |
+| **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
 | **[PCL-Reasoner-V1.5: Advancing Math Reasoning with Offline Reinforcement Learning](https://arxiv.org/abs/2601.14716v1)** | 2026-01-21 |  |
-| **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v3)** | 2026-01-20 |  |
 | **[DeFlow: Decoupling Manifold Modeling and Value Maximization for Offline Policy Extraction](https://arxiv.org/abs/2601.10471v2)** | 2026-01-17 | 14 pages, 3 figures |
 | **[Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency](https://arxiv.org/abs/2601.11352v1)** | 2026-01-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables and unpublished</p></details> |
 | **[A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2306.07541v3)** | 2026-01-16 | <details><summary>The f...</summary><p>The final published version is available at IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/11267513/. We correct the GitHub repo url in this version</p></details> |
@@ -59,11 +60,11 @@ labels: documentation
 | **[dataRLsec: Safety, Security, and Reliability With Robust Offline Reinforcement Learning for DPAs](https://arxiv.org/abs/2601.01289v1)** | 2026-01-03 | 10 pages, 3 figures |
 | **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v1)** | 2025-12-31 |  |
 | **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v3)** | 2025-12-27 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
-| **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Off-Policy Actor-Critic with Sigmoid-Bounded Entropy for Real-World Robot Learning](https://arxiv.org/abs/2601.15761v1)** | 2026-01-22 | <details><summary>7 pag...</summary><p>7 pages main text 2 page reference</p></details> |
 | **[UniCon: A Unified System for Efficient Robot Learning Transfers](https://arxiv.org/abs/2601.14617v1)** | 2026-01-21 | <details><summary>in su...</summary><p>in submission, under review</p></details> |
 | **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v2)** | 2026-01-20 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
 | **[CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction](https://arxiv.org/abs/2512.11988v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables. Project page: https://nvlabs.github.io/CARI4D/</p></details> |
@@ -78,11 +79,11 @@ labels: documentation
 | **[iTeach: Interactive Teaching for Robot Perception using Mixed Reality](https://arxiv.org/abs/2410.09072v3)** | 2026-01-09 |  |
 | **[$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164v4)** | 2026-01-08 | <details><summary>See p...</summary><p>See project website for videos: https://physicalintelligence.company/blog/pi0 Published in RSS 2025</p></details> |
 | **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v2)** | 2026-01-08 |  |
-| **[UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation](https://arxiv.org/abs/2601.04629v1)** | 2026-01-08 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
 | **[P-MOSS: Scheduling Main-Memory Indexes Over NUMA Servers Using Next Token Prediction](https://arxiv.org/abs/2411.02933v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to SIGMOD'26</p></details> |
 | **[Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree](https://arxiv.org/abs/2601.14523v1)** | 2026-01-20 |  |
 | **[DecisionLLM: Large Language Models for Long Sequence Decision Exploration](https://arxiv.org/abs/2601.10148v1)** | 2026-01-15 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms](https://arxiv.org/abs/2511.16475v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual conference of the South African Institute of Computer Scientists and Information Technologists (SIACSIT 2025)</p></details> |
 | **[Toward Explainable Offline RL: Analyzing Representations in Intrinsically Motivated Decision Transformers](https://arxiv.org/abs/2506.13958v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted for poster presentation at the NeurIPS 2025 workshop "CogInterp: Interpreting Cognition in Deep Learning Models", San Diego, CA, USA</p></details> |
 | **[Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning](https://arxiv.org/abs/2511.13133v1)** | 2025-11-17 |  |
-| **[ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving](https://arxiv.org/abs/2511.11079v2)** | 2025-11-17 |  |
 
