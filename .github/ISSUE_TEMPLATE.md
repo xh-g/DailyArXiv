@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v1)** | 2026-01-26 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/</p></details> |
 | **[TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945v1)** | 2026-01-21 |  |
 | **[DroneVLA: VLA based Aerial Manipulation](https://arxiv.org/abs/2601.13809v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at LBR of HRI 2026 conference</p></details> |
 | **[Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving](https://arxiv.org/abs/2601.12142v1)** | 2026-01-17 | Accepted by IV |
@@ -21,11 +22,12 @@ labels: documentation
 | **[VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models](https://arxiv.org/abs/2512.22539v1)** | 2025-12-27 |  |
 | **[STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107v2)** | 2025-12-23 |  |
 | **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072v3)** | 2025-12-22 | <details><summary>New e...</summary><p>New experiments on VL retention and new ablations. 18 pages</p></details> |
-| **[Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA](https://arxiv.org/abs/2512.22208v1)** | 2025-12-22 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TSRBench: A Comprehensive Multi-task Multi-modal Time Series Reasoning Benchmark for Generalist Models](https://arxiv.org/abs/2601.18744v1)** | 2026-01-26 |  |
+| **[From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images](https://arxiv.org/abs/2601.17934v1)** | 2026-01-25 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
 | **[TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://arxiv.org/abs/2601.14133v1)** | 2026-01-20 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/ZGC-EmbodyAI/TwinBrainVLA</p></details> |
 | **[Validating Generalist Robots with Situation Calculus and STL Falsification](https://arxiv.org/abs/2601.03038v1)** | 2026-01-06 |  |
 | **[NitroGen: An Open Foundation Model for Generalist Gaming Agents](https://arxiv.org/abs/2601.02427v1)** | 2026-01-04 | 16 pages, 7 figures |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Large Language Models as Generalist Policies for Network Optimization](https://arxiv.org/abs/2512.11839v1)** | 2025-12-03 | <details><summary>In su...</summary><p>In submission. Project homepage: https://duowuyms.github.io/trailblazer</p></details> |
 | **[Generalist Large Language Models Outperform Clinical Tools on Medical Benchmarks](https://arxiv.org/abs/2512.01191v1)** | 2025-12-01 | <details><summary>17 pa...</summary><p>17 pages, 4 figures (2 regular, 2 supplemental)</p></details> |
 | **[RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies](https://arxiv.org/abs/2506.18123v2)** | 2025-11-29 | <details><summary>Websi...</summary><p>Website: https://robo-arena.github.io/</p></details> |
-| **[UMind-VL: A Generalist Ultrasound Vision-Language Model for Unified Grounded Perception and Comprehensive Interpretation](https://arxiv.org/abs/2511.22256v1)** | 2025-11-27 |  |
-| **[Health system learning achieves generalist neuroimaging models](https://arxiv.org/abs/2511.18640v1)** | 2025-11-23 | <details><summary>53 pa...</summary><p>53 pages, 4 main figures, 10 extended data figures</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v1)** | 2026-01-26 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/</p></details> |
+| **[Scaling Rough Terrain Locomotion with Automatic Curriculum Reinforcement Learning](https://arxiv.org/abs/2601.17428v1)** | 2026-01-24 |  |
+| **[ConceptACT: Episode-Level Concepts for Sample-Efficient Robotic Imitation Learning](https://arxiv.org/abs/2601.17135v1)** | 2026-01-23 |  |
 | **[Off-Policy Actor-Critic with Sigmoid-Bounded Entropy for Real-World Robot Learning](https://arxiv.org/abs/2601.15761v1)** | 2026-01-22 | <details><summary>7 pag...</summary><p>7 pages main text 2 page reference</p></details> |
 | **[UniCon: A Unified System for Efficient Robot Learning Transfers](https://arxiv.org/abs/2601.14617v1)** | 2026-01-21 | <details><summary>in su...</summary><p>in submission, under review</p></details> |
 | **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v2)** | 2026-01-20 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
@@ -76,13 +79,12 @@ labels: documentation
 | **[X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning](https://arxiv.org/abs/2601.11269v1)** | 2026-01-16 |  |
 | **[SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810v2)** | 2026-01-16 | 15 pages |
 | **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v2)** | 2026-01-13 |  |
-| **[iTeach: Interactive Teaching for Robot Perception using Mixed Reality](https://arxiv.org/abs/2410.09072v3)** | 2026-01-09 |  |
-| **[$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164v4)** | 2026-01-08 | <details><summary>See p...</summary><p>See project website for videos: https://physicalintelligence.company/blog/pi0 Published in RSS 2025</p></details> |
-| **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v2)** | 2026-01-08 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalized Policy Gradient with History-Aware Decision Transformer for Path Planning](https://arxiv.org/abs/2508.17218v2)** | 2026-01-26 |  |
+| **[Success Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success](https://arxiv.org/abs/2601.18175v1)** | 2026-01-26 |  |
 | **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
 | **[P-MOSS: Scheduling Main-Memory Indexes Over NUMA Servers Using Next Token Prediction](https://arxiv.org/abs/2411.02933v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to SIGMOD'26</p></details> |
 | **[Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree](https://arxiv.org/abs/2601.14523v1)** | 2026-01-20 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer](https://arxiv.org/abs/2408.01402v2)** | 2025-12-02 | <details><summary>2 fig...</summary><p>2 figures, 10 tables. Published in Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[DeepFleet: Multi-Agent Foundation Models for Mobile Robots](https://arxiv.org/abs/2508.08574v2)** | 2025-11-21 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 2 tables</p></details> |
 | **[A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms](https://arxiv.org/abs/2511.16475v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual conference of the South African Institute of Computer Scientists and Information Technologists (SIACSIT 2025)</p></details> |
-| **[Toward Explainable Offline RL: Analyzing Representations in Intrinsically Motivated Decision Transformers](https://arxiv.org/abs/2506.13958v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted for poster presentation at the NeurIPS 2025 workshop "CogInterp: Interpreting Cognition in Deep Learning Models", San Diego, CA, USA</p></details> |
-| **[Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning](https://arxiv.org/abs/2511.13133v1)** | 2025-11-17 |  |
 
