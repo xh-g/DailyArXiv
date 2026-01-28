@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AC^2-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation](https://arxiv.org/abs/2601.19634v1)** | 2026-01-27 |  |
 | **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v1)** | 2026-01-26 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/</p></details> |
 | **[TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945v1)** | 2026-01-21 |  |
 | **[DroneVLA: VLA based Aerial Manipulation](https://arxiv.org/abs/2601.13809v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at LBR of HRI 2026 conference</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning](https://arxiv.org/abs/2512.24426v1)** | 2025-12-30 |  |
 | **[VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models](https://arxiv.org/abs/2512.22539v1)** | 2025-12-27 |  |
 | **[STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107v2)** | 2025-12-23 |  |
-| **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072v3)** | 2025-12-22 | <details><summary>New e...</summary><p>New experiments on VL retention and new ablations. 18 pages</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayes Adaptive Monte Carlo Tree Search for Offline Model-based Reinforcement Learning](https://arxiv.org/abs/2410.11234v4)** | 2026-01-27 | <details><summary>This ...</summary><p>This paper is accepted in ICLR 2026</p></details> |
 | **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v4)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2025</p></details> |
 | **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
 | **[PCL-Reasoner-V1.5: Advancing Math Reasoning with Offline Reinforcement Learning](https://arxiv.org/abs/2601.14716v1)** | 2026-01-21 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[BraVE: Offline Reinforcement Learning for Discrete Combinatorial Action Spaces](https://arxiv.org/abs/2410.21151v3)** | 2026-01-07 |  |
 | **[dataRLsec: Safety, Security, and Reliability With Robust Offline Reinforcement Learning for DPAs](https://arxiv.org/abs/2601.01289v1)** | 2026-01-03 | 10 pages, 3 figures |
 | **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v1)** | 2025-12-31 |  |
-| **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v3)** | 2025-12-27 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeFM: Learning Foundation Representations from Depth for Robotics](https://arxiv.org/abs/2601.18923v1)** | 2026-01-26 | <details><summary>Under...</summary><p>Under review, 19 pages, 15 Figures, 9 Tables</p></details> |
 | **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v1)** | 2026-01-26 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/</p></details> |
 | **[Scaling Rough Terrain Locomotion with Automatic Curriculum Reinforcement Learning](https://arxiv.org/abs/2601.17428v1)** | 2026-01-24 |  |
 | **[ConceptACT: Episode-Level Concepts for Sample-Efficient Robotic Imitation Learning](https://arxiv.org/abs/2601.17135v1)** | 2026-01-23 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning](https://arxiv.org/abs/2601.11394v1)** | 2026-01-16 |  |
 | **[X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning](https://arxiv.org/abs/2601.11269v1)** | 2026-01-16 |  |
 | **[SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810v2)** | 2026-01-16 | 15 pages |
-| **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v2)** | 2026-01-13 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
