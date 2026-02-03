@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](https://arxiv.org/abs/2602.02459v1)** | 2026-02-02 |  |
+| **[MAIN-VLA: Modeling Abstraction of Intention and eNvironment for Vision-Language-Action Models](https://arxiv.org/abs/2602.02212v1)** | 2026-02-02 |  |
+| **[FD-VLA: Force-Distilled Vision-Language-Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2602.02142v1)** | 2026-02-02 |  |
+| **[From Knowing to Doing Precisely: A General Self-Correction and Termination Framework for VLA models](https://arxiv.org/abs/2602.01811v1)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</p></details> |
+| **[Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://arxiv.org/abs/2602.01166v1)** | 2026-02-01 |  |
+| **[Green-VLA: Staged Vision-Language-Action Model for Generalist Robots](https://arxiv.org/abs/2602.00919v1)** | 2026-01-31 | 22 pages, 14 figures |
+| **[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://arxiv.org/abs/2602.00807v1)** | 2026-01-31 |  |
+| **[SA-VLA: Spatially-Aware Flow-Matching for Vision-Language-Action Reinforcement Learning](https://arxiv.org/abs/2602.00743v1)** | 2026-01-31 | Version 1 |
 | **[TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation](https://arxiv.org/abs/2601.20321v2)** | 2026-01-30 | 17pages,9fig |
 | **[Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges](https://arxiv.org/abs/2505.04769v2)** | 2026-01-29 |  |
 | **[AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation](https://arxiv.org/abs/2601.21602v1)** | 2026-01-29 |  |
@@ -14,14 +22,6 @@ labels: documentation
 | **[Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends](https://arxiv.org/abs/2506.20966v2)** | 2026-01-29 |  |
 | **[Shallow-π: Knowledge Distillation for Flow-based VLAs](https://arxiv.org/abs/2601.20262v1)** | 2026-01-28 |  |
 | **[AC^2-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation](https://arxiv.org/abs/2601.19634v1)** | 2026-01-27 |  |
-| **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v1)** | 2026-01-26 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/</p></details> |
-| **[TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945v1)** | 2026-01-21 |  |
-| **[DroneVLA: VLA based Aerial Manipulation](https://arxiv.org/abs/2601.13809v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at LBR of HRI 2026 conference</p></details> |
-| **[Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710v2)** | 2026-01-17 |  |
-| **[ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2601.11404v1)** | 2026-01-16 |  |
-| **[VLAgents: A Policy Server for Efficient VLA Inference](https://arxiv.org/abs/2601.11250v1)** | 2026-01-16 |  |
-| **[What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789v4)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v2)** | 2026-01-13 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,8 +45,10 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification](https://arxiv.org/abs/2602.02055v1)** | 2026-02-02 | <details><summary>accet...</summary><p>accetped by IEEE International Conference on Communications (ICC 2026)</p></details> |
+| **[Action-Free Offline-to-Online RL via Discretised State Policies](https://arxiv.org/abs/2602.00629v1)** | 2026-01-31 | ICLR 2026 |
+| **[Less is More: Clustered Cross-Covariance Control for Offline RL](https://arxiv.org/abs/2601.20765v2)** | 2026-01-31 | <details><summary>accep...</summary><p>accepted by ICLR 2026</p></details> |
 | **[Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining](https://arxiv.org/abs/2410.00564v4)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Less is More: Clustered Cross-Covariance Control for Offline RL](https://arxiv.org/abs/2601.20765v1)** | 2026-01-28 |  |
 | **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](https://arxiv.org/abs/2509.19800v2)** | 2026-01-28 |  |
 | **[Deep SPI: Safe Policy Improvement via World Models](https://arxiv.org/abs/2510.12312v2)** | 2026-01-28 | <details><summary>ICLR ...</summary><p>ICLR 2026, 10 pages main text, 21 pages appendix (excluding references)</p></details> |
 | **[Improving and Accelerating Offline RL in Large Discrete Action Spaces with Structured Policy Initialization](https://arxiv.org/abs/2601.04441v2)** | 2026-01-27 |  |
@@ -58,12 +60,14 @@ labels: documentation
 | **[Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency](https://arxiv.org/abs/2601.11352v1)** | 2026-01-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables and unpublished</p></details> |
 | **[A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2306.07541v3)** | 2026-01-16 | <details><summary>The f...</summary><p>The final published version is available at IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/11267513/. We correct the GitHub repo url in this version</p></details> |
 | **[Advancing Safe Mechanical Ventilation Using Offline RL With Hybrid Actions and Clinically Aligned Rewards](https://arxiv.org/abs/2506.14375v2)** | 2026-01-15 | Accepted to AAAI-26 |
-| **[STO-RL: Offline RL under Sparse Rewards via LLM-Guided Subgoal Temporal Order](https://arxiv.org/abs/2601.08107v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
-| **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762v4)** | 2026-01-12 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[World-Gymnast: Training Robots with Reinforcement Learning in a World Model](https://arxiv.org/abs/2602.02454v1)** | 2026-02-02 | <details><summary>https...</summary><p>https://world-gymnast.github.io/</p></details> |
+| **[BTGenBot-2: Efficient Behavior Tree Generation with Small Language Models](https://arxiv.org/abs/2602.01870v1)** | 2026-02-02 |  |
+| **[A Gait Driven Reinforcement Learning Framework for Humanoid Robots](https://arxiv.org/abs/2506.08416v2)** | 2026-02-02 |  |
+| **[ConLA: Contrastive Latent Action Learning from Human Videos for Robotic Manipulation](https://arxiv.org/abs/2602.00557v1)** | 2026-01-31 |  |
 | **[VAT: Vision Action Transformer by Unlocking Full Representation of ViT](https://arxiv.org/abs/2512.06013v2)** | 2026-01-30 |  |
 | **[mjlab: A Lightweight Framework for GPU-Accelerated Robot Learning](https://arxiv.org/abs/2601.22074v1)** | 2026-01-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/mujocolab/mjlab</p></details> |
 | **[Causal World Modeling for Robot Control](https://arxiv.org/abs/2601.21998v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-va Code: https://github.com/robbyant/lingbot-va</p></details> |
@@ -75,10 +79,6 @@ labels: documentation
 | **[Scaling Rough Terrain Locomotion with Automatic Curriculum Reinforcement Learning](https://arxiv.org/abs/2601.17428v1)** | 2026-01-24 |  |
 | **[ConceptACT: Episode-Level Concepts for Sample-Efficient Robotic Imitation Learning](https://arxiv.org/abs/2601.17135v1)** | 2026-01-23 |  |
 | **[Off-Policy Actor-Critic with Sigmoid-Bounded Entropy for Real-World Robot Learning](https://arxiv.org/abs/2601.15761v1)** | 2026-01-22 | <details><summary>7 pag...</summary><p>7 pages main text 2 page reference</p></details> |
-| **[UniCon: A Unified System for Efficient Robot Learning Transfers](https://arxiv.org/abs/2601.14617v1)** | 2026-01-21 | <details><summary>in su...</summary><p>in submission, under review</p></details> |
-| **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v2)** | 2026-01-20 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
-| **[CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction](https://arxiv.org/abs/2512.11988v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables. Project page: https://nvlabs.github.io/CARI4D/</p></details> |
-| **[Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/abs/2601.12993v1)** | 2026-01-19 | 44 pages |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
