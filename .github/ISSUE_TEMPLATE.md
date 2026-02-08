@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 06, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism](https://arxiv.org/abs/2602.05765v1)** | 2026-02-05 |  |
 | **[Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA](https://arxiv.org/abs/2512.22208v2)** | 2026-02-04 |  |
 | **[CRL-VLA: Continual Vision-Language-Action Learning](https://arxiv.org/abs/2602.03445v1)** | 2026-02-03 |  |
 | **[AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation](https://arxiv.org/abs/2601.21602v2)** | 2026-02-03 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation](https://arxiv.org/abs/2601.20321v2)** | 2026-01-30 | 17pages,9fig |
 | **[Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges](https://arxiv.org/abs/2505.04769v2)** | 2026-01-29 |  |
 | **[Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving](https://arxiv.org/abs/2601.12142v3)** | 2026-01-29 | Accepted by IV |
-| **[Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends](https://arxiv.org/abs/2506.20966v2)** | 2026-01-29 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,9 +45,13 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Computation and Reinforcement Learning](https://arxiv.org/abs/2602.05999v1)** | 2026-02-05 |  |
+| **[Optimization and Generation in Aerodynamics Inverse Design](https://arxiv.org/abs/2602.03582v2)** | 2026-02-05 |  |
+| **[Cross-Domain Offline Policy Adaptation via Selective Transition Correction](https://arxiv.org/abs/2602.05776v1)** | 2026-02-05 |  |
+| **[StagePilot: A Deep Reinforcement Learning Agent for Stage-Controlled Cybergrooming Simulation](https://arxiv.org/abs/2602.05060v1)** | 2026-02-04 |  |
+| **[ReFORM: Reflected Flows for On-support Offline RL via Noise Manipulation](https://arxiv.org/abs/2602.05051v1)** | 2026-02-04 | <details><summary>24 pa...</summary><p>24 pages, 17 figures; Accepted by the fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
 | **[Statistical Guarantees for Offline Domain Randomization](https://arxiv.org/abs/2506.10133v2)** | 2026-02-03 | ICLR 2026 |
 | **[Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation](https://arxiv.org/abs/2602.03806v1)** | 2026-02-03 |  |
-| **[Optimization and Generation in Aerodynamics Inverse Design](https://arxiv.org/abs/2602.03582v1)** | 2026-02-03 |  |
 | **[Causal Flow Q-Learning for Robust Offline Reinforcement Learning](https://arxiv.org/abs/2602.02847v1)** | 2026-02-02 |  |
 | **[FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification](https://arxiv.org/abs/2602.02055v1)** | 2026-02-02 | <details><summary>accet...</summary><p>accetped by IEEE International Conference on Communications (ICC 2026)</p></details> |
 | **[Action-Free Offline-to-Online RL via Discretised State Policies](https://arxiv.org/abs/2602.00629v1)** | 2026-01-31 | ICLR 2026 |
@@ -56,10 +60,6 @@ labels: documentation
 | **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](https://arxiv.org/abs/2509.19800v2)** | 2026-01-28 |  |
 | **[Deep SPI: Safe Policy Improvement via World Models](https://arxiv.org/abs/2510.12312v2)** | 2026-01-28 | <details><summary>ICLR ...</summary><p>ICLR 2026, 10 pages main text, 21 pages appendix (excluding references)</p></details> |
 | **[Formulating Reinforcement Learning for Human-Robot Collaboration through Off-Policy Evaluation](https://arxiv.org/abs/2602.02530v1)** | 2026-01-27 |  |
-| **[Improving and Accelerating Offline RL in Large Discrete Action Spaces with Structured Policy Initialization](https://arxiv.org/abs/2601.04441v2)** | 2026-01-27 |  |
-| **[Bayes Adaptive Monte Carlo Tree Search for Offline Model-based Reinforcement Learning](https://arxiv.org/abs/2410.11234v4)** | 2026-01-27 | <details><summary>This ...</summary><p>This paper is accepted in ICLR 2026</p></details> |
-| **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v4)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2025</p></details> |
-| **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
