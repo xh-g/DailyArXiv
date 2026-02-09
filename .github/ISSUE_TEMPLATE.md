@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2026
+title: Latest 15 Papers - February 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Think Proprioceptively: Embodied Visual Reasoning for VLA Manipulation](https://arxiv.org/abs/2602.06575v1)** | 2026-02-06 |  |
+| **[DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving](https://arxiv.org/abs/2602.06521v1)** | 2026-02-06 | <details><summary>20 pa...</summary><p>20 pages, 7 tables, 12 figures</p></details> |
+| **[World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy](https://arxiv.org/abs/2602.06508v1)** | 2026-02-06 | 14 pages, 8 figures |
 | **[RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism](https://arxiv.org/abs/2602.05765v1)** | 2026-02-05 |  |
 | **[Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA](https://arxiv.org/abs/2512.22208v2)** | 2026-02-04 |  |
 | **[CRL-VLA: Continual Vision-Language-Action Learning](https://arxiv.org/abs/2602.03445v1)** | 2026-02-03 |  |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Green-VLA: Staged Vision-Language-Action Model for Generalist Robots](https://arxiv.org/abs/2602.00919v1)** | 2026-01-31 | 22 pages, 14 figures |
 | **[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://arxiv.org/abs/2602.00807v1)** | 2026-01-31 |  |
 | **[SA-VLA: Spatially-Aware Flow-Matching for Vision-Language-Action Reinforcement Learning](https://arxiv.org/abs/2602.00743v1)** | 2026-01-31 | Version 1 |
-| **[TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation](https://arxiv.org/abs/2601.20321v2)** | 2026-01-30 | 17pages,9fig |
-| **[Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges](https://arxiv.org/abs/2505.04769v2)** | 2026-01-29 |  |
-| **[Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving](https://arxiv.org/abs/2601.12142v3)** | 2026-01-29 | Accepted by IV |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/abs/2602.06949v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project page: https://dreamdojo-world.github.io/</p></details> |
+| **[ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training](https://arxiv.org/abs/2602.06820v1)** | 2026-02-06 |  |
 | **[$V_0$: A Generalist Value Model for Any Policy at State Zero](https://arxiv.org/abs/2602.03584v1)** | 2026-02-03 |  |
 | **[Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control](https://arxiv.org/abs/2602.02960v1)** | 2026-02-03 |  |
 | **[TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://arxiv.org/abs/2601.14133v2)** | 2026-01-30 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/ZGC-EmbodyAI/TwinBrainVLA</p></details> |
@@ -39,12 +41,13 @@ labels: documentation
 | **[Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with a Generalist Foundation Model and Multimodal Database](https://arxiv.org/abs/2512.21652v1)** | 2025-12-25 | <details><summary>Githu...</summary><p>Github: https://github.com/wangziblake/CardioMM_MMCMR-427K</p></details> |
 | **[Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models](https://arxiv.org/abs/2512.13072v1)** | 2025-12-15 |  |
 | **[From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production](https://arxiv.org/abs/2510.23856v2)** | 2025-12-09 | <details><summary>AAAI ...</summary><p>AAAI Conference on Artificial Intelligence</p></details> |
-| **[SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797v1)** | 2025-12-04 |  |
-| **[Large Language Models as Generalist Policies for Network Optimization](https://arxiv.org/abs/2512.11839v1)** | 2025-12-03 | <details><summary>In su...</summary><p>In submission. Project homepage: https://duowuyms.github.io/trailblazer</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v3)** | 2026-02-06 |  |
+| **[Sample-Efficient Policy Space Response Oracles with Joint Experience Best Response](https://arxiv.org/abs/2602.06599v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
+| **[Flow Matching for Offline Reinforcement Learning with Discrete Actions](https://arxiv.org/abs/2602.06138v1)** | 2026-02-05 |  |
 | **[On Computation and Reinforcement Learning](https://arxiv.org/abs/2602.05999v1)** | 2026-02-05 |  |
 | **[Optimization and Generation in Aerodynamics Inverse Design](https://arxiv.org/abs/2602.03582v2)** | 2026-02-05 |  |
 | **[Cross-Domain Offline Policy Adaptation via Selective Transition Correction](https://arxiv.org/abs/2602.05776v1)** | 2026-02-05 |  |
@@ -57,13 +60,11 @@ labels: documentation
 | **[Action-Free Offline-to-Online RL via Discretised State Policies](https://arxiv.org/abs/2602.00629v1)** | 2026-01-31 | ICLR 2026 |
 | **[Less is More: Clustered Cross-Covariance Control for Offline RL](https://arxiv.org/abs/2601.20765v2)** | 2026-01-31 | <details><summary>accep...</summary><p>accepted by ICLR 2026</p></details> |
 | **[Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining](https://arxiv.org/abs/2410.00564v4)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](https://arxiv.org/abs/2509.19800v2)** | 2026-01-28 |  |
-| **[Deep SPI: Safe Policy Improvement via World Models](https://arxiv.org/abs/2510.12312v2)** | 2026-01-28 | <details><summary>ICLR ...</summary><p>ICLR 2026, 10 pages main text, 21 pages appendix (excluding references)</p></details> |
-| **[Formulating Reinforcement Learning for Human-Robot Collaboration through Off-Policy Evaluation](https://arxiv.org/abs/2602.02530v1)** | 2026-01-27 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy](https://arxiv.org/abs/2602.06508v1)** | 2026-02-06 | 14 pages, 8 figures |
 | **[OAT: Ordered Action Tokenization](https://arxiv.org/abs/2602.04215v1)** | 2026-02-04 |  |
 | **[MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](https://arxiv.org/abs/2602.03668v1)** | 2026-02-03 |  |
 | **[Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives](https://arxiv.org/abs/2602.03188v1)** | 2026-02-03 | <details><summary>6 pag...</summary><p>6 pages, 9 figures. Accepted for publication in IEEE AMC 2026</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Advancing Open-source World Models](https://arxiv.org/abs/2601.20540v1)** | 2026-01-28 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-world; Code: https://github.com/robbyant/lingbot-world</p></details> |
 | **[NeuroAI and Beyond](https://arxiv.org/abs/2601.19955v1)** | 2026-01-27 | <details><summary>53 pa...</summary><p>53 pages, 5 figures, extended appendix</p></details> |
 | **[DeFM: Learning Foundation Representations from Depth for Robotics](https://arxiv.org/abs/2601.18923v1)** | 2026-01-26 | <details><summary>Under...</summary><p>Under review, 19 pages, 15 Figures, 9 Tables</p></details> |
-| **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v1)** | 2026-01-26 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
