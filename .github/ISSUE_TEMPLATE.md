@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning](https://arxiv.org/abs/2602.10503v1)** | 2026-02-11 |  |
 | **[VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://arxiv.org/abs/2602.10098v1)** | 2026-02-10 |  |
 | **[VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving](https://arxiv.org/abs/2510.15446v2)** | 2026-02-10 | WIP |
 | **[Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430v1)** | 2026-02-10 |  |
@@ -21,13 +22,12 @@ labels: documentation
 | **[World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy](https://arxiv.org/abs/2602.06508v1)** | 2026-02-06 | 14 pages, 8 figures |
 | **[RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism](https://arxiv.org/abs/2602.05765v1)** | 2026-02-05 |  |
 | **[Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA](https://arxiv.org/abs/2512.22208v2)** | 2026-02-04 |  |
-| **[CRL-VLA: Continual Vision-Language-Action Learning](https://arxiv.org/abs/2602.03445v1)** | 2026-02-03 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation](https://arxiv.org/abs/2602.08594v2)** | 2026-02-11 | <details><summary>add p...</summary><p>add project page: training codes and data are open sourced</p></details> |
 | **[AgentSkiller: Scaling Generalist Agent Intelligence through Semantically Integrated Cross-Domain Data Synthesis](https://arxiv.org/abs/2602.09372v1)** | 2026-02-10 | 33 pages, 9 figures |
-| **[MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation](https://arxiv.org/abs/2602.08594v1)** | 2026-02-09 |  |
 | **[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/abs/2602.06949v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project page: https://dreamdojo-world.github.io/</p></details> |
 | **[ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training](https://arxiv.org/abs/2602.06820v1)** | 2026-02-06 |  |
 | **[$V_0$: A Generalist Value Model for Any Policy at State Zero](https://arxiv.org/abs/2602.03584v1)** | 2026-02-03 |  |
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[General Flexible $f$-divergence for Challenging Offline RL Datasets with Low Stochasticity and Diverse Behavior Policies](https://arxiv.org/abs/2602.11087v1)** | 2026-02-11 | <details><summary>Exten...</summary><p>Extended version of the full paper with the appendix accepted at AAMAS 2026</p></details> |
+| **[Belief-Based Offline Reinforcement Learning for Delay-Robust Policy Optimization](https://arxiv.org/abs/2506.00131v2)** | 2026-02-11 |  |
 | **[CausalGDP: Causality-Guided Diffusion Policies for Reinforcement Learning](https://arxiv.org/abs/2602.09207v1)** | 2026-02-09 |  |
 | **[From Robotics to Sepsis Treatment: Offline RL via Geometric Pessimism](https://arxiv.org/abs/2602.08655v1)** | 2026-02-09 | 10 pages, 8 figures |
 | **[Epigraph-Guided Flow Matching for Safe and Performant Offline Reinforcement Learning](https://arxiv.org/abs/2602.08054v1)** | 2026-02-08 | 23 pages, 8 figures |
@@ -58,12 +60,13 @@ labels: documentation
 | **[Optimization and Generation in Aerodynamics Inverse Design](https://arxiv.org/abs/2602.03582v2)** | 2026-02-05 |  |
 | **[Cross-Domain Offline Policy Adaptation via Selective Transition Correction](https://arxiv.org/abs/2602.05776v1)** | 2026-02-05 |  |
 | **[StagePilot: A Deep Reinforcement Learning Agent for Stage-Controlled Cybergrooming Simulation](https://arxiv.org/abs/2602.05060v1)** | 2026-02-04 |  |
-| **[ReFORM: Reflected Flows for On-support Offline RL via Noise Manipulation](https://arxiv.org/abs/2602.05051v1)** | 2026-02-04 | <details><summary>24 pa...</summary><p>24 pages, 17 figures; Accepted by the fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Statistical Guarantees for Offline Domain Randomization](https://arxiv.org/abs/2506.10133v2)** | 2026-02-03 | ICLR 2026 |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[YOR: Your Own Mobile Manipulator for Generalizable Robotics](https://arxiv.org/abs/2602.11150v1)** | 2026-02-11 |  |
+| **[OAT: Ordered Action Tokenization](https://arxiv.org/abs/2602.04215v2)** | 2026-02-11 |  |
+| **[From Interaction to Demonstration Quality in Virtual Reality: Effects of Interaction Modality and Visual Representation on Everyday Tasks](https://arxiv.org/abs/2602.10618v1)** | 2026-02-11 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 7 tables (including appendix)</p></details> |
 | **[ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109v1)** | 2026-02-10 | <details><summary>Spati...</summary><p>Spatially Training for VLA, Accepted by ICLR 2026</p></details> |
 | **[DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos](https://arxiv.org/abs/2602.10105v1)** | 2026-02-10 |  |
 | **[RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation](https://arxiv.org/abs/2602.09973v1)** | 2026-02-10 | <details><summary>Publi...</summary><p>Published to ICLR 2026, 69 pages, 40 figures</p></details> |
@@ -71,14 +74,11 @@ labels: documentation
 | **[A Review of Online Diffusion Policy RL Algorithms for Scalable Robotic Control](https://arxiv.org/abs/2601.06133v2)** | 2026-02-09 |  |
 | **[Scalable Dexterous Robot Learning with AR-based Remote Human-Robot Interactions](https://arxiv.org/abs/2602.07341v1)** | 2026-02-07 |  |
 | **[World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy](https://arxiv.org/abs/2602.06508v1)** | 2026-02-06 | 14 pages, 8 figures |
-| **[OAT: Ordered Action Tokenization](https://arxiv.org/abs/2602.04215v1)** | 2026-02-04 |  |
 | **[MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](https://arxiv.org/abs/2602.03668v1)** | 2026-02-03 |  |
 | **[Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives](https://arxiv.org/abs/2602.03188v1)** | 2026-02-03 | <details><summary>6 pag...</summary><p>6 pages, 9 figures. Accepted for publication in IEEE AMC 2026</p></details> |
 | **[World-Gymnast: Training Robots with Reinforcement Learning in a World Model](https://arxiv.org/abs/2602.02454v1)** | 2026-02-02 | <details><summary>https...</summary><p>https://world-gymnast.github.io/</p></details> |
 | **[BTGenBot-2: Efficient Behavior Tree Generation with Small Language Models](https://arxiv.org/abs/2602.01870v1)** | 2026-02-02 |  |
 | **[A Gait Driven Reinforcement Learning Framework for Humanoid Robots](https://arxiv.org/abs/2506.08416v2)** | 2026-02-02 |  |
-| **[ConLA: Contrastive Latent Action Learning from Human Videos for Robotic Manipulation](https://arxiv.org/abs/2602.00557v1)** | 2026-01-31 |  |
-| **[VAT: Vision Action Transformer by Unlocking Full Representation of ViT](https://arxiv.org/abs/2512.06013v2)** | 2026-01-30 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
