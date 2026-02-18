@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Selective Perception for Robot: Task-Aware Attention in Multimodal VLA](https://arxiv.org/abs/2602.15543v1)** | 2026-02-17 |  |
 | **[DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving](https://arxiv.org/abs/2602.14577v1)** | 2026-02-16 |  |
 | **[Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](https://arxiv.org/abs/2602.12628v2)** | 2026-02-16 |  |
 | **[WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL](https://arxiv.org/abs/2602.13977v1)** | 2026-02-15 | 21pages, 8 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning](https://arxiv.org/abs/2602.10503v1)** | 2026-02-11 |  |
 | **[VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving](https://arxiv.org/abs/2510.15446v2)** | 2026-02-10 | WIP |
 | **[Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430v1)** | 2026-02-10 |  |
-| **[VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2511.16449v3)** | 2026-02-10 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Role of Iterative Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v2)** | 2026-02-17 |  |
+| **[Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](https://arxiv.org/abs/2511.05705v2)** | 2026-02-17 |  |
 | **[From Robotics to Sepsis Treatment: Offline RL via Geometric Pessimism](https://arxiv.org/abs/2602.08655v2)** | 2026-02-16 | 10 pages, 8 figures |
 | **[Offline RL by Reward-Weighted Fine-Tuning for Conversation Optimization](https://arxiv.org/abs/2506.06964v3)** | 2026-02-16 | <details><summary>Advan...</summary><p>Advances in Neural Information Processing Systems 38</p></details> |
 | **[Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](https://arxiv.org/abs/2602.12222v1)** | 2026-02-12 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Efficient Anti-exploration via VQVAE and Fuzzy Clustering in Offline Reinforcement Learning](https://arxiv.org/abs/2602.07889v1)** | 2026-02-08 |  |
 | **[Proximal Action Replacement for Behavior Cloning Actor-Critic in Offline Reinforcement Learning](https://arxiv.org/abs/2602.07441v1)** | 2026-02-07 |  |
 | **[Provable Domain Adaptation for Offline Reinforcement Learning with Limited Samples](https://arxiv.org/abs/2408.12136v5)** | 2026-02-07 |  |
-| **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v3)** | 2026-02-06 |  |
-| **[Sample-Efficient Policy Space Response Oracles with Joint Experience Best Response](https://arxiv.org/abs/2602.06599v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
