@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation](https://arxiv.org/abs/2602.16444v1)** | 2026-02-18 |  |
 | **[Selective Perception for Robot: Task-Aware Attention in Multimodal VLA](https://arxiv.org/abs/2602.15543v1)** | 2026-02-17 |  |
 | **[DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving](https://arxiv.org/abs/2602.14577v1)** | 2026-02-16 |  |
 | **[Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](https://arxiv.org/abs/2602.12628v2)** | 2026-02-16 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[HiST-VLA: A Hierarchical Spatio-Temporal Vision-Language-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.13329v1)** | 2026-02-11 |  |
 | **[Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning](https://arxiv.org/abs/2602.10503v1)** | 2026-02-11 |  |
 | **[VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving](https://arxiv.org/abs/2510.15446v2)** | 2026-02-10 | WIP |
-| **[Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430v1)** | 2026-02-10 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training-Free Adaptation of Diffusion Models via Doob's $h$-Transform](https://arxiv.org/abs/2602.16198v1)** | 2026-02-18 | 36 pages, 3 figures |
+| **[Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation](https://arxiv.org/abs/2602.16174v1)** | 2026-02-18 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Accepted paper at IEEE International Conference on Communications (ICC) 2026</p></details> |
 | **[On the Role of Iterative Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v2)** | 2026-02-17 |  |
 | **[Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](https://arxiv.org/abs/2511.05705v2)** | 2026-02-17 |  |
 | **[From Robotics to Sepsis Treatment: Offline RL via Geometric Pessimism](https://arxiv.org/abs/2602.08655v2)** | 2026-02-16 | 10 pages, 8 figures |
@@ -58,8 +60,6 @@ labels: documentation
 | **[CausalGDP: Causality-Guided Diffusion Policies for Reinforcement Learning](https://arxiv.org/abs/2602.09207v1)** | 2026-02-09 |  |
 | **[Epigraph-Guided Flow Matching for Safe and Performant Offline Reinforcement Learning](https://arxiv.org/abs/2602.08054v1)** | 2026-02-08 | 23 pages, 8 figures |
 | **[Efficient Anti-exploration via VQVAE and Fuzzy Clustering in Offline Reinforcement Learning](https://arxiv.org/abs/2602.07889v1)** | 2026-02-08 |  |
-| **[Proximal Action Replacement for Behavior Cloning Actor-Critic in Offline Reinforcement Learning](https://arxiv.org/abs/2602.07441v1)** | 2026-02-07 |  |
-| **[Provable Domain Adaptation for Offline Reinforcement Learning with Limited Samples](https://arxiv.org/abs/2408.12136v5)** | 2026-02-07 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation](https://arxiv.org/abs/2602.16174v1)** | 2026-02-18 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Accepted paper at IEEE International Conference on Communications (ICC) 2026</p></details> |
 | **[ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving](https://arxiv.org/abs/2511.11079v3)** | 2026-02-15 | <details><summary>KDD 2...</summary><p>KDD 2026 (Datasets and Benchmarks) accepted</p></details> |
 | **[Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization](https://arxiv.org/abs/2602.08261v1)** | 2026-02-09 |  |
 | **[Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies](https://arxiv.org/abs/2601.02754v2)** | 2026-02-03 | <details><summary>Due t...</summary><p>Due to the company's compliance requirements, we would like to wait until the paper is officially published before making it publicly available on arXiv</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Online Finetuning Decision Transformers with Pure RL Gradients](https://arxiv.org/abs/2601.00167v1)** | 2026-01-01 |  |
 | **[Quantum Decision Transformers (QDT): Synergistic Entanglement and Interference for Offline Reinforcement Learning](https://arxiv.org/abs/2512.14726v1)** | 2025-12-09 |  |
 | **[Benchmarking Offline Multi-Objective Reinforcement Learning in Critical Care](https://arxiv.org/abs/2512.08012v1)** | 2025-12-08 |  |
-| **[Data Fusion-Enhanced Decision Transformer for Stable Cross-Domain Generalization](https://arxiv.org/abs/2511.09173v2)** | 2025-12-07 | 32 pages,4 figures |
 
