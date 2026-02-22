@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 20, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation](https://arxiv.org/abs/2602.16444v1)** | 2026-02-18 |  |
+| **[When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs](https://arxiv.org/abs/2602.17659v1)** | 2026-02-19 | <details><summary>Websi...</summary><p>Website: https://vla-va.github.io/</p></details> |
+| **[RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation](https://arxiv.org/abs/2602.16444v2)** | 2026-02-19 |  |
 | **[Selective Perception for Robot: Task-Aware Attention in Multimodal VLA](https://arxiv.org/abs/2602.15543v1)** | 2026-02-17 |  |
 | **[DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving](https://arxiv.org/abs/2602.14577v1)** | 2026-02-16 |  |
 | **[Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](https://arxiv.org/abs/2602.12628v2)** | 2026-02-16 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation](https://arxiv.org/abs/2602.11598v1)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project Page: https://amap-cvlab.github.io/ABot-Navigation/ABot-N0/</p></details> |
 | **[HiST-VLA: A Hierarchical Spatio-Temporal Vision-Language-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.13329v1)** | 2026-02-11 |  |
 | **[Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning](https://arxiv.org/abs/2602.10503v1)** | 2026-02-11 |  |
-| **[VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving](https://arxiv.org/abs/2510.15446v2)** | 2026-02-10 | WIP |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
+| **[FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment](https://arxiv.org/abs/2602.17259v1)** | 2026-02-19 | <details><summary>Proje...</summary><p>Project Website: https://h-zhao1997.github.io/frappe</p></details> |
 | **[GraphFM: A generalist graph transformer that learns transferable representations across diverse domains](https://arxiv.org/abs/2407.11907v2)** | 2026-02-14 |  |
 | **[MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation](https://arxiv.org/abs/2602.07011v2)** | 2026-02-12 | 9 pages, 5 figures |
 | **[MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation](https://arxiv.org/abs/2602.08594v2)** | 2026-02-11 | <details><summary>add p...</summary><p>add project page: training codes and data are open sourced</p></details> |
@@ -39,12 +41,13 @@ labels: documentation
 | **[TSRBench: A Comprehensive Multi-task Multi-modal Time Series Reasoning Benchmark for Generalist Models](https://arxiv.org/abs/2601.18744v1)** | 2026-01-26 |  |
 | **[Validating Generalist Robots with Situation Calculus and STL Falsification](https://arxiv.org/abs/2601.03038v1)** | 2026-01-06 |  |
 | **[NitroGen: An Open Foundation Model for Generalist Gaming Agents](https://arxiv.org/abs/2601.02427v1)** | 2026-01-04 | 16 pages, 7 figures |
-| **[Reasoning Over Recall: Evaluating the Efficacy of Generalist Architectures vs. Specialized Fine-Tunes in RAG-Based Mental Health Dialogue Systems](https://arxiv.org/abs/2601.01341v1)** | 2026-01-04 |  |
-| **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v2)** | 2025-12-30 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://arxiv.org/abs/2602.17632v1)** | 2026-02-19 |  |
+| **[LexiSafe: Offline Safe Reinforcement Learning with Lexicographic Safety-Reward Hierarchy](https://arxiv.org/abs/2602.17312v1)** | 2026-02-19 | <details><summary>17th ...</summary><p>17th ACM/IEEE International Conference on Cyber-Physical Systems</p></details> |
+| **[LRT-Diffusion: Calibrated Risk-Aware Guidance for Diffusion Policies](https://arxiv.org/abs/2510.24983v2)** | 2026-02-19 |  |
 | **[Training-Free Adaptation of Diffusion Models via Doob's $h$-Transform](https://arxiv.org/abs/2602.16198v1)** | 2026-02-18 | 36 pages, 3 figures |
 | **[Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation](https://arxiv.org/abs/2602.16174v1)** | 2026-02-18 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Accepted paper at IEEE International Conference on Communications (ICC) 2026</p></details> |
 | **[On the Role of Iterative Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v2)** | 2026-02-17 |  |
@@ -57,13 +60,12 @@ labels: documentation
 | **[RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation](https://arxiv.org/abs/2510.15189v2)** | 2026-02-12 |  |
 | **[General Flexible $f$-divergence for Challenging Offline RL Datasets with Low Stochasticity and Diverse Behavior Policies](https://arxiv.org/abs/2602.11087v1)** | 2026-02-11 | <details><summary>Exten...</summary><p>Extended version of the full paper with the appendix accepted at AAMAS 2026</p></details> |
 | **[Belief-Based Offline Reinforcement Learning for Delay-Robust Policy Optimization](https://arxiv.org/abs/2506.00131v2)** | 2026-02-11 |  |
-| **[CausalGDP: Causality-Guided Diffusion Policies for Reinforcement Learning](https://arxiv.org/abs/2602.09207v1)** | 2026-02-09 |  |
-| **[Epigraph-Guided Flow Matching for Safe and Performant Offline Reinforcement Learning](https://arxiv.org/abs/2602.08054v1)** | 2026-02-08 | 23 pages, 8 figures |
-| **[Efficient Anti-exploration via VQVAE and Fuzzy Clustering in Offline Reinforcement Learning](https://arxiv.org/abs/2602.07889v1)** | 2026-02-08 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation](https://arxiv.org/abs/2602.11337v2)** | 2026-02-19 |  |
+| **[SparTa: Sparse Graphical Task Models from a Handful of Demonstrations](https://arxiv.org/abs/2602.16911v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, under review</p></details> |
 | **[A Soft Wrist with Anisotropic and Selectable Stiffness for Robust Robot Learning in Contact-rich Manipulation](https://arxiv.org/abs/2602.14434v1)** | 2026-02-16 |  |
 | **[RoboAug: One Annotation to Hundreds of Scenes via Region-Contrastive Data Augmentation for Robotic Manipulation](https://arxiv.org/abs/2602.14032v1)** | 2026-02-15 |  |
 | **[Gaussian Sequences with Multi-Scale Dynamics for 4D Reconstruction from Monocular Casual Videos](https://arxiv.org/abs/2602.13806v1)** | 2026-02-14 |  |
@@ -75,10 +77,8 @@ labels: documentation
 | **[Accelerating Robotic Reinforcement Learning with Agent Guidance](https://arxiv.org/abs/2602.11978v1)** | 2026-02-12 |  |
 | **[Translating Flow to Policy via Hindsight Online Imitation](https://arxiv.org/abs/2512.19269v2)** | 2026-02-12 |  |
 | **[Human Preference Modeling Using Visual Motion Prediction Improves Robot Skill Learning from Egocentric Human Video](https://arxiv.org/abs/2602.11393v1)** | 2026-02-11 | 15 pages, 11 figures |
-| **[MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation](https://arxiv.org/abs/2602.11337v1)** | 2026-02-11 |  |
 | **[YOR: Your Own Mobile Manipulator for Generalizable Robotics](https://arxiv.org/abs/2602.11150v1)** | 2026-02-11 |  |
 | **[OAT: Ordered Action Tokenization](https://arxiv.org/abs/2602.04215v2)** | 2026-02-11 |  |
-| **[From Interaction to Demonstration Quality in Virtual Reality: Effects of Interaction Modality and Visual Representation on Everyday Tasks](https://arxiv.org/abs/2602.10618v1)** | 2026-02-11 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 7 tables (including appendix)</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
