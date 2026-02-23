@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Fast Can I Run My VLA? Demystifying VLA Inference Performance with VLA-Perf](https://arxiv.org/abs/2602.18397v1)** | 2026-02-20 |  |
+| **[SimVLA: A Simple VLA Baseline for Robotic Manipulation](https://arxiv.org/abs/2602.18224v1)** | 2026-02-20 |  |
 | **[When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs](https://arxiv.org/abs/2602.17659v1)** | 2026-02-19 | <details><summary>Websi...</summary><p>Website: https://vla-va.github.io/</p></details> |
 | **[RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation](https://arxiv.org/abs/2602.16444v2)** | 2026-02-19 |  |
 | **[Selective Perception for Robot: Task-Aware Attention in Multimodal VLA](https://arxiv.org/abs/2602.15543v1)** | 2026-02-17 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning](https://arxiv.org/abs/2602.12099v1)** | 2026-02-12 | <details><summary>https...</summary><p>https://gigabrain05m.github.io/</p></details> |
 | **[JEPA-VLA: Video Predictive Embedding is Needed for VLA Models](https://arxiv.org/abs/2602.11832v1)** | 2026-02-12 |  |
 | **[ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation](https://arxiv.org/abs/2602.11598v1)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project Page: https://amap-cvlab.github.io/ABot-Navigation/ABot-N0/</p></details> |
-| **[HiST-VLA: A Hierarchical Spatio-Temporal Vision-Language-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.13329v1)** | 2026-02-11 |  |
-| **[Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning](https://arxiv.org/abs/2602.10503v1)** | 2026-02-11 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2602.18117v1)** | 2026-02-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 camera-ready</p></details> |
+| **[Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets](https://arxiv.org/abs/2602.18025v1)** | 2026-02-20 | ICLR 2026 |
+| **[Flow Actor-Critic for Offline Reinforcement Learning](https://arxiv.org/abs/2602.18015v1)** | 2026-02-20 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://arxiv.org/abs/2602.17632v1)** | 2026-02-19 |  |
 | **[LexiSafe: Offline Safe Reinforcement Learning with Lexicographic Safety-Reward Hierarchy](https://arxiv.org/abs/2602.17312v1)** | 2026-02-19 | <details><summary>17th ...</summary><p>17th ACM/IEEE International Conference on Cyber-Physical Systems</p></details> |
 | **[LRT-Diffusion: Calibrated Risk-Aware Guidance for Diffusion Policies](https://arxiv.org/abs/2510.24983v2)** | 2026-02-19 |  |
@@ -57,9 +60,6 @@ labels: documentation
 | **[Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](https://arxiv.org/abs/2602.12222v1)** | 2026-02-12 |  |
 | **[On the Complexity of Offline Reinforcement Learning with $Q^\star$-Approximation and Partial Coverage](https://arxiv.org/abs/2602.12107v1)** | 2026-02-12 |  |
 | **[From Path Signatures to Sequential Modeling: Incremental Signature Contributions for Offline RL](https://arxiv.org/abs/2602.11805v1)** | 2026-02-12 |  |
-| **[RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation](https://arxiv.org/abs/2510.15189v2)** | 2026-02-12 |  |
-| **[General Flexible $f$-divergence for Challenging Offline RL Datasets with Low Stochasticity and Diverse Behavior Policies](https://arxiv.org/abs/2602.11087v1)** | 2026-02-11 | <details><summary>Exten...</summary><p>Extended version of the full paper with the appendix accepted at AAMAS 2026</p></details> |
-| **[Belief-Based Offline Reinforcement Learning for Delay-Robust Policy Optimization](https://arxiv.org/abs/2506.00131v2)** | 2026-02-11 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
