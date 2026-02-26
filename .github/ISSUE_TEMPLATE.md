@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 26, 2026
+title: Latest 15 Papers - February 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](https://arxiv.org/abs/2602.21736v1)** | 2026-02-25 | CVPR2026 |
+| **[PD-VLA: Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/abs/2503.02310v2)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by IROS 2025, updated results on LIBERO</p></details> |
+| **[Self-Correcting VLA: Online Action Refinement via Sparse World Imagination](https://arxiv.org/abs/2602.21633v1)** | 2026-02-25 |  |
+| **[LiLo-VLA: Compositional Long-Horizon Manipulation via Linked Object-Centric Policies](https://arxiv.org/abs/2602.21531v1)** | 2026-02-25 |  |
+| **[VLA Knows Its Limits](https://arxiv.org/abs/2602.21445v1)** | 2026-02-24 | <details><summary>Proje...</summary><p>Project page at https://hatchetproject.github.io/autohorizon/</p></details> |
 | **[Notes-to-Self: Scratchpad Augmented VLAs for Memory Dependent Manipulation Tasks](https://arxiv.org/abs/2602.21013v1)** | 2026-02-24 | <details><summary>To ap...</summary><p>To appear at ICRA 2026</p></details> |
 | **[IG-RFT: An Interaction-Guided RL Framework for VLA Models in Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2602.20715v1)** | 2026-02-24 |  |
 | **[The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption](https://arxiv.org/abs/2602.19260v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Robotics & Automation (ICRA 2026)</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation](https://arxiv.org/abs/2602.16444v2)** | 2026-02-19 |  |
 | **[Selective Perception for Robot: Task-Aware Attention in Multimodal VLA](https://arxiv.org/abs/2602.15543v1)** | 2026-02-17 |  |
 | **[DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving](https://arxiv.org/abs/2602.14577v1)** | 2026-02-16 |  |
-| **[Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](https://arxiv.org/abs/2602.12628v2)** | 2026-02-16 |  |
-| **[WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL](https://arxiv.org/abs/2602.13977v1)** | 2026-02-15 | 21pages, 8 figures |
-| **[VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://arxiv.org/abs/2602.10098v2)** | 2026-02-14 |  |
-| **[CRAFT: Adapting VLA Models to Contact-rich Manipulation via Force-aware Curriculum Fine-tuning](https://arxiv.org/abs/2602.12532v1)** | 2026-02-13 |  |
-| **[LongNav-R1: Horizon-Adaptive Multi-Turn RL for Long-Horizon VLA Navigation](https://arxiv.org/abs/2602.12351v1)** | 2026-02-12 | VLA, Navigation |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning](https://arxiv.org/abs/2506.21427v3)** | 2026-02-24 | ICLR 2026 |
 | **[Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](https://arxiv.org/abs/2602.21072v1)** | 2026-02-24 | <details><summary>33 pa...</summary><p>33 pages, 9 figures, 11 tables</p></details> |
 | **[IG-RFT: An Interaction-Guided RL Framework for VLA Models in Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2602.20715v1)** | 2026-02-24 |  |
 | **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](https://arxiv.org/abs/2509.19800v3)** | 2026-02-23 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[LRT-Diffusion: Calibrated Risk-Aware Guidance for Diffusion Policies](https://arxiv.org/abs/2510.24983v2)** | 2026-02-19 |  |
 | **[Training-Free Adaptation of Diffusion Models via Doob's $h$-Transform](https://arxiv.org/abs/2602.16198v1)** | 2026-02-18 | 36 pages, 3 figures |
 | **[Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation](https://arxiv.org/abs/2602.16174v1)** | 2026-02-18 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Accepted paper at IEEE International Conference on Communications (ICC) 2026</p></details> |
-| **[On the Role of Iterative Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v2)** | 2026-02-17 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning](https://arxiv.org/abs/2506.04941v3)** | 2026-02-25 |  |
+| **[mjlab: A Lightweight Framework for GPU-Accelerated Robot Learning](https://arxiv.org/abs/2601.22074v2)** | 2026-02-25 | <details><summary>Comme...</summary><p>Comments: 11 pages; Code is available at https://github.com/mujocolab/mjlab ; Expanded sensor and domain randomization sections, added references, minor edits</p></details> |
 | **[Human-Exoskeleton Kinematic Calibration to Improve Hand Tracking for Dexterous Teleoperation](https://arxiv.org/abs/2507.23592v3)** | 2026-02-23 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, 1 supplementary video, submitted to RA-L</p></details> |
 | **[Hilbert-Augmented Reinforcement Learning for Scalable Multi-Robot Coverage and Exploration](https://arxiv.org/abs/2602.19400v1)** | 2026-02-23 |  |
 | **[RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning](https://arxiv.org/abs/2602.18742v1)** | 2026-02-21 | <details><summary>20 pa...</summary><p>20 pages; 6 figures; Project page is available at https://seungkukim.github.io/robocurate/</p></details> |
@@ -77,8 +79,6 @@ labels: documentation
 | **[A Pragmatist Robot: Learning to Plan Tasks by Experiencing the Real World](https://arxiv.org/abs/2507.16713v2)** | 2026-02-14 | Accepted to RA-L |
 | **[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](https://arxiv.org/abs/2602.13197v1)** | 2026-02-13 |  |
 | **[Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads](https://arxiv.org/abs/2406.19391v4)** | 2026-02-12 | <details><summary>The c...</summary><p>The complete implementation, including source code and evaluation scripts, is publicly available at: https://github.com/Charlotte-CharMLab/Fibottention</p></details> |
-| **[Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning](https://arxiv.org/abs/2602.12065v1)** | 2026-02-12 |  |
-| **[Accelerating Robotic Reinforcement Learning with Agent Guidance](https://arxiv.org/abs/2602.11978v1)** | 2026-02-12 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
