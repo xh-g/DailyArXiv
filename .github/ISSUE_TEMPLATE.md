@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 06, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PhysiFlow: Physics-Aware Humanoid Whole-Body VLA via Multi-Brain Latent Flow Matching and Robust Tracking](https://arxiv.org/abs/2603.05410v1)** | 2026-03-05 |  |
+| **[Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](https://arxiv.org/abs/2603.05185v1)** | 2026-03-05 |  |
 | **[RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](https://arxiv.org/abs/2509.24948v4)** | 2026-03-03 | Accepted to CVPR2026 |
 | **[$π$-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs](https://arxiv.org/abs/2603.02083v1)** | 2026-03-02 |  |
 | **[LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](https://arxiv.org/abs/2603.01928v1)** | 2026-03-02 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023v2)** | 2026-02-28 |  |
 | **[TGM-VLA: Task-Guided Mixup for Sampling-Efficient and Robust Robotic Manipulation](https://arxiv.org/abs/2603.00615v1)** | 2026-02-28 | 8 pages, 7 figures |
 | **[FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2602.23648v1)** | 2026-02-27 |  |
-| **[DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation](https://arxiv.org/abs/2602.22896v2)** | 2026-02-27 | DAC 2026 |
-| **[GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning](https://arxiv.org/abs/2602.12099v2)** | 2026-02-26 | <details><summary>https...</summary><p>https://gigabrain05m.github.io/</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent Policy Steering through One-Step Flow Policies](https://arxiv.org/abs/2603.05296v1)** | 2026-03-05 | <details><summary>Proje...</summary><p>Project Webpage : https://jellyho.github.io/LPS/</p></details> |
+| **[Pessimistic Auxiliary Policy for Offline Reinforcement Learning](https://arxiv.org/abs/2602.23974v2)** | 2026-03-05 | <details><summary>Withd...</summary><p>Withdrawn due to a crucial mistake</p></details> |
 | **[IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning](https://arxiv.org/abs/2603.04289v1)** | 2026-03-04 |  |
 | **[Recurrent Action Transformer with Memory](https://arxiv.org/abs/2306.09459v6)** | 2026-03-04 | <details><summary>29 pa...</summary><p>29 pages, 22 figures, 13 tables</p></details> |
 | **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
@@ -54,16 +56,16 @@ labels: documentation
 | **[State-Action Inpainting Diffuser for Continuous Control with Delay](https://arxiv.org/abs/2603.01553v1)** | 2026-03-02 |  |
 | **[PAC Guarantees for Reinforcement Learning: Sample Complexity, Coverage, and Structure](https://arxiv.org/abs/2603.01309v1)** | 2026-03-01 | 43 pages |
 | **[SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://arxiv.org/abs/2602.17632v2)** | 2026-02-27 |  |
-| **[Pessimistic Auxiliary Policy for Offline Reinforcement Learning](https://arxiv.org/abs/2602.23974v1)** | 2026-02-27 |  |
 | **[MAGE: Multi-scale Autoregressive Generation for Offline Reinforcement Learning](https://arxiv.org/abs/2602.23770v1)** | 2026-02-27 | ICLR2026 |
 | **[On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification](https://arxiv.org/abs/2508.05629v3)** | 2026-02-27 | ICLR 2026 |
 | **[Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing](https://arxiv.org/abs/2602.19805v2)** | 2026-02-26 | <details><summary>This ...</summary><p>This work was intended as a replacement of arXiv:2408.10517 and any subsequent updates will appear there</p></details> |
 | **[Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing](https://arxiv.org/abs/2408.10517v6)** | 2026-02-26 | <details><summary>17 pa...</summary><p>17 pages; Previously this version appeared as arXiv:2602.19805 which was submitted as a new work by accident. This is a revised version of the previously withdrawn manuscript, updated with new experiments and results</p></details> |
-| **[Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning](https://arxiv.org/abs/2506.21427v3)** | 2026-02-24 | ICLR 2026 |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RealWonder: Real-Time Physical Action-Conditioned Video Generation](https://arxiv.org/abs/2603.05449v1)** | 2026-03-05 | <details><summary>The f...</summary><p>The first two authors contributed equally. The last two authors advised equally. Project website: https://liuwei283.github.io/RealWonder/</p></details> |
+| **[FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/abs/2506.01941v3)** | 2026-03-05 |  |
 | **[RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://arxiv.org/abs/2603.04356v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026; First three authors contributed equally</p></details> |
 | **[Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning](https://arxiv.org/abs/2507.05695v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
 | **[MEM: Multi-Scale Embodied Memory for Vision Language Action Models](https://arxiv.org/abs/2603.03596v1)** | 2026-03-04 | <details><summary>Websi...</summary><p>Website: https://pi.website/research/memory</p></details> |
@@ -77,12 +79,11 @@ labels: documentation
 | **[Embedding Morphology into Transformers for Cross-Robot Policy Learning](https://arxiv.org/abs/2603.00182v1)** | 2026-02-26 | <details><summary>17 pa...</summary><p>17 pages, 8 figures (including appendix)</p></details> |
 | **[Interface-Aware Trajectory Reconstruction of Limited Demonstrations for Robot Learning](https://arxiv.org/abs/2602.23287v1)** | 2026-02-26 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, to appear in the proceedings of the 2026 Human-Robot Interaction (HRI) Conference</p></details> |
 | **[LeRobot: An Open-Source Library for End-to-End Robot Learning](https://arxiv.org/abs/2602.22818v1)** | 2026-02-26 | <details><summary>https...</summary><p>https://github.com/huggingface/lerobot</p></details> |
-| **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v2)** | 2026-02-26 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/, GM-100: https://huggingface.co/datasets/robbyant/lingbot-GM-100</p></details> |
-| **[ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning](https://arxiv.org/abs/2506.04941v3)** | 2026-02-25 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge-informed Bidding with Dual-process Control for Online Advertising](https://arxiv.org/abs/2603.04920v1)** | 2026-03-05 |  |
 | **[IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning](https://arxiv.org/abs/2603.04289v1)** | 2026-03-04 |  |
 | **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
 | **[Return Augmented Decision Transformer for Off-Dynamics Reinforcement Learning](https://arxiv.org/abs/2410.23450v2)** | 2026-03-02 | <details><summary>26 pa...</summary><p>26 pages, 11 tables, 8 figures. Published in Transactions on Machine Learning Research (TMLR)</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
 | **[P-MOSS: Scheduling Main-Memory Indexes Over NUMA Servers Using Next Token Prediction](https://arxiv.org/abs/2411.02933v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to SIGMOD'26</p></details> |
 | **[Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree](https://arxiv.org/abs/2601.14523v1)** | 2026-01-20 |  |
-| **[DecisionLLM: Large Language Models for Long Sequence Decision Exploration](https://arxiv.org/abs/2601.10148v1)** | 2026-01-15 |  |
 
