@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models](https://arxiv.org/abs/2603.06049v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted by CVPR2026 findings</p></details> |
+| **[Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](https://arxiv.org/abs/2602.12628v3)** | 2026-03-06 |  |
+| **[Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration](https://arxiv.org/abs/2603.06001v1)** | 2026-03-06 |  |
+| **[EchoVLA: Synergistic Declarative Memory for VLA-Driven Mobile Manipulation](https://arxiv.org/abs/2511.18112v2)** | 2026-03-06 |  |
+| **[ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval](https://arxiv.org/abs/2511.06202v2)** | 2026-03-06 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables, accepted to International Conference on Robotics and Automation (ICRA) 2026</p></details> |
+| **[Safe-Night VLA: Seeing the Unseen via Thermal-Perceptive Vision-Language-Action Models for Safety-Critical Manipulation](https://arxiv.org/abs/2603.05754v1)** | 2026-03-05 |  |
 | **[PhysiFlow: Physics-Aware Humanoid Whole-Body VLA via Multi-Brain Latent Flow Matching and Robust Tracking](https://arxiv.org/abs/2603.05410v1)** | 2026-03-05 |  |
 | **[Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](https://arxiv.org/abs/2603.05185v1)** | 2026-03-05 |  |
 | **[RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](https://arxiv.org/abs/2509.24948v4)** | 2026-03-03 | Accepted to CVPR2026 |
@@ -16,12 +22,6 @@ labels: documentation
 | **[OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation](https://arxiv.org/abs/2511.01210v3)** | 2026-03-02 | Accepted by ICRA'26 |
 | **[KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models](https://arxiv.org/abs/2603.01581v1)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper has been accepted by DAC 2026</p></details> |
 | **[VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search](https://arxiv.org/abs/2509.22643v2)** | 2026-03-01 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted by ICRA 2026</p></details> |
-| **[Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](https://arxiv.org/abs/2603.01063v1)** | 2026-03-01 |  |
-| **[DAM-VLA: A Dynamic Action Model-Based Vision-Language-Action Framework for Robot Manipulation](https://arxiv.org/abs/2603.00926v1)** | 2026-03-01 | Accepted to ICRA2026 |
-| **[Characterizing VLA Models: Identifying the Action Generation Bottleneck for Edge AI Architectures](https://arxiv.org/abs/2603.02271v1)** | 2026-03-01 | <details><summary>3 Pag...</summary><p>3 Pages 4 Figures for Workshop paper</p></details> |
-| **[TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023v2)** | 2026-02-28 |  |
-| **[TGM-VLA: Task-Guided Mixup for Sampling-Efficient and Robust Robotic Manipulation](https://arxiv.org/abs/2603.00615v1)** | 2026-02-28 | 8 pages, 7 figures |
-| **[FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2602.23648v1)** | 2026-02-27 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling](https://arxiv.org/abs/2603.06218v1)** | 2026-03-06 |  |
 | **[RealWonder: Real-Time Physical Action-Conditioned Video Generation](https://arxiv.org/abs/2603.05449v1)** | 2026-03-05 | <details><summary>The f...</summary><p>The first two authors contributed equally. The last two authors advised equally. Project website: https://liuwei283.github.io/RealWonder/</p></details> |
+| **[Task Parameter Extrapolation via Learning Inverse Tasks from Forward Demonstrations](https://arxiv.org/abs/2603.05576v1)** | 2026-03-05 |  |
 | **[FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/abs/2506.01941v3)** | 2026-03-05 |  |
+| **[ROSER: Few-Shot Robotic Sequence Retrieval for Scalable Robot Learning](https://arxiv.org/abs/2603.01474v2)** | 2026-03-05 | <details><summary>2026 ...</summary><p>2026 ICLR DATA-FM Workshop</p></details> |
 | **[RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://arxiv.org/abs/2603.04356v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026; First three authors contributed equally</p></details> |
 | **[Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning](https://arxiv.org/abs/2507.05695v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
 | **[MEM: Multi-Scale Embodied Memory for Vision Language Action Models](https://arxiv.org/abs/2603.03596v1)** | 2026-03-04 | <details><summary>Websi...</summary><p>Website: https://pi.website/research/memory</p></details> |
 | **[Strategic Shaping of Human Prosociality: A Latent-State POMDP Framework](https://arxiv.org/abs/2603.02379v1)** | 2026-03-02 | <details><summary>This ...</summary><p>This article has been published in IEEE Robotics and Automation Letters. https://ieeexplore.ieee.org/document/11410120</p></details> |
 | **[Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation](https://arxiv.org/abs/2603.02139v1)** | 2026-03-02 | <details><summary>22 pa...</summary><p>22 pages, 15 figures, Accecpted by CVPR 2026</p></details> |
 | **[Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons](https://arxiv.org/abs/2603.02115v1)** | 2026-03-02 | 33 pages, 17 figures |
-| **[ROSER: Few-Shot Robotic Sequence Retrieval for Scalable Robot Learning](https://arxiv.org/abs/2603.01474v1)** | 2026-03-02 | <details><summary>2026 ...</summary><p>2026 ICLR DATA-FM Workshop</p></details> |
 | **[Scaling Tasks, Not Samples: Mastering Humanoid Control through Multi-Task Model-Based Reinforcement Learning](https://arxiv.org/abs/2603.01452v1)** | 2026-03-02 |  |
 | **[ArtLLM: Generating Articulated Assets via 3D LLM](https://arxiv.org/abs/2603.01142v1)** | 2026-03-01 |  |
 | **[Planning from Observation and Interaction](https://arxiv.org/abs/2602.24121v1)** | 2026-02-27 |  |
 | **[Embedding Morphology into Transformers for Cross-Robot Policy Learning](https://arxiv.org/abs/2603.00182v1)** | 2026-02-26 | <details><summary>17 pa...</summary><p>17 pages, 8 figures (including appendix)</p></details> |
-| **[Interface-Aware Trajectory Reconstruction of Limited Demonstrations for Robot Learning](https://arxiv.org/abs/2602.23287v1)** | 2026-02-26 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, to appear in the proceedings of the 2026 Human-Robot Interaction (HRI) Conference</p></details> |
-| **[LeRobot: An Open-Source Library for End-to-End Robot Learning](https://arxiv.org/abs/2602.22818v1)** | 2026-02-26 | <details><summary>https...</summary><p>https://github.com/huggingface/lerobot</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
