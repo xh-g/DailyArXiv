@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](https://arxiv.org/abs/2603.01928v2)** | 2026-03-12 |  |
+| **[RAPID: Redundancy-Aware and Compatibility-Optimal Edge-Cloud Partitioned Inference for Diverse VLA Models](https://arxiv.org/abs/2603.07949v2)** | 2026-03-12 |  |
+| **[SELF-VLA: A Skill Enhanced Agentic Vision-Language-Action Framework for Contact-Rich Disassembly](https://arxiv.org/abs/2603.11080v1)** | 2026-03-10 |  |
 | **[AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models](https://arxiv.org/abs/2603.10126v1)** | 2026-03-10 |  |
 | **[NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models](https://arxiv.org/abs/2603.09542v1)** | 2026-03-10 |  |
 | **[GST-VLA: Structured Gaussian Spatial Tokens for 3D Depth-Aware Vision-Language-Action Models](https://arxiv.org/abs/2603.09079v1)** | 2026-03-10 | <details><summary>The r...</summary><p>The results presented in this paper are preliminary. Please note that the experiments are currently ongoing, and the final data is subject to change upon the completion of the study. All ideas, results, methods, and any content herein are the sole property of the authors</p></details> |
@@ -14,14 +17,11 @@ labels: documentation
 | **[$Δ$VLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation](https://arxiv.org/abs/2603.08361v1)** | 2026-03-09 |  |
 | **[Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA](https://arxiv.org/abs/2603.08122v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project Homepage: https://sites.google.com/view/mode-vla</p></details> |
 | **[SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving](https://arxiv.org/abs/2603.08113v1)** | 2026-03-09 |  |
-| **[RAPID: Redundancy-Aware and Compatibility-Optimal Edge-Cloud Partitioned Inference for Diverse VLA models](https://arxiv.org/abs/2603.07949v1)** | 2026-03-09 |  |
 | **[DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models](https://arxiv.org/abs/2603.07904v1)** | 2026-03-09 |  |
 | **[GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model](https://arxiv.org/abs/2509.14117v4)** | 2026-03-08 | <details><summary>Under...</summary><p>Under Review, Project Page https://alisharey.github.io/GeoAware-VLA/</p></details> |
 | **[HSC-VLA: Hierarchical Scene-Clearing for Robust Bimanual Manipulation in Dense Clutter](https://arxiv.org/abs/2603.07484v1)** | 2026-03-08 |  |
 | **[Green-VLA: Staged Vision-Language-Action Model for Generalist Robots](https://arxiv.org/abs/2602.00919v2)** | 2026-03-07 | 22 pages, 14 figures |
 | **[Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models](https://arxiv.org/abs/2603.06049v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted by CVPR2026 findings</p></details> |
-| **[Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](https://arxiv.org/abs/2602.12628v3)** | 2026-03-06 |  |
-| **[Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration](https://arxiv.org/abs/2603.06001v1)** | 2026-03-06 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ensuring Safety in Automated Mechanical Ventilation through Offline Reinforcement Learning and Digital Twin Verification](https://arxiv.org/abs/2603.11372v1)** | 2026-03-11 |  |
 | **[LexiSafe: Offline Safe Reinforcement Learning with Lexicographic Safety-Reward Hierarchy](https://arxiv.org/abs/2602.17312v2)** | 2026-03-11 | <details><summary>17th ...</summary><p>17th ACM/IEEE International Conference on Cyber-Physical Systems</p></details> |
 | **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
 | **[Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF](https://arxiv.org/abs/2603.10279v1)** | 2026-03-10 |  |
@@ -59,11 +60,14 @@ labels: documentation
 | **[Pessimistic Auxiliary Policy for Offline Reinforcement Learning](https://arxiv.org/abs/2602.23974v2)** | 2026-03-05 | <details><summary>Withd...</summary><p>Withdrawn due to a crucial mistake</p></details> |
 | **[IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning](https://arxiv.org/abs/2603.04289v1)** | 2026-03-04 |  |
 | **[Recurrent Action Transformer with Memory](https://arxiv.org/abs/2306.09459v6)** | 2026-03-04 | <details><summary>29 pa...</summary><p>29 pages, 22 figures, 13 tables</p></details> |
-| **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v1)** | 2026-03-12 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Concurrent Prehensile and Nonprehensile Manipulation: A Practical Approach to Multi-Stage Dexterous Tasks](https://arxiv.org/abs/2603.11655v1)** | 2026-03-12 |  |
+| **[NFPO: Stabilized Policy Optimization of Normalizing Flow for Robotic Policy Learning](https://arxiv.org/abs/2603.11470v1)** | 2026-03-12 |  |
+| **[Time as a Control Dimension in Robot Learning](https://arxiv.org/abs/2511.07654v2)** | 2026-03-11 |  |
 | **[Pixel Motion Diffusion is What We Need for Robot Control](https://arxiv.org/abs/2509.22652v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://eronguyen.github.io/DAWN</p></details> |
 | **[DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/abs/2603.10448v1)** | 2026-03-11 | <details><summary>https...</summary><p>https://dit4dit.github.io/</p></details> |
 | **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v2)** | 2026-03-11 | 15 pages, 17 figures |
@@ -75,10 +79,6 @@ labels: documentation
 | **[TRIP-Bag: A Portable Teleoperation System for Plug-and-Play Robotic Arms and Leaders](https://arxiv.org/abs/2603.09226v1)** | 2026-03-10 |  |
 | **[RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning](https://arxiv.org/abs/2510.14830v4)** | 2026-03-10 | <details><summary>https...</summary><p>https://lei-kun.github.io/RL-100/</p></details> |
 | **[Quality over Quantity: Demonstration Curation via Influence Functions for Data-Centric Robot Learning](https://arxiv.org/abs/2603.09056v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026, 8 pages</p></details> |
-| **[Cutting the Cord: System Architecture for Low-Cost, GPU-Accelerated Bimanual Mobile Manipulation](https://arxiv.org/abs/2603.09051v1)** | 2026-03-10 |  |
-| **[APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model](https://arxiv.org/abs/2603.08862v1)** | 2026-03-09 |  |
-| **[EquiBim: Learning Symmetry-Equivariant Policy for Bimanual Manipulation](https://arxiv.org/abs/2603.08541v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted to IROS 2026. 8 pages, 6 figures</p></details> |
-| **[Task Parameter Extrapolation via Learning Inverse Tasks from Forward Demonstrations](https://arxiv.org/abs/2603.05576v2)** | 2026-03-09 | <details><summary>Corre...</summary><p>Corrected author affiliation</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
