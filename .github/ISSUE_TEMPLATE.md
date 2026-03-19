@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2026
+title: Latest 15 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948v5)** | 2026-03-18 | Accepted to CVPR2026 |
+| **[Safety Case Patterns for VLA-based driving systems: Insights from SimLingo](https://arxiv.org/abs/2603.16013v2)** | 2026-03-18 |  |
 | **[DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation](https://arxiv.org/abs/2602.22896v3)** | 2026-03-17 | DAC 2026 |
-| **[Safety Case Patterns for VLA-based driving systems: Insights from SimLingo](https://arxiv.org/abs/2603.16013v1)** | 2026-03-16 |  |
 | **[Learning from Mistakes: Post-Training for Driving VLA with Takeover Data](https://arxiv.org/abs/2603.14972v1)** | 2026-03-16 |  |
 | **[VLA-Thinker: Boosting Vision-Language-Action Models through Thinking-with-Image Reasoning](https://arxiv.org/abs/2603.14523v1)** | 2026-03-15 | <details><summary>We in...</summary><p>We introduce VLA-Thinker, the first VLA model capable of thinking-with-image reasoning, which models visual perception as a dynamically invocable reasoning action, enabling Multimodal Embodied Chain-of-Thought</p></details> |
 | **[Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations](https://arxiv.org/abs/2509.18953v2)** | 2026-03-15 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[RAPID: Redundancy-Aware and Compatibility-Optimal Edge-Cloud Partitioned Inference for Diverse VLA Models](https://arxiv.org/abs/2603.07949v2)** | 2026-03-12 |  |
 | **[SELF-VLA: A Skill Enhanced Agentic Vision-Language-Action Framework for Contact-Rich Disassembly](https://arxiv.org/abs/2603.11080v1)** | 2026-03-10 |  |
 | **[AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models](https://arxiv.org/abs/2603.10126v1)** | 2026-03-10 |  |
-| **[NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models](https://arxiv.org/abs/2603.09542v1)** | 2026-03-10 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -37,14 +37,17 @@ labels: documentation
 | **[OmniFashion: Towards Generalist Fashion Intelligence via Multi-Task Vision-Language Learning](https://arxiv.org/abs/2603.02658v1)** | 2026-03-03 | 12 pages, 8 figures |
 | **[AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205v2)** | 2026-03-02 | ICLR 2026 |
 | **[Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control](https://arxiv.org/abs/2602.02960v2)** | 2026-02-27 |  |
+| **[NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning](https://arxiv.org/abs/2603.16880v1)** | 2026-02-24 |  |
 | **[From Few-Shot to Zero-Shot: Towards Generalist Graph Anomaly Detection](https://arxiv.org/abs/2602.18793v1)** | 2026-02-21 | <details><summary>19 pa...</summary><p>19 pages, 12 figures, 5 tables</p></details> |
 | **[Can Generalist Vision Language Models (VLMs) Rival Specialist Medical VLMs? Benchmarking and Strategic Insights](https://arxiv.org/abs/2506.17337v3)** | 2026-02-21 | version 2 |
 | **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
-| **[FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment](https://arxiv.org/abs/2602.17259v1)** | 2026-02-19 | <details><summary>Proje...</summary><p>Project Website: https://h-zhao1997.github.io/frappe</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning](https://arxiv.org/abs/2506.08460v3)** | 2026-03-18 | <details><summary>Publi...</summary><p>Published at ICLR 2026</p></details> |
+| **[Identifying Latent Actions and Dynamics from Offline Data via Demonstrator Diversity](https://arxiv.org/abs/2603.17577v1)** | 2026-03-18 |  |
+| **[In-Context Compositional Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2509.24067v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
 | **[Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies](https://arxiv.org/abs/2603.15136v1)** | 2026-03-16 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 4 tables</p></details> |
 | **[Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](https://arxiv.org/abs/2602.12222v2)** | 2026-03-14 |  |
 | **[Robust Regularized Policy Iteration under Transition Uncertainty](https://arxiv.org/abs/2603.09344v2)** | 2026-03-14 | 17 pages |
@@ -57,16 +60,16 @@ labels: documentation
 | **[Dual-Robust Cross-Domain Offline Reinforcement Learning Against Dynamics Shifts](https://arxiv.org/abs/2512.02486v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[Reinforcement Learning for Individual Optimal Policy from Heterogeneous Data](https://arxiv.org/abs/2505.09496v3)** | 2026-03-09 |  |
 | **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v2)** | 2026-03-07 |  |
-| **[Active Advantage-Aligned Online Reinforcement Learning with Offline Data](https://arxiv.org/abs/2502.07937v4)** | 2026-03-07 |  |
-| **[Agentic Planning with Reasoning for Image Styling via Offline RL](https://arxiv.org/abs/2603.07148v1)** | 2026-03-07 | 85 pages |
-| **[Bayesian Conservative Policy Optimization (BCPO): A Novel Uncertainty-Calibrated Offline Reinforcement Learning with Credible Lower Bounds](https://arxiv.org/abs/2603.12284v1)** | 2026-03-06 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation](https://arxiv.org/abs/2603.17851v1)** | 2026-03-18 | <details><summary>9 pag...</summary><p>9 pages, 9 figures.Project page: https://xitong-c.github.io/DexViTac/</p></details> |
+| **[S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight](https://arxiv.org/abs/2603.16195v2)** | 2026-03-18 |  |
+| **[DexEXO: A Wearability-First Dexterous Exoskeleton for Operator-Agnostic Demonstration and Learning](https://arxiv.org/abs/2603.17323v1)** | 2026-03-18 | <details><summary>https...</summary><p>https://dexexo-research.github.io/</p></details> |
+| **[Influence of Gripper Design on Human Demonstration Quality for Robot Learning](https://arxiv.org/abs/2603.17189v1)** | 2026-03-17 | <details><summary>To be...</summary><p>To be published in proceedings of 2026 IEEE International Conference on Robotics & Automation</p></details> |
 | **[MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](https://arxiv.org/abs/2603.16861v1)** | 2026-03-17 |  |
 | **[When a Robot is More Capable than a Human: Learning from Constrained Demonstrators](https://arxiv.org/abs/2510.09096v2)** | 2026-03-17 |  |
-| **[S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight](https://arxiv.org/abs/2603.16195v1)** | 2026-03-17 |  |
 | **[Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models](https://arxiv.org/abs/2603.16065v1)** | 2026-03-17 |  |
 | **[Emergent Dexterity via Diverse Resets and Large-Scale Reinforcement Learning](https://arxiv.org/abs/2603.15789v1)** | 2026-03-16 |  |
 | **[NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation](https://arxiv.org/abs/2603.15186v1)** | 2026-03-16 |  |
@@ -76,9 +79,6 @@ labels: documentation
 | **[Concurrent Prehensile and Nonprehensile Manipulation: A Practical Approach to Multi-Stage Dexterous Tasks](https://arxiv.org/abs/2603.11655v2)** | 2026-03-13 | 12 pages, 6 figures |
 | **[Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis](https://arxiv.org/abs/2603.13528v1)** | 2026-03-13 |  |
 | **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v1)** | 2026-03-12 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[NFPO: Stabilized Policy Optimization of Normalizing Flow for Robotic Policy Learning](https://arxiv.org/abs/2603.11470v1)** | 2026-03-12 |  |
-| **[Time as a Control Dimension in Robot Learning](https://arxiv.org/abs/2511.07654v2)** | 2026-03-11 |  |
-| **[Pixel Motion Diffusion is What We Need for Robot Control](https://arxiv.org/abs/2509.22652v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://eronguyen.github.io/DAWN</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
