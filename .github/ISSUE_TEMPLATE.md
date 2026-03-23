@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FD-VLA: Force-Distilled Vision-Language-Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2602.02142v2)** | 2026-03-20 | ICRA 2026 Accepted |
 | **[FASTER: Rethinking Real-Time Flow VLAs](https://arxiv.org/abs/2603.19199v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://innovator-zero.github.io/FASTER</p></details> |
 | **[Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](https://arxiv.org/abs/2603.19183v1)** | 2026-03-19 | 25 pages, 12 figures |
 | **[TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023v3)** | 2026-03-19 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966v1)** | 2026-03-14 |  |
 | **[DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models](https://arxiv.org/abs/2603.07904v2)** | 2026-03-14 |  |
 | **[ST-VLA: Enabling 4D-Aware Spatiotemporal Understanding for General Robot Manipulation](https://arxiv.org/abs/2603.13788v1)** | 2026-03-14 | <details><summary>25 pa...</summary><p>25 pages, under review</p></details> |
-| **[ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries](https://arxiv.org/abs/2603.12942v1)** | 2026-03-13 | 14 pages, 6 figures |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
 | **[Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning](https://arxiv.org/abs/2603.19078v1)** | 2026-03-19 | Arxiv_r1 |
 | **[DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation](https://arxiv.org/abs/2603.17851v1)** | 2026-03-18 | <details><summary>9 pag...</summary><p>9 pages, 9 figures.Project page: https://xitong-c.github.io/DexViTac/</p></details> |
 | **[S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight](https://arxiv.org/abs/2603.16195v2)** | 2026-03-18 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[UniPrototype: Humn-Robot Skill Learning with Uniform Prototypes](https://arxiv.org/abs/2509.23021v2)** | 2026-03-14 | <details><summary>This ...</summary><p>This submission was uploaded in error and has been withdrawn. A substantial revision will need to be completed</p></details> |
 | **[Dribble Master: Learning Agile Humanoid Dribbling through Legged Locomotion](https://arxiv.org/abs/2505.12679v3)** | 2026-03-14 |  |
 | **[Concurrent Prehensile and Nonprehensile Manipulation: A Practical Approach to Multi-Stage Dexterous Tasks](https://arxiv.org/abs/2603.11655v2)** | 2026-03-13 | 12 pages, 6 figures |
-| **[Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis](https://arxiv.org/abs/2603.13528v1)** | 2026-03-13 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
