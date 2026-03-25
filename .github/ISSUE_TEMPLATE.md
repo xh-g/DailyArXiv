@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](https://arxiv.org/abs/2603.23117v1)** | 2026-03-24 |  |
+| **[VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2603.22991v1)** | 2026-03-24 | 27 pages, 8 figures |
+| **[Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring](https://arxiv.org/abs/2603.22899v1)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
+| **[SG-VLA: Learning Spatially-Grounded Vision-Language-Action Models for Mobile Manipulation](https://arxiv.org/abs/2603.22760v1)** | 2026-03-24 |  |
 | **[DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2603.22280v1)** | 2026-03-23 |  |
 | **[Do World Action Models Generalize Better than VLAs? A Robustness Study](https://arxiv.org/abs/2603.22078v1)** | 2026-03-23 |  |
 | **[VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models](https://arxiv.org/abs/2603.22003v1)** | 2026-03-23 | <details><summary>Proje...</summary><p>Project page: https://visualprompt-vla.github.io/</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023v3)** | 2026-03-19 |  |
 | **[Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds](https://arxiv.org/abs/2603.18532v1)** | 2026-03-19 |  |
 | **[Shifting Uncertainty to Critical Moments: Towards Reliable Uncertainty Quantification for VLA Model](https://arxiv.org/abs/2603.18342v1)** | 2026-03-18 |  |
-| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948v5)** | 2026-03-18 | Accepted to CVPR2026 |
-| **[Safety Case Patterns for VLA-based driving systems: Insights from SimLingo](https://arxiv.org/abs/2603.16013v2)** | 2026-03-18 |  |
-| **[DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation](https://arxiv.org/abs/2602.22896v3)** | 2026-03-17 | DAC 2026 |
-| **[Learning from Mistakes: Post-Training for Driving VLA with Takeover Data](https://arxiv.org/abs/2603.14972v1)** | 2026-03-16 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GEM: Guided Expectation-Maximization for Behavior-Normalized Candidate Action Selection in Offline RL](https://arxiv.org/abs/2603.23232v1)** | 2026-03-24 |  |
+| **[VLGOR: Visual-Language Knowledge Guided Offline Reinforcement Learning for Generalizable Agents](https://arxiv.org/abs/2603.22892v1)** | 2026-03-24 |  |
+| **[Model Predictive Control with Differentiable World Models for Offline Reinforcement Learning](https://arxiv.org/abs/2603.22430v1)** | 2026-03-23 |  |
 | **[MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning](https://arxiv.org/abs/2506.08460v3)** | 2026-03-18 | <details><summary>Publi...</summary><p>Published at ICLR 2026</p></details> |
 | **[Identifying Latent Actions and Dynamics from Offline Data via Demonstrator Diversity](https://arxiv.org/abs/2603.17577v1)** | 2026-03-18 |  |
 | **[In-Context Compositional Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2509.24067v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
@@ -57,13 +60,15 @@ labels: documentation
 | **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
 | **[Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF](https://arxiv.org/abs/2603.10279v1)** | 2026-03-10 |  |
 | **[Model-based Offline RL via Robust Value-Aware Model Learning with Implicitly Differentiable Adaptive Weighting](https://arxiv.org/abs/2603.08118v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Dual-Robust Cross-Domain Offline Reinforcement Learning Against Dynamics Shifts](https://arxiv.org/abs/2512.02486v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Reinforcement Learning for Individual Optimal Policy from Heterogeneous Data](https://arxiv.org/abs/2505.09496v3)** | 2026-03-09 |  |
-| **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v2)** | 2026-03-07 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2603.23202v1)** | 2026-03-24 |  |
+| **[Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring](https://arxiv.org/abs/2603.22899v1)** | 2026-03-24 | <details><summary>8 pag...</summary><p>8 pages. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
+| **[Emergent Dexterity via Diverse Resets and Large-Scale Reinforcement Learning](https://arxiv.org/abs/2603.15789v2)** | 2026-03-24 |  |
+| **[EquiBim: Learning Symmetry-Equivariant Policy for Bimanual Manipulation](https://arxiv.org/abs/2603.08541v2)** | 2026-03-24 | 8 pages, 6 figures |
+| **[GIFT: Generalizing Intent for Flexible Test-Time Rewards](https://arxiv.org/abs/2603.22574v1)** | 2026-03-23 | <details><summary>To ap...</summary><p>To appear at IEEE ICRA '26</p></details> |
 | **[Causal World Modeling for Robot Control](https://arxiv.org/abs/2601.21998v2)** | 2026-03-22 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-va Code: https://github.com/robbyant/lingbot-va</p></details> |
 | **[DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/abs/2603.10448v2)** | 2026-03-22 | <details><summary>https...</summary><p>https://dit4dit.github.io/</p></details> |
 | **[Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models](https://arxiv.org/abs/2603.16065v2)** | 2026-03-22 |  |
@@ -74,15 +79,11 @@ labels: documentation
 | **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
 | **[DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation](https://arxiv.org/abs/2603.17851v1)** | 2026-03-18 | <details><summary>9 pag...</summary><p>9 pages, 9 figures.Project page: https://xitong-c.github.io/DexViTac/</p></details> |
 | **[S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight](https://arxiv.org/abs/2603.16195v2)** | 2026-03-18 |  |
-| **[DexEXO: A Wearability-First Dexterous Exoskeleton for Operator-Agnostic Demonstration and Learning](https://arxiv.org/abs/2603.17323v1)** | 2026-03-18 | <details><summary>https...</summary><p>https://dexexo-research.github.io/</p></details> |
-| **[Influence of Gripper Design on Human Demonstration Quality for Robot Learning](https://arxiv.org/abs/2603.17189v1)** | 2026-03-17 | <details><summary>To be...</summary><p>To be published in proceedings of 2026 IEEE International Conference on Robotics & Automation</p></details> |
-| **[MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](https://arxiv.org/abs/2603.16861v1)** | 2026-03-17 |  |
-| **[When a Robot is More Capable than a Human: Learning from Constrained Demonstrators](https://arxiv.org/abs/2510.09096v2)** | 2026-03-17 |  |
-| **[Emergent Dexterity via Diverse Resets and Large-Scale Reinforcement Learning](https://arxiv.org/abs/2603.15789v1)** | 2026-03-16 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Emergency Preemption Without Online Exploration: A Decision Transformer Approach](https://arxiv.org/abs/2603.22315v1)** | 2026-03-20 |  |
 | **[Knowledge-informed Bidding with Dual-process Control for Online Advertising](https://arxiv.org/abs/2603.04920v1)** | 2026-03-05 |  |
 | **[IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning](https://arxiv.org/abs/2603.04289v1)** | 2026-03-04 |  |
 | **[Selecting Offline Reinforcement Learning Algorithms for Stochastic Network Control](https://arxiv.org/abs/2603.03932v1)** | 2026-03-04 | <details><summary>Long ...</summary><p>Long version 12 pages, double column including Appendix. Short version accepted at NOMS2026-IPSN, Rome, Italy</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Success Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success](https://arxiv.org/abs/2601.18175v1)** | 2026-01-26 |  |
 | **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
 | **[P-MOSS: Scheduling Main-Memory Indexes Over NUMA Servers Using Next Token Prediction](https://arxiv.org/abs/2411.02933v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to SIGMOD'26</p></details> |
-| **[Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree](https://arxiv.org/abs/2601.14523v1)** | 2026-01-20 |  |
 
