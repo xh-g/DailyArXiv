@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
+| **[VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956v1)** | 2026-04-05 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, submitted to ACL-2026</p></details> |
 | **[Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA](https://arxiv.org/abs/2604.02965v1)** | 2026-04-03 | Under Review |
 | **[UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models](https://arxiv.org/abs/2604.02241v1)** | 2026-04-02 |  |
 | **[Do World Action Models Generalize Better than VLAs? A Robustness Study](https://arxiv.org/abs/2603.22078v2)** | 2026-04-01 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving](https://arxiv.org/abs/2603.27287v1)** | 2026-03-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures. Submitted to ECCV 2026. Code will be released</p></details> |
 | **[Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds](https://arxiv.org/abs/2603.18532v2)** | 2026-03-28 |  |
 | **[VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation](https://arxiv.org/abs/2603.26666v1)** | 2026-03-27 |  |
-| **[MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation](https://arxiv.org/abs/2603.25406v2)** | 2026-03-27 |  |
-| **[Realtime-VLA V2: Learning to Run VLAs Fast, Smooth, and Accurate](https://arxiv.org/abs/2603.26360v1)** | 2026-03-27 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation](https://arxiv.org/abs/2604.04632v1)** | 2026-04-06 |  |
 | **[NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning](https://arxiv.org/abs/2603.16880v2)** | 2026-04-02 |  |
 | **[$V_0$: A Generalist Value Model for Any Policy at State Zero](https://arxiv.org/abs/2602.03584v2)** | 2026-03-31 |  |
 | **[Can Generalist Vision Language Models (VLMs) Rival Specialist Medical VLMs? Benchmarking and Strategic Insights](https://arxiv.org/abs/2506.17337v4)** | 2026-03-29 | version 3 |
@@ -40,7 +41,6 @@ labels: documentation
 | **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
 | **[OmniFashion: Towards Generalist Fashion Intelligence via Multi-Task Vision-Language Learning](https://arxiv.org/abs/2603.02658v1)** | 2026-03-03 | 12 pages, 8 figures |
 | **[AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205v2)** | 2026-03-02 | ICLR 2026 |
-| **[Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control](https://arxiv.org/abs/2602.02960v2)** | 2026-02-27 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?](https://arxiv.org/abs/2604.04502v1)** | 2026-04-06 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Equal contribution by Zhongru Zhang, Chenghan Yang, Qingzhou Lu and Yanjiang Guo. Project lead: Yanjiang Guo</p></details> |
+| **[Learning from Imperfect Demonstrations via Temporal Behavior Tree-Guided Trajectory Repair](https://arxiv.org/abs/2604.04225v1)** | 2026-04-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Robots Need Some Education: On the complexity of learning in evolutionary robotics](https://arxiv.org/abs/2604.04196v1)** | 2026-04-05 | PhD thesis |
+| **[A Multi-View 3D Telepresence System for XR Robot Teleoperation](https://arxiv.org/abs/2604.03730v1)** | 2026-04-04 |  |
+| **[CRAFT: Video Diffusion for Bimanual Robot Data Generation](https://arxiv.org/abs/2604.03552v1)** | 2026-04-04 |  |
 | **[UniCon: A Unified System for Efficient Robot Learning Transfers](https://arxiv.org/abs/2601.14617v2)** | 2026-04-03 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-52064-1}</p></details> |
 | **[Tune to Learn: How Controller Gains Shape Robot Policy Learning](https://arxiv.org/abs/2604.02523v1)** | 2026-04-02 | <details><summary>Equal...</summary><p>Equal contribution between first two authors; order determined by coin flip. Project website: https://younghyopark.me/tune-to-learn</p></details> |
 | **[Emergent Dexterity via Diverse Resets and Large-Scale Reinforcement Learning](https://arxiv.org/abs/2603.15789v3)** | 2026-04-02 |  |
@@ -74,15 +79,11 @@ labels: documentation
 | **[Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning](https://arxiv.org/abs/2603.26660v2)** | 2026-03-30 |  |
 | **[Continual Robot Skill and Task Learning via Dialogue](https://arxiv.org/abs/2409.03166v3)** | 2026-03-28 |  |
 | **[120 Minutes and a Laptop: Minimalist Image-goal Navigation via Unsupervised Exploration and Offline RL](https://arxiv.org/abs/2603.26441v1)** | 2026-03-27 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](https://arxiv.org/abs/2505.17006v2)** | 2026-03-27 | CVPR 2026 |
-| **[Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories](https://arxiv.org/abs/2603.25903v1)** | 2026-03-26 |  |
-| **[MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](https://arxiv.org/abs/2603.16861v2)** | 2026-03-26 |  |
-| **[SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation](https://arxiv.org/abs/2603.25725v1)** | 2026-03-26 |  |
-| **[Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition](https://arxiv.org/abs/2603.25583v1)** | 2026-03-26 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reimagining RAN Automation in 6G: An Agentic AI Framework with Hierarchical Online Decision Transformer](https://arxiv.org/abs/2604.03908v1)** | 2026-04-05 | <details><summary>Paper...</summary><p>Paper currently under review (IEEE TNSE). Contents of this work may change at any time without notice. This is the author's preliminary version</p></details> |
 | **[Knowledge Distillation for Efficient Transformer-Based Reinforcement Learning in Hardware-Constrained Energy Management Systems](https://arxiv.org/abs/2603.26249v1)** | 2026-03-27 |  |
 | **[Offline Decision Transformers for Neural Combinatorial Optimization: Surpassing Heuristics on the Traveling Salesman Problem](https://arxiv.org/abs/2603.25241v1)** | 2026-03-26 | <details><summary>11 pa...</summary><p>11 pages, 1 figures. Accepted at NeurIPS 2025 Workshop on DiffCoALG</p></details> |
 | **[Emergency Preemption Without Online Exploration: A Decision Transformer Approach](https://arxiv.org/abs/2603.22315v1)** | 2026-03-20 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Spatiotemporal Decision Transformer for Traffic Coordination](https://arxiv.org/abs/2602.02903v1)** | 2026-02-02 |  |
 | **[C2:Cross learning module enhanced decision transformer with Constraint-aware loss for auto-bidding](https://arxiv.org/abs/2601.20257v2)** | 2026-01-29 |  |
 | **[Generalized Policy Gradient with History-Aware Decision Transformer for Path Planning](https://arxiv.org/abs/2508.17218v2)** | 2026-01-26 |  |
-| **[Success Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success](https://arxiv.org/abs/2601.18175v1)** | 2026-01-26 |  |
 
