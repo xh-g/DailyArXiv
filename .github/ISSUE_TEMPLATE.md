@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2026
+title: Latest 15 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models](https://arxiv.org/abs/2603.22003v2)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://visualprompt-vla.github.io/</p></details> |
+| **[ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2604.09824v1)** | 2026-04-10 |  |
 | **[UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models](https://arxiv.org/abs/2604.02241v2)** | 2026-04-10 |  |
 | **[2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness](https://arxiv.org/abs/2604.09244v1)** | 2026-04-10 |  |
 | **[AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](https://arxiv.org/abs/2511.18960v3)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 (Highlight)</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v3)** | 2026-04-07 |  |
 | **[VLA-InfoEntropy: A Training-Free Vision-Attention Information Entropy Approach for Vision-Language-Action Models Inference Acceleration and Success](https://arxiv.org/abs/2604.05323v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Multimedia and Expo (ICME 2026)</p></details> |
 | **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
-| **[VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956v1)** | 2026-04-05 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, submitted to ACL-2026</p></details> |
-| **[Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA](https://arxiv.org/abs/2604.02965v1)** | 2026-04-03 | Under Review |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies](https://arxiv.org/abs/2604.09860v1)** | 2026-04-10 |  |
 | **[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](https://arxiv.org/abs/2604.08539v1)** | 2026-04-09 | <details><summary>code ...</summary><p>code at: https://github.com/uclanlp/openvlthinker</p></details> |
 | **[Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism](https://arxiv.org/abs/2510.26083v2)** | 2026-04-08 |  |
 | **[InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation](https://arxiv.org/abs/2604.04632v1)** | 2026-04-06 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[OmniGuide: Universal Guidance Fields for Enhancing Generalist Robot Policies](https://arxiv.org/abs/2603.10052v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project Page: $\href{https://omniguide.github.io/}{this\; url}$</p></details> |
 | **[RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://arxiv.org/abs/2603.04356v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026; First three authors contributed equally</p></details> |
 | **[X-Loco: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation](https://arxiv.org/abs/2603.03733v1)** | 2026-03-04 |  |
-| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CROP: Conservative Reward for Model-based Offline Policy Optimization](https://arxiv.org/abs/2310.17245v2)** | 2026-04-13 |  |
 | **[Pseudo-Expert Regularized Offline RL for End-to-End Autonomous Driving in Photorealistic Closed-Loop Environments](https://arxiv.org/abs/2512.18662v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
 | **[Epistemic Robust Offline Reinforcement Learning](https://arxiv.org/abs/2604.07072v1)** | 2026-04-08 |  |
 | **[Offline RL for Adaptive Policy Retrieval in Prior Authorization](https://arxiv.org/abs/2604.05125v1)** | 2026-04-06 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 6 tables</p></details> |
@@ -59,11 +60,15 @@ labels: documentation
 | **[Dense and Diverse Goal Coverage in Multi Goal Reinforcement Learning](https://arxiv.org/abs/2510.25311v2)** | 2026-03-28 | 27 pages, 6 figures |
 | **[120 Minutes and a Laptop: Minimalist Image-goal Navigation via Unsupervised Exploration and Offline RL](https://arxiv.org/abs/2603.26441v1)** | 2026-03-27 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Offline Decision Transformers for Neural Combinatorial Optimization: Surpassing Heuristics on the Traveling Salesman Problem](https://arxiv.org/abs/2603.25241v1)** | 2026-03-26 | <details><summary>11 pa...</summary><p>11 pages, 1 figures. Accepted at NeurIPS 2025 Workshop on DiffCoALG</p></details> |
-| **[Learning to Staff: Offline Reinforcement Learning and Fine-Tuned LLMs for Warehouse Staffing Optimization](https://arxiv.org/abs/2603.24883v1)** | 2026-03-25 | <details><summary>ICLR ...</summary><p>ICLR 2026 Workshop on AI for Mechanism Design and Strategic Decision Making</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Play Piano in the Real World](https://arxiv.org/abs/2503.15481v3)** | 2026-04-13 |  |
+| **[CLAW: Composable Language-Annotated Whole-body Motion Generation](https://arxiv.org/abs/2604.11251v1)** | 2026-04-13 |  |
+| **[LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment](https://arxiv.org/abs/2604.10677v1)** | 2026-04-12 |  |
+| **[OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647v1)** | 2026-04-12 |  |
+| **[AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence](https://arxiv.org/abs/2604.10579v1)** | 2026-04-12 |  |
 | **[EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World](https://arxiv.org/abs/2604.07607v1)** | 2026-04-08 |  |
 | **[RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild](https://arxiv.org/abs/2604.07331v1)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. *Equal contribution by first three authors. Project webpage: https://roshi-mocap.github.io/</p></details> |
 | **[Sustainable Transfer Learning for Adaptive Robot Skills](https://arxiv.org/abs/2604.06943v1)** | 2026-04-08 | <details><summary>Publi...</summary><p>Published in RAAD 2025 (Springer). 7 pages, 5 figures</p></details> |
@@ -74,15 +79,11 @@ labels: documentation
 | **[Learning from Imperfect Demonstrations via Temporal Behavior Tree-Guided Trajectory Repair](https://arxiv.org/abs/2604.04225v1)** | 2026-04-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Robots Need Some Education: On the complexity of learning in evolutionary robotics](https://arxiv.org/abs/2604.04196v1)** | 2026-04-05 | PhD thesis |
 | **[A Multi-View 3D Telepresence System for XR Robot Teleoperation](https://arxiv.org/abs/2604.03730v1)** | 2026-04-04 |  |
-| **[CRAFT: Video Diffusion for Bimanual Robot Data Generation](https://arxiv.org/abs/2604.03552v1)** | 2026-04-04 |  |
-| **[UniCon: A Unified System for Efficient Robot Learning Transfers](https://arxiv.org/abs/2601.14617v2)** | 2026-04-03 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-52064-1}</p></details> |
-| **[Tune to Learn: How Controller Gains Shape Robot Policy Learning](https://arxiv.org/abs/2604.02523v1)** | 2026-04-02 | <details><summary>Equal...</summary><p>Equal contribution between first two authors; order determined by coin flip. Project website: https://younghyopark.me/tune-to-learn</p></details> |
-| **[Emergent Dexterity via Diverse Resets and Large-Scale Reinforcement Learning](https://arxiv.org/abs/2603.15789v3)** | 2026-04-02 |  |
-| **[Pixel Motion Diffusion is What We Need for Robot Control](https://arxiv.org/abs/2509.22652v3)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://eronguyen.github.io/DAWN</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeepFleet: Multi-Agent Foundation Models for Mobile Robots](https://arxiv.org/abs/2508.08574v3)** | 2026-04-13 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 2 tables</p></details> |
 | **[Reimagining RAN Automation in 6G: An Agentic AI Framework with Hierarchical Online Decision Transformer](https://arxiv.org/abs/2604.03908v1)** | 2026-04-05 | <details><summary>Paper...</summary><p>Paper currently under review (IEEE TNSE). Contents of this work may change at any time without notice. This is the author's preliminary version</p></details> |
 | **[Knowledge Distillation for Efficient Transformer-Based Reinforcement Learning in Hardware-Constrained Energy Management Systems](https://arxiv.org/abs/2603.26249v1)** | 2026-03-27 |  |
 | **[Offline Decision Transformers for Neural Combinatorial Optimization: Surpassing Heuristics on the Traveling Salesman Problem](https://arxiv.org/abs/2603.25241v1)** | 2026-03-26 | <details><summary>11 pa...</summary><p>11 pages, 1 figures. Accepted at NeurIPS 2025 Workshop on DiffCoALG</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies](https://arxiv.org/abs/2601.02754v2)** | 2026-02-03 | <details><summary>Due t...</summary><p>Due to the company's compliance requirements, we would like to wait until the paper is officially published before making it publicly available on arXiv</p></details> |
 | **[Spatiotemporal Decision Transformer for Traffic Coordination](https://arxiv.org/abs/2602.02903v1)** | 2026-02-02 |  |
 | **[C2:Cross learning module enhanced decision transformer with Constraint-aware loss for auto-bidding](https://arxiv.org/abs/2601.20257v2)** | 2026-01-29 |  |
-| **[Generalized Policy Gradient with History-Aware Decision Transformer for Path Planning](https://arxiv.org/abs/2508.17218v2)** | 2026-01-26 |  |
 
