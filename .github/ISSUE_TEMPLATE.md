@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2026
+title: Latest 15 Papers - April 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations](https://arxiv.org/abs/2604.10055v2)** | 2026-04-14 |  |
 | **[VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models](https://arxiv.org/abs/2603.22003v2)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://visualprompt-vla.github.io/</p></details> |
 | **[ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2604.09824v1)** | 2026-04-10 |  |
 | **[UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models](https://arxiv.org/abs/2604.02241v2)** | 2026-04-10 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching](https://arxiv.org/abs/2603.26320v3)** | 2026-04-07 |  |
 | **[On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748v3)** | 2026-04-07 |  |
 | **[VLA-InfoEntropy: A Training-Free Vision-Attention Information Entropy Approach for Vision-Language-Action Models Inference Acceleration and Success](https://arxiv.org/abs/2604.05323v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Multimedia and Expo (ICME 2026)</p></details> |
-| **[E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://arxiv.org/abs/2604.04834v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code and dataset will be available at https://github.com/JJayzee/E-VLA</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with A Generalist Foundation Model and Multimodal Database](https://arxiv.org/abs/2512.21652v2)** | 2026-04-14 | <details><summary>Githu...</summary><p>Github: https://github.com/wangziblake/CardioMM_MMCMR-427K</p></details> |
 | **[RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies](https://arxiv.org/abs/2604.09860v1)** | 2026-04-10 |  |
 | **[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](https://arxiv.org/abs/2604.08539v1)** | 2026-04-09 | <details><summary>code ...</summary><p>code at: https://github.com/uclanlp/openvlthinker</p></details> |
 | **[Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism](https://arxiv.org/abs/2510.26083v2)** | 2026-04-08 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection](https://arxiv.org/abs/2603.09349v1)** | 2026-03-10 |  |
 | **[OmniGuide: Universal Guidance Fields for Enhancing Generalist Robot Policies](https://arxiv.org/abs/2603.10052v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project Page: $\href{https://omniguide.github.io/}{this\; url}$</p></details> |
 | **[RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://arxiv.org/abs/2603.04356v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026; First three authors contributed equally</p></details> |
-| **[X-Loco: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation](https://arxiv.org/abs/2603.03733v1)** | 2026-03-04 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers](https://arxiv.org/abs/2604.12509v1)** | 2026-04-14 | <details><summary>PrePr...</summary><p>PrePrint. Project website: sites.google.com/view/whole-moma</p></details> |
+| **[Quantile Q-Learning: Revisiting Offline Extreme Q-Learning with Quantile Regression](https://arxiv.org/abs/2511.11973v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026; Code available at: https://github.com/yunqianevergarden/Quantile-Q-Learning</p></details> |
 | **[CROP: Conservative Reward for Model-based Offline Policy Optimization](https://arxiv.org/abs/2310.17245v2)** | 2026-04-13 |  |
 | **[Pseudo-Expert Regularized Offline RL for End-to-End Autonomous Driving in Photorealistic Closed-Loop Environments](https://arxiv.org/abs/2512.18662v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
 | **[Epistemic Robust Offline Reinforcement Learning](https://arxiv.org/abs/2604.07072v1)** | 2026-04-08 |  |
@@ -58,14 +60,13 @@ labels: documentation
 | **[A Pontryagin Method of Model-based Reinforcement Learning via Hamiltonian Actor-Critic](https://arxiv.org/abs/2603.28971v1)** | 2026-03-30 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, in submission</p></details> |
 | **[Rainbow-DemoRL: Combining Improvements in Demonstration-Augmented Reinforcement Learning](https://arxiv.org/abs/2603.27400v1)** | 2026-03-28 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
 | **[Dense and Diverse Goal Coverage in Multi Goal Reinforcement Learning](https://arxiv.org/abs/2510.25311v2)** | 2026-03-28 | 27 pages, 6 figures |
-| **[120 Minutes and a Laptop: Minimalist Image-goal Navigation via Unsupervised Exploration and Offline RL](https://arxiv.org/abs/2603.26441v1)** | 2026-03-27 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Offline Decision Transformers for Neural Combinatorial Optimization: Surpassing Heuristics on the Traveling Salesman Problem](https://arxiv.org/abs/2603.25241v1)** | 2026-03-26 | <details><summary>11 pa...</summary><p>11 pages, 1 figures. Accepted at NeurIPS 2025 Workshop on DiffCoALG</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Precise Hand Touch Moments in Egocentric Video](https://arxiv.org/abs/2604.12343v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
+| **[CLAW: Composable Language-Annotated Whole-body Motion Generation](https://arxiv.org/abs/2604.11251v2)** | 2026-04-14 |  |
 | **[Learning to Play Piano in the Real World](https://arxiv.org/abs/2503.15481v3)** | 2026-04-13 |  |
-| **[CLAW: Composable Language-Annotated Whole-body Motion Generation](https://arxiv.org/abs/2604.11251v1)** | 2026-04-13 |  |
 | **[LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment](https://arxiv.org/abs/2604.10677v1)** | 2026-04-12 |  |
 | **[OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647v1)** | 2026-04-12 |  |
 | **[AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence](https://arxiv.org/abs/2604.10579v1)** | 2026-04-12 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?](https://arxiv.org/abs/2604.04502v1)** | 2026-04-06 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Equal contribution by Zhongru Zhang, Chenghan Yang, Qingzhou Lu and Yanjiang Guo. Project lead: Yanjiang Guo</p></details> |
 | **[Learning from Imperfect Demonstrations via Temporal Behavior Tree-Guided Trajectory Repair](https://arxiv.org/abs/2604.04225v1)** | 2026-04-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Robots Need Some Education: On the complexity of learning in evolutionary robotics](https://arxiv.org/abs/2604.04196v1)** | 2026-04-05 | PhD thesis |
-| **[A Multi-View 3D Telepresence System for XR Robot Teleoperation](https://arxiv.org/abs/2604.03730v1)** | 2026-04-04 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
