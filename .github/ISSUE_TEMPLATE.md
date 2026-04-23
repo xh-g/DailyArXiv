@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Image Generators are Generalist Vision Learners](https://arxiv.org/abs/2604.20329v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project Page: http://vision-banana.github.io</p></details> |
 | **[A Generalist Model for Diverse Text-Guided Medical Image Synthesis](https://arxiv.org/abs/2405.09806v7)** | 2026-04-21 |  |
 | **[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](https://arxiv.org/abs/2604.08539v2)** | 2026-04-19 | <details><summary>code ...</summary><p>code at: https://github.com/uclanlp/openvlthinker</p></details> |
 | **[RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies](https://arxiv.org/abs/2604.09860v2)** | 2026-04-14 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Generalist Large Language Models for Molecular Property Prediction: Distilling Knowledge from Specialist Models](https://arxiv.org/abs/2603.12344v1)** | 2026-03-12 |  |
 | **[$V_{0.5}$: Generalist Value Model as a Prior for Sparse RL Rollouts](https://arxiv.org/abs/2603.10848v1)** | 2026-03-11 |  |
 | **[TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection](https://arxiv.org/abs/2603.09349v1)** | 2026-03-10 |  |
-| **[OmniGuide: Universal Guidance Fields for Enhancing Generalist Robot Policies](https://arxiv.org/abs/2603.10052v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project Page: $\href{https://omniguide.github.io/}{this\; url}$</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Single-Policy Sample Complexity and Transient Coverage for Average-Reward Offline RL](https://arxiv.org/abs/2506.20904v2)** | 2026-04-21 |  |
 | **[ARM: Advantage Reward Modeling for Long-Horizon Manipulation](https://arxiv.org/abs/2604.03037v2)** | 2026-04-21 |  |
 | **[Fisher Decorator: Refining Flow Policy via A Local Transport Map](https://arxiv.org/abs/2604.17919v1)** | 2026-04-20 |  |
 | **[Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617v2)** | 2026-04-17 | <details><summary>Websi...</summary><p>Website: https://sites.google.com/view/aif-dynamic-t2v/</p></details> |
@@ -59,11 +60,12 @@ labels: documentation
 | **[Future Policy Approximation for Offline Reinforcement Learning Improves Mathematical Reasoning](https://arxiv.org/abs/2509.19893v2)** | 2026-04-03 | 9 pages |
 | **[Mitigating Data Scarcity in Spaceflight Applications for Offline Reinforcement Learning Using Physics-Informed Deep Generative Models](https://arxiv.org/abs/2604.02438v1)** | 2026-04-02 |  |
 | **[V-OCBF: Learning Safety Filters from Offline Data via Value-Guided Offline Control Barrier Functions](https://arxiv.org/abs/2512.10822v2)** | 2026-04-02 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 11 tables. Paper accepted at TMLR</p></details> |
-| **[Residuals-based Offline Reinforcement Learning](https://arxiv.org/abs/2604.01378v1)** | 2026-04-01 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647v2)** | 2026-04-22 |  |
+| **[Rodrigues Network for Learning Robot Actions](https://arxiv.org/abs/2506.02618v2)** | 2026-04-22 | ICLR 2026 |
 | **[RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation](https://arxiv.org/abs/2604.19092v1)** | 2026-04-21 |  |
 | **[COFFAIL: A Dataset of Successful and Anomalous Robot Skill Executions in the Context of Coffee Preparation](https://arxiv.org/abs/2604.18236v1)** | 2026-04-20 | <details><summary>Prese...</summary><p>Presented as an extended abstract at the 2nd German Robotics Conference (GRC)</p></details> |
 | **[FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes](https://arxiv.org/abs/2604.17513v1)** | 2026-04-19 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations](https://arxiv.org/abs/2511.04671v2)** | 2026-04-15 | ICRA 2026 |
 | **[Detecting Precise Hand Touch Moments in Egocentric Video](https://arxiv.org/abs/2604.12343v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
 | **[Learning to Play Piano in the Real World](https://arxiv.org/abs/2503.15481v3)** | 2026-04-13 |  |
-| **[LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment](https://arxiv.org/abs/2604.10677v1)** | 2026-04-12 |  |
-| **[OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647v1)** | 2026-04-12 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
