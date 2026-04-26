@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Long-Horizon Manipulation via Trace-Conditioned VLA Planning](https://arxiv.org/abs/2604.21924v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://www.liuisabella.com/LoHoManip</p></details> |
+| **[From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges](https://arxiv.org/abs/2604.21391v1)** | 2026-04-23 |  |
+| **[How VLAs (Really) Work In Open-World Environments](https://arxiv.org/abs/2604.21192v1)** | 2026-04-23 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |
+| **[VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956v2)** | 2026-04-22 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, Accepted to ACL-2026, KnowFM</p></details> |
 | **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
 | **[Can Explicit Physical Feasibility Benefit VLA Learning? An Empirical Study](https://arxiv.org/abs/2604.17896v1)** | 2026-04-20 | 8 pages, 5 figures |
 | **[ST-$π$: Structured SpatioTemporal VLA for Robotic Manipulation](https://arxiv.org/abs/2604.17880v1)** | 2026-04-20 |  |
@@ -18,14 +22,11 @@ labels: documentation
 | **[STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations](https://arxiv.org/abs/2604.10055v2)** | 2026-04-14 |  |
 | **[VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models](https://arxiv.org/abs/2603.22003v2)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://visualprompt-vla.github.io/</p></details> |
 | **[ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2604.09824v1)** | 2026-04-10 |  |
-| **[UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models](https://arxiv.org/abs/2604.02241v2)** | 2026-04-10 |  |
-| **[AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](https://arxiv.org/abs/2511.18960v3)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 (Highlight)</p></details> |
-| **[HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](https://arxiv.org/abs/2512.09928v2)** | 2026-04-09 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project page: https://hifvla.github.io, Github: https://github.com/OpenHelix-Team/HiF-VLA</p></details> |
-| **[Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710v3)** | 2026-04-09 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization](https://arxiv.org/abs/2604.21370v1)** | 2026-04-23 | <details><summary>9 pag...</summary><p>9 pages, 9 tables. Accepted to the 20th International Workshop on Semantic Evaluation (SemEval-2026), Task 9</p></details> |
 | **[Image Generators are Generalist Vision Learners](https://arxiv.org/abs/2604.20329v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project Page: http://vision-banana.github.io</p></details> |
 | **[A Generalist Model for Diverse Text-Guided Medical Image Synthesis](https://arxiv.org/abs/2405.09806v7)** | 2026-04-21 |  |
 | **[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](https://arxiv.org/abs/2604.08539v2)** | 2026-04-19 | <details><summary>code ...</summary><p>code at: https://github.com/uclanlp/openvlthinker</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Scaling Generalist Data-Analytic Agents](https://arxiv.org/abs/2509.25084v3)** | 2026-03-12 | ICLR 2026 |
 | **[Generalist Large Language Models for Molecular Property Prediction: Distilling Knowledge from Specialist Models](https://arxiv.org/abs/2603.12344v1)** | 2026-03-12 |  |
 | **[$V_{0.5}$: Generalist Value Model as a Prior for Sparse RL Rollouts](https://arxiv.org/abs/2603.10848v1)** | 2026-03-11 |  |
-| **[TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection](https://arxiv.org/abs/2603.09349v1)** | 2026-03-10 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics](https://arxiv.org/abs/2604.21017v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project website: https://open-h.github.io/open-h-embodiment/</p></details> |
 | **[OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647v2)** | 2026-04-22 |  |
 | **[Rodrigues Network for Learning Robot Actions](https://arxiv.org/abs/2506.02618v2)** | 2026-04-22 | ICLR 2026 |
 | **[RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation](https://arxiv.org/abs/2604.19092v1)** | 2026-04-21 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks](https://arxiv.org/abs/2510.00573v2)** | 2026-04-15 |  |
 | **[X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations](https://arxiv.org/abs/2511.04671v2)** | 2026-04-15 | ICRA 2026 |
 | **[Detecting Precise Hand Touch Moments in Egocentric Video](https://arxiv.org/abs/2604.12343v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
-| **[Learning to Play Piano in the Real World](https://arxiv.org/abs/2503.15481v3)** | 2026-04-13 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
