@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning](https://arxiv.org/abs/2604.22558v1)** | 2026-04-24 | <details><summary>14 pa...</summary><p>14 pages, 11 figures. Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
+| **[Preserve Support, Not Correspondence: Dynamic Routing for Offline Reinforcement Learning](https://arxiv.org/abs/2604.22229v1)** | 2026-04-24 | 17 pages, 4 figures |
 | **[Optimal Single-Policy Sample Complexity and Transient Coverage for Average-Reward Offline RL](https://arxiv.org/abs/2506.20904v2)** | 2026-04-21 |  |
 | **[ARM: Advantage Reward Modeling for Long-Horizon Manipulation](https://arxiv.org/abs/2604.03037v2)** | 2026-04-21 |  |
 | **[Fisher Decorator: Refining Flow Policy via A Local Transport Map](https://arxiv.org/abs/2604.17919v1)** | 2026-04-20 |  |
@@ -58,12 +60,11 @@ labels: documentation
 | **[Epistemic Robust Offline Reinforcement Learning](https://arxiv.org/abs/2604.07072v1)** | 2026-04-08 |  |
 | **[Offline RL for Adaptive Policy Retrieval in Prior Authorization](https://arxiv.org/abs/2604.05125v1)** | 2026-04-06 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 6 tables</p></details> |
 | **[Future Policy Approximation for Offline Reinforcement Learning Improves Mathematical Reasoning](https://arxiv.org/abs/2509.19893v2)** | 2026-04-03 | 9 pages |
-| **[Mitigating Data Scarcity in Spaceflight Applications for Offline Reinforcement Learning Using Physics-Informed Deep Generative Models](https://arxiv.org/abs/2604.02438v1)** | 2026-04-02 |  |
-| **[V-OCBF: Learning Safety Filters from Offline Data via Value-Guided Offline Control Barrier Functions](https://arxiv.org/abs/2512.10822v2)** | 2026-04-02 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 11 tables. Paper accepted at TMLR</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evidence of an Emergent "Self" in Continual Robot Learning](https://arxiv.org/abs/2603.24350v2)** | 2026-04-24 | <details><summary>43 pa...</summary><p>43 pages, 22 figures, includes supplementary materials</p></details> |
 | **[Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics](https://arxiv.org/abs/2604.21017v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project website: https://open-h.github.io/open-h-embodiment/</p></details> |
 | **[OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647v2)** | 2026-04-22 |  |
 | **[Rodrigues Network for Learning Robot Actions](https://arxiv.org/abs/2506.02618v2)** | 2026-04-22 | ICLR 2026 |
@@ -78,7 +79,6 @@ labels: documentation
 | **[IGen: Scalable Data Generation for Robot Learning from Open-World Images](https://arxiv.org/abs/2512.01773v2)** | 2026-04-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures; Accepted to CVPR 2026</p></details> |
 | **[GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks](https://arxiv.org/abs/2510.00573v2)** | 2026-04-15 |  |
 | **[X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations](https://arxiv.org/abs/2511.04671v2)** | 2026-04-15 | ICRA 2026 |
-| **[Detecting Precise Hand Touch Moments in Egocentric Video](https://arxiv.org/abs/2604.12343v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
