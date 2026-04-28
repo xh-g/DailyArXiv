@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies](https://arxiv.org/abs/2604.24622v1)** | 2026-04-27 |  |
+| **[RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models](https://arxiv.org/abs/2603.20711v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This paper has been accepted by IJCNN 2026</p></details> |
+| **[KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models](https://arxiv.org/abs/2603.01581v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This paper has been accepted by DAC 2026</p></details> |
+| **[$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills](https://arxiv.org/abs/2604.24182v1)** | 2026-04-27 |  |
+| **[AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation](https://arxiv.org/abs/2604.24086v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables</p></details> |
+| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948v6)** | 2026-04-27 |  |
+| **[Breaking Lock-In: Preserving Steerability under Low-Data VLA Post-Training](https://arxiv.org/abs/2604.23121v1)** | 2026-04-25 |  |
 | **[Long-Horizon Manipulation via Trace-Conditioned VLA Planning](https://arxiv.org/abs/2604.21924v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://www.liuisabella.com/LoHoManip</p></details> |
 | **[From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges](https://arxiv.org/abs/2604.21391v1)** | 2026-04-23 |  |
 | **[How VLAs (Really) Work In Open-World Environments](https://arxiv.org/abs/2604.21192v1)** | 2026-04-23 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |
@@ -15,17 +22,11 @@ labels: documentation
 | **[Can Explicit Physical Feasibility Benefit VLA Learning? An Empirical Study](https://arxiv.org/abs/2604.17896v1)** | 2026-04-20 | 8 pages, 5 figures |
 | **[ST-$π$: Structured SpatioTemporal VLA for Robotic Manipulation](https://arxiv.org/abs/2604.17880v1)** | 2026-04-20 |  |
 | **[2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness](https://arxiv.org/abs/2604.09244v2)** | 2026-04-18 |  |
-| **[vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966v2)** | 2026-04-17 |  |
-| **[AutoDrive-R$^2$: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v3)** | 2026-04-17 |  |
-| **[Long-Term Memory for VLA-based Agents in Open-World Task Execution](https://arxiv.org/abs/2604.15671v1)** | 2026-04-17 |  |
-| **[Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](https://arxiv.org/abs/2511.14178v2)** | 2026-04-16 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, submitted to IEEE RA-L</p></details> |
-| **[STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations](https://arxiv.org/abs/2604.10055v2)** | 2026-04-14 |  |
-| **[VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models](https://arxiv.org/abs/2603.22003v2)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://visualprompt-vla.github.io/</p></details> |
-| **[ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2604.09824v1)** | 2026-04-10 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Model as a Generalist Segmentation Learner](https://arxiv.org/abs/2604.24575v1)** | 2026-04-27 |  |
 | **[MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization](https://arxiv.org/abs/2604.21370v1)** | 2026-04-23 | <details><summary>9 pag...</summary><p>9 pages, 9 tables. Accepted to the 20th International Workshop on Semantic Evaluation (SemEval-2026), Task 9</p></details> |
 | **[Image Generators are Generalist Vision Learners](https://arxiv.org/abs/2604.20329v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project Page: http://vision-banana.github.io</p></details> |
 | **[A Generalist Model for Diverse Text-Guided Medical Image Synthesis](https://arxiv.org/abs/2405.09806v7)** | 2026-04-21 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities](https://arxiv.org/abs/2603.24318v1)** | 2026-03-25 |  |
 | **[Scaling Generalist Data-Analytic Agents](https://arxiv.org/abs/2509.25084v3)** | 2026-03-12 | ICLR 2026 |
 | **[Generalist Large Language Models for Molecular Property Prediction: Distilling Knowledge from Specialist Models](https://arxiv.org/abs/2603.12344v1)** | 2026-03-12 |  |
-| **[$V_{0.5}$: Generalist Value Model as a Prior for Sparse RL Rollouts](https://arxiv.org/abs/2603.10848v1)** | 2026-03-11 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
+| **[SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation](https://arxiv.org/abs/2509.25358v4)** | 2026-04-27 |  |
+| **[Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](https://arxiv.org/abs/2604.23775v1)** | 2026-04-26 |  |
+| **[EgoLive: A Large-Scale Egocentric Dataset from Real-World Human Tasks](https://arxiv.org/abs/2604.23570v1)** | 2026-04-26 |  |
 | **[Evidence of an Emergent "Self" in Continual Robot Learning](https://arxiv.org/abs/2603.24350v2)** | 2026-04-24 | <details><summary>43 pa...</summary><p>43 pages, 22 figures, includes supplementary materials</p></details> |
 | **[Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics](https://arxiv.org/abs/2604.21017v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project website: https://open-h.github.io/open-h-embodiment/</p></details> |
 | **[OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647v2)** | 2026-04-22 |  |
@@ -75,10 +79,6 @@ labels: documentation
 | **[From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation](https://arxiv.org/abs/2604.15805v1)** | 2026-04-17 |  |
 | **[CLAW: Composable Language-Annotated Whole-body Motion Generation](https://arxiv.org/abs/2604.11251v3)** | 2026-04-17 |  |
 | **[Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories](https://arxiv.org/abs/2603.25903v2)** | 2026-04-16 |  |
-| **[AFFORD2ACT: Affordance-Guided Automatic Keypoint Selection for Generalizable and Lightweight Robotic Manipulation](https://arxiv.org/abs/2510.01433v2)** | 2026-04-15 |  |
-| **[IGen: Scalable Data Generation for Robot Learning from Open-World Images](https://arxiv.org/abs/2512.01773v2)** | 2026-04-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures; Accepted to CVPR 2026</p></details> |
-| **[GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks](https://arxiv.org/abs/2510.00573v2)** | 2026-04-15 |  |
-| **[X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations](https://arxiv.org/abs/2511.04671v2)** | 2026-04-15 | ICRA 2026 |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
