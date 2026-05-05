@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VILAS: A VLA-Integrated Low-cost Architecture with Soft Grasping for Robotic Manipulation](https://arxiv.org/abs/2605.02037v1)** | 2026-05-03 |  |
+| **[Phone2Act: A Low-Cost, Hardware-Agnostic Teleoperation System for Scalable VLA Data Collection](https://arxiv.org/abs/2605.01948v1)** | 2026-05-03 | 6 pages, 5 figures |
+| **[Anticipation-VLA: Solving Long-Horizon Embodied Tasks via Anticipation-based Subgoal Generation](https://arxiv.org/abs/2605.01772v1)** | 2026-05-03 |  |
+| **[VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](https://arxiv.org/abs/2605.01194v1)** | 2026-05-02 |  |
+| **[Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery](https://arxiv.org/abs/2605.01191v1)** | 2026-05-02 |  |
 | **[VLAs are Confined yet Capable of Generalizing to Novel Instructions](https://arxiv.org/abs/2505.03500v5)** | 2026-05-01 |  |
 | **[LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models](https://arxiv.org/abs/2604.28192v1)** | 2026-04-30 |  |
 | **[Do World Action Models Generalize Better than VLAs? A Robustness Study](https://arxiv.org/abs/2603.22078v3)** | 2026-04-30 |  |
@@ -17,15 +22,11 @@ labels: documentation
 | **[RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models](https://arxiv.org/abs/2603.20711v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This paper has been accepted by IJCNN 2026</p></details> |
 | **[KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models](https://arxiv.org/abs/2603.01581v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This paper has been accepted by DAC 2026</p></details> |
 | **[$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills](https://arxiv.org/abs/2604.24182v1)** | 2026-04-27 |  |
-| **[AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation](https://arxiv.org/abs/2604.24086v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables</p></details> |
-| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948v6)** | 2026-04-27 |  |
-| **[Breaking Lock-In: Preserving Steerability under Low-Data VLA Post-Training](https://arxiv.org/abs/2604.23121v1)** | 2026-04-25 |  |
-| **[Long-Horizon Manipulation via Trace-Conditioned VLA Planning](https://arxiv.org/abs/2604.21924v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://www.liuisabella.com/LoHoManip</p></details> |
-| **[From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges](https://arxiv.org/abs/2604.21391v1)** | 2026-04-23 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM](https://arxiv.org/abs/2605.02283v1)** | 2026-05-04 |  |
 | **[InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction](https://arxiv.org/abs/2505.10887v3)** | 2026-05-01 |  |
 | **[Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416v1)** | 2026-05-01 | No |
 | **[Diffusion Model as a Generalist Segmentation Learner](https://arxiv.org/abs/2604.24575v1)** | 2026-04-27 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning](https://arxiv.org/abs/2603.16880v2)** | 2026-04-02 |  |
 | **[$V_0$: A Generalist Value Model for Any Policy at State Zero](https://arxiv.org/abs/2602.03584v2)** | 2026-03-31 |  |
 | **[Can Generalist Vision Language Models (VLMs) Rival Specialist Medical VLMs? Benchmarking and Strategic Insights](https://arxiv.org/abs/2506.17337v4)** | 2026-03-29 | version 3 |
-| **[Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities](https://arxiv.org/abs/2603.24318v1)** | 2026-03-25 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/abs/2605.01968v1)** | 2026-05-03 |  |
+| **[Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning](https://arxiv.org/abs/2605.01663v1)** | 2026-05-03 | ICML 2026 |
 | **[GUI Agents with Reinforcement Learning: Toward Digital Inhabitants](https://arxiv.org/abs/2604.27955v1)** | 2026-04-30 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Steve2457/Awesome-RL-GUI-Agents</p></details> |
 | **[The hidden risks of temporal resampling in clinical reinforcement learning](https://arxiv.org/abs/2602.06603v3)** | 2026-04-29 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 3 tables. v3 updates with lit rev table</p></details> |
 | **[Adaptive Scaling of Policy Constraints for Offline Reinforcement Learning](https://arxiv.org/abs/2508.19900v2)** | 2026-04-29 |  |
@@ -58,31 +60,30 @@ labels: documentation
 | **[Reinforcement Learning via Value Gradient Flow](https://arxiv.org/abs/2604.14265v1)** | 2026-04-15 | ICLR 2026 |
 | **[Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization](https://arxiv.org/abs/2604.13175v1)** | 2026-04-14 |  |
 | **[Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers](https://arxiv.org/abs/2604.12509v1)** | 2026-04-14 | <details><summary>PrePr...</summary><p>PrePrint. Project website: sites.google.com/view/whole-moma</p></details> |
-| **[Quantile Q-Learning: Revisiting Offline Extreme Q-Learning with Quantile Regression](https://arxiv.org/abs/2511.11973v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026; Code available at: https://github.com/yunqianevergarden/Quantile-Q-Learning</p></details> |
-| **[CROP: Conservative Reward for Model-based Offline Policy Optimization](https://arxiv.org/abs/2310.17245v2)** | 2026-04-13 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788v2)** | 2026-05-04 | <details><summary>Proje...</summary><p>Project website: https://prpl-group.com/kinder-site/. 21 pages, 8 figures. Accepted to Robotics Science and Systems (RSS), 2026</p></details> |
+| **[Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning](https://arxiv.org/abs/2510.03599v2)** | 2026-05-02 |  |
+| **[TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos](https://arxiv.org/abs/2605.01234v1)** | 2026-05-02 |  |
+| **[Learning to Race in Minutes: Infoprop Dyna on the Mini Wheelbot](https://arxiv.org/abs/2605.01096v1)** | 2026-05-01 | <details><summary>Origi...</summary><p>Originally submitted to the German Robotics Conference, 2026</p></details> |
 | **[E$^2$DT: Efficient and Effective Decision Transformer with Experience-Aware Sampling for Robotic Manipulation](https://arxiv.org/abs/2605.00159v1)** | 2026-04-30 | ICRA2026 accepted |
 | **[World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080v1)** | 2026-04-30 | 43 pages, 6 figures |
 | **[Robot Learning from Human Videos: A Survey](https://arxiv.org/abs/2604.27621v1)** | 2026-04-30 | <details><summary>Paper...</summary><p>Paper list: https://github.com/IRMVLab/awesome-robot-learning-from-human-videos</p></details> |
 | **[PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations](https://arxiv.org/abs/2604.27472v1)** | 2026-04-30 | 38 pages, 12 figures |
 | **[3D Generation for Embodied AI and Robotic Simulation: A Survey](https://arxiv.org/abs/2604.26509v1)** | 2026-04-29 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, 8 tables. Project Page: https://3dgen4robot.github.io</p></details> |
 | **[Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics](https://arxiv.org/abs/2604.21017v2)** | 2026-04-29 | <details><summary>Proje...</summary><p>Project website: https://open-h.github.io/open-h-embodiment/</p></details> |
-| **[KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788v1)** | 2026-04-28 | <details><summary>Proje...</summary><p>Project website: https://prpl-group.com/kinder-site/. 21 pages, 8 figures. Accepted to Robotics Science and Systems (RSS), 2026</p></details> |
 | **[GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](https://arxiv.org/abs/2604.25459v1)** | 2026-04-28 | <details><summary>Robot...</summary><p>Robotics: Science and Systems 2026</p></details> |
 | **[Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot](https://arxiv.org/abs/2601.02078v2)** | 2026-04-28 |  |
 | **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
 | **[SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation](https://arxiv.org/abs/2509.25358v4)** | 2026-04-27 |  |
 | **[Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](https://arxiv.org/abs/2604.23775v1)** | 2026-04-26 |  |
-| **[EgoLive: A Large-Scale Egocentric Dataset from Real-World Human Tasks](https://arxiv.org/abs/2604.23570v1)** | 2026-04-26 |  |
-| **[Evidence of an Emergent "Self" in Continual Robot Learning](https://arxiv.org/abs/2603.24350v2)** | 2026-04-24 | <details><summary>43 pa...</summary><p>43 pages, 22 figures, includes supplementary materials</p></details> |
-| **[OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](https://arxiv.org/abs/2604.10647v2)** | 2026-04-22 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL](https://arxiv.org/abs/2605.01862v1)** | 2026-05-03 | ICML 2026 |
 | **[Borrowed Geometry: Computational Reuse of Frozen Text-Pretrained Transformer Weights Across Modalities](https://arxiv.org/abs/2605.00333v1)** | 2026-05-01 | <details><summary>29 pa...</summary><p>29 pages, 11 figures. Independent research</p></details> |
 | **[E$^2$DT: Efficient and Effective Decision Transformer with Experience-Aware Sampling for Robotic Manipulation](https://arxiv.org/abs/2605.00159v1)** | 2026-04-30 | ICRA2026 accepted |
 | **[TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning](https://arxiv.org/abs/2604.25898v1)** | 2026-04-28 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Return Augmented Decision Transformer for Off-Dynamics Reinforcement Learning](https://arxiv.org/abs/2410.23450v2)** | 2026-03-02 | <details><summary>26 pa...</summary><p>26 pages, 11 tables, 8 figures. Published in Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation](https://arxiv.org/abs/2602.16174v1)** | 2026-02-18 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Accepted paper at IEEE International Conference on Communications (ICC) 2026</p></details> |
 | **[ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving](https://arxiv.org/abs/2511.11079v3)** | 2026-02-15 | <details><summary>KDD 2...</summary><p>KDD 2026 (Datasets and Benchmarks) accepted</p></details> |
-| **[Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization](https://arxiv.org/abs/2602.08261v1)** | 2026-02-09 |  |
 
