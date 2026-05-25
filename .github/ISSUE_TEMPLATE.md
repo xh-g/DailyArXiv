@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ChainFlow-VLA: Causal Flow Planning with Vision-Language Models](https://arxiv.org/abs/2605.23270v1)** | 2026-05-22 |  |
+| **[Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.22896v1)** | 2026-05-21 | Total 15 pages |
 | **[Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts](https://arxiv.org/abs/2605.22446v1)** | 2026-05-21 |  |
 | **[DriveMA: Rethinking Language Interfaces in Driving VLAs with One-Step Meta-Actions](https://arxiv.org/abs/2605.21273v2)** | 2026-05-21 | <details><summary>We wi...</summary><p>We withdraw this submission because the current version contains a mismatch between the paper title, conceptual framing, and the intended contribution of the work. To avoid potential misunderstanding by readers, the authors have decided to withdraw this version and substantially revise the title, organization, and presentation before any future submission</p></details> |
 | **[EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control](https://arxiv.org/abs/2605.21862v1)** | 2026-05-21 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2605.19580v1)** | 2026-05-19 |  |
 | **[SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving](https://arxiv.org/abs/2605.19524v1)** | 2026-05-19 |  |
 | **[DEFLECT: Delay-Robust Execution via Flow-matching Likelihood-Estimated Counterfactual Tuning for VLA Policies](https://arxiv.org/abs/2605.19294v1)** | 2026-05-19 |  |
-| **[Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR](https://arxiv.org/abs/2605.19282v1)** | 2026-05-19 |  |
-| **[Dexora: Open-source VLA for High-DoF Bimanual Dexterity](https://arxiv.org/abs/2605.18722v1)** | 2026-05-18 | <details><summary>Accpe...</summary><p>Accpeted by ICRA 2026</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Customized vs. Generalist Transformer-based Models for Legal Contract Classification](https://arxiv.org/abs/2508.07849v2)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to Customizable NLP at ACL 2026</p></details> |
 | **[NeighborDiv: Training-free Zero-shot Generalist Graph Anomaly Detection via Neighbor Diversity](https://arxiv.org/abs/2605.20879v1)** | 2026-05-20 |  |
 | **[Governance by Construction for Generalist Agents](https://arxiv.org/abs/2605.20874v1)** | 2026-05-20 |  |
 | **[Vision Foundation Models as Generalist Tokenizers for Image Generation](https://arxiv.org/abs/2605.18390v1)** | 2026-05-18 | <details><summary>4 fig...</summary><p>4 figures and 14 tables</p></details> |
@@ -40,12 +41,11 @@ labels: documentation
 | **[TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding](https://arxiv.org/abs/2605.04962v1)** | 2026-05-06 | <details><summary>15 pa...</summary><p>15 pages, 8 figures. Code and datasets are available at https://github.com/qiangminjie27/TabEmbed</p></details> |
 | **[Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM](https://arxiv.org/abs/2605.02283v1)** | 2026-05-04 |  |
 | **[InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction](https://arxiv.org/abs/2505.10887v3)** | 2026-05-01 |  |
-| **[Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416v1)** | 2026-05-01 | No |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Tale of Two Cities: Pessimism and Opportunism in Offline Dynamic Pricing](https://arxiv.org/abs/2411.08126v2)** | 2026-05-21 |  |
+| **[A Tale of Two Cities: Pessimism and Opportunism in Offline Dynamic Pricing](https://arxiv.org/abs/2411.08126v3)** | 2026-05-22 |  |
 | **[[Re] FairDICE: A Fair Tradeoff in Multi-objective Offline RL](https://arxiv.org/abs/2603.03454v2)** | 2026-05-21 | <details><summary>12 pa...</summary><p>12 pages, 8 figures in main text. Code at https://github.com/p-adema/re-fairdice. Reviewed at https://openreview.net/forum?id=Tr6MBt0hAj</p></details> |
 | **[Target-Aligned Bellman Backup for Cross-domain Offline Reinforcement Learning](https://arxiv.org/abs/2605.22376v1)** | 2026-05-21 |  |
 | **[PREFINE: Preference-Based Implicit Reward and Cost Fine-Tuning for Safety Alignment](https://arxiv.org/abs/2605.21225v1)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at AAMAS 2026 as a full paper</p></details> |
