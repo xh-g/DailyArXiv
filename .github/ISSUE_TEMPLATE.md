@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](https://arxiv.org/abs/2602.02459v2)** | 2026-05-29 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
+| **[Notes-to-Self: Scratchpad Augmented VLAs for Memory Dependent Manipulation Tasks](https://arxiv.org/abs/2602.21013v2)** | 2026-05-29 | <details><summary>To ap...</summary><p>To appear at ICRA 2026</p></details> |
+| **[HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model](https://arxiv.org/abs/2605.31234v1)** | 2026-05-29 |  |
+| **[Can Aerial VLA Models Cooperate? Evaluating Closed-Loop Air-Ground Coordination with CARLA-Air](https://arxiv.org/abs/2605.31066v1)** | 2026-05-29 | <details><summary>Code ...</summary><p>Code at https://github.com/louiszengCN/CarlaAir</p></details> |
+| **[Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](https://arxiv.org/abs/2605.30834v1)** | 2026-05-29 |  |
+| **[Primitive Subspaces Mediate Few-Shot Transfer in VLAs](https://arxiv.org/abs/2605.30695v1)** | 2026-05-29 |  |
+| **[BOKBO (Best of K Bad Options): Calibrated Abstention for VLA Policies](https://arxiv.org/abs/2605.30660v1)** | 2026-05-28 |  |
 | **[Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280v1)** | 2026-05-28 | 34 pages |
 | **[BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models](https://arxiv.org/abs/2605.30226v1)** | 2026-05-28 | 24 pages,11 figures |
 | **[VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing](https://arxiv.org/abs/2605.30117v1)** | 2026-05-28 |  |
@@ -15,13 +22,6 @@ labels: documentation
 | **[VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](https://arxiv.org/abs/2605.29562v1)** | 2026-05-28 |  |
 | **[VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](https://arxiv.org/abs/2605.01194v2)** | 2026-05-28 |  |
 | **[Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery](https://arxiv.org/abs/2605.01191v2)** | 2026-05-28 |  |
-| **[How VLAs Fail Differently: Black-Box Action Monitoring Reveals Architecture-Specific Failure Signatures](https://arxiv.org/abs/2605.28726v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at IEEE ICRA 2026 Workshop "From Data to Decisions: VLA Pipelines for Real Robots", Vienna, June 2026. Non-archival workshop. 5 pages, 2 figures, 22 references</p></details> |
-| **[What Frozen VLAs Already Know About Success: A Probing Study of Value-Like Structure in Foundation Robot Policies](https://arxiv.org/abs/2605.28527v1)** | 2026-05-27 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 11 tables. Equal contribution: Jiachen Zhang, Junnan Nie, and Junyi Lao. Corresponding author: Songfang Huang. Preprint</p></details> |
-| **[Mag-VLA: Vision-Language-Action Model for Bimanual Magnetically Actuated Microrobot Manipulation](https://arxiv.org/abs/2605.28486v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted by 2026 MARSS</p></details> |
-| **[VLA-Hijack: A Transferable Patch Attack against Vision-Language-Action Models via Visual Proprioception Hijacking](https://arxiv.org/abs/2605.28083v1)** | 2026-05-27 |  |
-| **[Bridging the Semantic-Action Gap in Visual Token Pruning for Efficient VLA Inference](https://arxiv.org/abs/2511.16449v5)** | 2026-05-26 |  |
-| **[Can VLA Models Learn from Real-World Data Continually without Forgetting?](https://arxiv.org/abs/2605.26820v1)** | 2026-05-26 |  |
-| **[A Factory-Floor Deployment Case Study of VLA Pipelines for Industrial Packaging Task: Workflow, Failures, and Lessons](https://arxiv.org/abs/2605.27461v1)** | 2026-05-25 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Lecture Note on Offline RL and IRL, Part II: Foundations of Inverse Reinforcement Learning and Dynamic Discrete Choice Models](https://arxiv.org/abs/2605.30843v1)** | 2026-05-29 |  |
 | **[Offline Reinforcement Learning with Generative Trajectory Policies](https://arxiv.org/abs/2510.11499v2)** | 2026-05-28 | ICML 2026 |
 | **[Information-Directed Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2605.29405v1)** | 2026-05-28 |  |
 | **[Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning](https://arxiv.org/abs/2605.01663v2)** | 2026-05-28 | ICML 2026 |
@@ -59,11 +60,13 @@ labels: documentation
 | **[Generative OOD-regularized Model-based Policy Optimization](https://arxiv.org/abs/2605.24405v1)** | 2026-05-23 |  |
 | **[A Tale of Two Cities: Pessimism and Opportunism in Offline Dynamic Pricing](https://arxiv.org/abs/2411.08126v3)** | 2026-05-22 |  |
 | **[[Re] FairDICE: A Fair Tradeoff in Multi-objective Offline RL](https://arxiv.org/abs/2603.03454v2)** | 2026-05-21 | <details><summary>12 pa...</summary><p>12 pages, 8 figures in main text. Code at https://github.com/p-adema/re-fairdice. Reviewed at https://openreview.net/forum?id=Tr6MBt0hAj</p></details> |
-| **[Target-Aligned Bellman Backup for Cross-domain Offline Reinforcement Learning](https://arxiv.org/abs/2605.22376v1)** | 2026-05-21 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning](https://arxiv.org/abs/2605.31481v1)** | 2026-05-29 |  |
+| **[Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt](https://arxiv.org/abs/2505.20795v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to the IEEE International Conference on Robotics and Automation (ICRA), 2026</p></details> |
+| **[RDGen: Demonstration Generation for High-Quality Robot Learning via Reinforcement Learning](https://arxiv.org/abs/2605.30957v1)** | 2026-05-29 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 3 tables</p></details> |
 | **[DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation](https://arxiv.org/abs/2605.30350v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project website: https://dynaflip-robotics.github.io</p></details> |
 | **[Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation](https://arxiv.org/abs/2605.30282v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://zuo-kuangji.github.io/Gaze2Act/</p></details> |
 | **[MARS Policy: Multimodality Only When It Matters](https://arxiv.org/abs/2605.29766v1)** | 2026-05-28 | 13 figures, 17 pages |
@@ -76,9 +79,6 @@ labels: documentation
 | **[On the Generalization Capabilities, Design Choices and Limitations of Keypoint Imitation Learning](https://arxiv.org/abs/2605.26649v1)** | 2026-05-26 | <details><summary>This ...</summary><p>This version was submitted to IROS 2026</p></details> |
 | **[Continual Model-Based Reinforcement Learning with Hypernetworks](https://arxiv.org/abs/2009.11997v3)** | 2026-05-26 | <details><summary>Updat...</summary><p>Updated link to project website in the abstract. 7 pages (+2 pages in appendix), 8 figures. In proceedings of the 2021 IEEE International Conference on Robotics and Automation</p></details> |
 | **[Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling](https://arxiv.org/abs/2603.06218v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted in ICRA 2026</p></details> |
-| **[MuJoCoUni:Persistent Batched Runtime Primitives for MuJoCo](https://arxiv.org/abs/2605.24922v1)** | 2026-05-24 | Technical report |
-| **[Fishbone: From One 3D Asset to a Million Controllable Edits](https://arxiv.org/abs/2605.24805v1)** | 2026-05-24 | 20 pages, 19 figures |
-| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v2)** | 2026-05-21 | 13 pages, 5 figures |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
