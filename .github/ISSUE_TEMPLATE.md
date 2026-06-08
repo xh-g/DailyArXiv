@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,6 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](https://arxiv.org/abs/2602.12628v4)** | 2026-06-04 |  |
+| **[Robots Need More than VLA and World Models](https://arxiv.org/abs/2606.06556v1)** | 2026-06-04 |  |
 | **[VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training](https://arxiv.org/abs/2606.04708v2)** | 2026-06-04 | <details><summary>Corre...</summary><p>Corrected the typing error</p></details> |
 | **[PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation](https://arxiv.org/abs/2606.05773v1)** | 2026-06-04 |  |
 | **[FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization](https://arxiv.org/abs/2606.05468v1)** | 2026-06-03 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation](https://arxiv.org/abs/2606.02486v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, 16 tables, Su</p></details> |
 | **[Towards Precise Intent-Aligned VLA Aerial Navigation via Expert-Guided GRPO](https://arxiv.org/abs/2606.02313v1)** | 2026-06-01 |  |
 | **[RoboSemanticBench: Diagnosing Semantic Grounding in Action Prediction for VLA Models](https://arxiv.org/abs/2606.02277v1)** | 2026-06-01 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/ZGC-EmbodyAI/RoboSemanticBench</p></details> |
-| **[Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280v2)** | 2026-06-01 | 34 pages |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383v1)** | 2026-06-05 |  |
+| **[QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation](https://arxiv.org/abs/2606.07118v1)** | 2026-06-05 |  |
+| **[Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI](https://arxiv.org/abs/2606.06895v1)** | 2026-06-05 |  |
 | **[Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics](https://arxiv.org/abs/2604.21017v3)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project website: https://open-h.github.io/open-h-embodiment/</p></details> |
 | **[Is Diversity All You Need for Scalable Robotic Manipulation?](https://arxiv.org/abs/2507.06219v2)** | 2026-06-04 | <details><summary>Code ...</summary><p>Code is available at https://github.com/OpenDriveLab/AgiBot-World</p></details> |
 | **[RealDexUMI: A Wearable Universal Manipulation Interface for Dexterous Robot Learning](https://arxiv.org/abs/2606.06033v1)** | 2026-06-04 |  |
@@ -76,9 +79,6 @@ labels: documentation
 | **[Co-training with Ego-centric Video and Demonstration for Robot Navigation Task](https://arxiv.org/abs/2606.01951v1)** | 2026-06-01 |  |
 | **[OSCAR: Obstacle Survival Curves for Adaptive Robot Navigation](https://arxiv.org/abs/2606.00990v1)** | 2026-05-31 | <details><summary>8 pag...</summary><p>8 pages main text, appendices included</p></details> |
 | **[AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence](https://arxiv.org/abs/2604.10579v2)** | 2026-05-30 |  |
-| **[Approximate Imitation Learning for Event-based Quadrotor Flight in Cluttered Environments](https://arxiv.org/abs/2603.07578v2)** | 2026-05-30 |  |
-| **[Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning](https://arxiv.org/abs/2605.31481v1)** | 2026-05-29 |  |
-| **[Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt](https://arxiv.org/abs/2505.20795v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to the IEEE International Conference on Robotics and Automation (ICRA), 2026</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
