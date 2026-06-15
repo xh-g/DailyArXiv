@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 12, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409v1)** | 2026-06-12 |  |
+| **[Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models](https://arxiv.org/abs/2606.14375v1)** | 2026-06-12 |  |
+| **[When and How Severely: Scenario-Specific Safety Envelopes for Driving VLAs](https://arxiv.org/abs/2606.14238v1)** | 2026-06-12 |  |
+| **[Encoder Winners Do Not Reliably Transfer Across VLA Backbone Scale: A Frozen-Backbone Grafting Diagnostic](https://arxiv.org/abs/2606.14153v1)** | 2026-06-12 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 8 tables</p></details> |
+| **[Self-Improving VLA Policies: Selected Diffusion Noise for Spurious-Robust Action Smoothing](https://arxiv.org/abs/2606.14084v1)** | 2026-06-12 |  |
+| **[RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation](https://arxiv.org/abs/2606.14010v1)** | 2026-06-12 |  |
+| **[PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation](https://arxiv.org/abs/2606.13886v1)** | 2026-06-11 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, supplementary material included</p></details> |
+| **[Output-Level Regularization Eliminates the Seed Lottery in Single-GPU VLA Fine-Tuning](https://arxiv.org/abs/2606.13856v1)** | 2026-06-11 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, submitted to CoRL 2026</p></details> |
+| **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v3)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/, GM-100: https://huggingface.co/datasets/robbyant/lingbot-GM-100</p></details> |
+| **[AIR-VLA+: Decoupling Movement and Manipulation via Cascaded Dual-Action Decoders with Asymmetric MoE for Aerial Robots](https://arxiv.org/abs/2606.12859v1)** | 2026-06-11 |  |
+| **[Safety Case Patterns for VLA-based driving systems: Insights from SimLingo](https://arxiv.org/abs/2603.16013v3)** | 2026-06-11 |  |
+| **[VLADriveBench: Evaluating CoT-Action Relationship in VLA for Autonomous Driving](https://arxiv.org/abs/2606.12706v1)** | 2026-06-10 |  |
+| **[PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation](https://arxiv.org/abs/2606.12616v1)** | 2026-06-10 |  |
 | **[CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy](https://arxiv.org/abs/2606.12352v1)** | 2026-06-10 | <details><summary>Proje...</summary><p>Project Website: https://chorus-model.github.io</p></details> |
 | **[Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering](https://arxiv.org/abs/2606.12299v1)** | 2026-06-10 | <details><summary>22 pa...</summary><p>22 pages, 14 tables, 14 figures</p></details> |
-| **[Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning](https://arxiv.org/abs/2606.12109v1)** | 2026-06-10 |  |
-| **[DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model](https://arxiv.org/abs/2606.12105v1)** | 2026-06-10 | 17 pages, 8 figures |
-| **[GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation](https://arxiv.org/abs/2606.08530v2)** | 2026-06-10 |  |
-| **[TacCoRL: Integrating Tactile Feedback into VLA via Simulation](https://arxiv.org/abs/2606.11743v1)** | 2026-06-10 |  |
-| **[TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2606.09337v2)** | 2026-06-10 |  |
-| **[QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2510.14836v3)** | 2026-06-09 |  |
-| **[A Practical Recipe Towards Improving Sim-and-Real Correlation for VLA Evaluation](https://arxiv.org/abs/2606.10366v1)** | 2026-06-09 | 20 pages |
-| **[What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents](https://arxiv.org/abs/2606.10267v1)** | 2026-06-09 |  |
-| **[See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs](https://arxiv.org/abs/2606.02735v2)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://s2.airoa.io</p></details> |
-| **[Back to the Familiar Future: Failure Recovery for VLA Policies via Pre-Imagined Milestone Selection](https://arxiv.org/abs/2606.09258v1)** | 2026-06-08 |  |
-| **[Two Bridges, One Pathway: From VLMs to Generalizable VLAs with Embodied Trajectory-Coupled Data](https://arxiv.org/abs/2606.08520v1)** | 2026-06-07 |  |
-| **[Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](https://arxiv.org/abs/2603.19183v2)** | 2026-06-06 | 24 pages, 11 figures |
-| **[BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models](https://arxiv.org/abs/2605.30226v2)** | 2026-06-06 | 24 pages,11 figures |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675v2)** | 2026-06-12 |  |
+| **[Value-order Decomposition for Generalist Anomaly Detection](https://arxiv.org/abs/2606.14475v1)** | 2026-06-12 |  |
+| **[X-Loco: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation](https://arxiv.org/abs/2603.03733v2)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted by RSS 2026. Project page: https://x-loco-humanoid.github.io/</p></details> |
+| **[FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://arxiv.org/abs/2606.13102v1)** | 2026-06-11 |  |
 | **[Embodiment-conditioned Generalist Control for Multirotor Aerial Robots](https://arxiv.org/abs/2606.10857v1)** | 2026-06-09 |  |
 | **[WebChallenger: A Reliable and Efficient Generalist Web Agent](https://arxiv.org/abs/2606.10423v1)** | 2026-06-09 |  |
 | **[Harnessing Generalist Agents for Contextualized Time Series](https://arxiv.org/abs/2606.05404v1)** | 2026-06-03 | Preprint. 38 Pages |
@@ -37,14 +41,11 @@ labels: documentation
 | **[Generalist Graph Anomaly Detection via Prototype-Based Distillation](https://arxiv.org/abs/2605.26857v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach](https://arxiv.org/abs/2605.25429v1)** | 2026-05-25 | <details><summary>9 pag...</summary><p>9 pages, 7 figures. Accepted by ICML 2026</p></details> |
 | **[SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver](https://arxiv.org/abs/2605.24484v1)** | 2026-05-23 |  |
-| **[Evaluating Customized vs. Generalist Transformer-based Models for Legal Contract Classification](https://arxiv.org/abs/2508.07849v2)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to Customizable NLP at ACL 2026</p></details> |
-| **[NeighborDiv: Training-free Zero-shot Generalist Graph Anomaly Detection via Neighbor Diversity](https://arxiv.org/abs/2605.20879v1)** | 2026-05-20 |  |
-| **[Governance by Construction for Generalist Agents](https://arxiv.org/abs/2605.20874v1)** | 2026-05-20 |  |
-| **[Vision Foundation Models as Generalist Tokenizers for Image Generation](https://arxiv.org/abs/2605.18390v1)** | 2026-05-18 | <details><summary>4 fig...</summary><p>4 figures and 14 tables</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](https://arxiv.org/abs/2510.02695v3)** | 2026-06-11 | ICML 2026 |
 | **[Generalizing Beyond Suboptimality: Offline Reinforcement Learning Learns Effective Scheduling through Random Solutions](https://arxiv.org/abs/2509.10303v2)** | 2026-06-10 |  |
 | **[Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning](https://arxiv.org/abs/2606.11087v1)** | 2026-06-09 |  |
 | **[Offline Reinforcement Learning for Rotation Profile Control in Tokamaks](https://arxiv.org/abs/2605.05857v2)** | 2026-06-09 |  |
@@ -59,26 +60,25 @@ labels: documentation
 | **[UNIQ: Conformal Calibration for Adaptive Conservatism in Offline Reinforcement Learning](https://arxiv.org/abs/2606.07592v1)** | 2026-05-28 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, ICML 2026 Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning</p></details> |
 | **[Offline Reinforcement Learning with Generative Trajectory Policies](https://arxiv.org/abs/2510.11499v2)** | 2026-05-28 | ICML 2026 |
 | **[Information-Directed Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2605.29405v1)** | 2026-05-28 |  |
-| **[Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning](https://arxiv.org/abs/2605.01663v2)** | 2026-05-28 | ICML 2026 |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning](https://arxiv.org/abs/2606.14665v1)** | 2026-06-12 |  |
+| **[ORCA: A Platform for Open-Source Dexterity Research](https://arxiv.org/abs/2606.14561v1)** | 2026-06-12 | 15 pages |
+| **[Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409v1)** | 2026-06-12 |  |
+| **[The N2D Haptic Glove: A Multi-Finger Glove for 2D Directional Force Feedback for Contact Rich Manipulation](https://arxiv.org/abs/2606.14083v1)** | 2026-06-12 |  |
+| **[An Attention-based Model for Robust Forecasting with Missing Modality](https://arxiv.org/abs/2606.13970v1)** | 2026-06-11 | <details><summary>Work ...</summary><p>Work originally done in 2023</p></details> |
+| **[OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](https://arxiv.org/abs/2605.03065v3)** | 2026-06-11 |  |
+| **[FlowMo-WM: A World Model with Object Momentum and Hidden Ambient Drift](https://arxiv.org/abs/2606.13817v1)** | 2026-06-11 |  |
+| **[$μ_0$: A Scalable 3D Interaction-Trace World Model](https://arxiv.org/abs/2606.13769v1)** | 2026-06-11 |  |
+| **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v3)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/, GM-100: https://huggingface.co/datasets/robbyant/lingbot-GM-100</p></details> |
+| **[An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics](https://arxiv.org/abs/2606.12936v1)** | 2026-06-11 | 25 pages, 17figures |
+| **[EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations](https://arxiv.org/abs/2606.12604v1)** | 2026-06-10 |  |
 | **[LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Human Videos for Scalable Dexterous Robot Skill Acquisition](https://arxiv.org/abs/2606.11628v1)** | 2026-06-10 |  |
-| **[OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](https://arxiv.org/abs/2605.03065v2)** | 2026-06-10 |  |
 | **[Task Robustness via Re-Labelling Vision-Action Robot Data](https://arxiv.org/abs/2606.10918v1)** | 2026-06-09 | <details><summary>Proje...</summary><p>Project website: https://akuramshin.github.io/tread</p></details> |
 | **[MODIP: Efficient Model-Based Optimization for Diffusion Policies](https://arxiv.org/abs/2606.10825v1)** | 2026-06-09 |  |
 | **[AetheRock: An Arm-Worn Robot Teaching System for Force-Guided Vision-Tactile Learning](https://arxiv.org/abs/2606.09777v1)** | 2026-06-08 |  |
-| **[Targeting World Models to Compromise Robot Learning Pipelines](https://arxiv.org/abs/2606.09499v1)** | 2026-06-08 | <details><summary>8 Pag...</summary><p>8 Pages, CoRL Preprint</p></details> |
-| **[Goal Sets, Not Goal States: Queryable Robot Goals through Goal-Set Hindsight Relabeling](https://arxiv.org/abs/2606.09476v1)** | 2026-06-08 |  |
-| **[ReGIL: Retrieval-Guided Imitation Learning from a Single Demonstration](https://arxiv.org/abs/2606.09381v1)** | 2026-06-08 |  |
-| **[QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation](https://arxiv.org/abs/2606.07118v2)** | 2026-06-08 |  |
-| **[Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video](https://arxiv.org/abs/2606.08828v1)** | 2026-06-07 | <details><summary>Websi...</summary><p>Website: https://video2sim2real.github.io/</p></details> |
-| **[IR-SIM: A Lightweight Skill-Native Simulator for Navigation, Learning, and Benchmarking](https://arxiv.org/abs/2606.08729v1)** | 2026-06-07 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, project website: https://github.com/hanruihua/ir-sim</p></details> |
-| **[HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610v1)** | 2026-06-07 |  |
-| **[RealDexUMI: A Wearable Universal Manipulation Interface for Dexterous Robot Learning](https://arxiv.org/abs/2606.06033v2)** | 2026-06-06 |  |
-| **[EgoAERO: Learning Dexterous Manipulation from a Single Egocentric Video without Object Assets](https://arxiv.org/abs/2606.08057v1)** | 2026-06-06 |  |
-| **[RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383v1)** | 2026-06-05 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
