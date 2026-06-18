@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](https://arxiv.org/abs/2606.19297v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project page: https://tttonyalpha.github.io/act2answer/</p></details> |
+| **[Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos](https://arxiv.org/abs/2606.18955v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to IROS 2026</p></details> |
+| **[Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement](https://arxiv.org/abs/2606.18953v1)** | 2026-06-17 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables; 8-page appendix</p></details> |
+| **[VEGA: Learning Navigation VLAs from In-the-Wild Egocentric Video with Geometric Trajectory Supervision](https://arxiv.org/abs/2606.18426v1)** | 2026-06-16 |  |
 | **[TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2606.09337v3)** | 2026-06-16 | <details><summary>Proje...</summary><p>Project page: https://torl-vla.github.io/</p></details> |
 | **[ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining](https://arxiv.org/abs/2606.17200v1)** | 2026-06-15 |  |
 | **[Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes](https://arxiv.org/abs/2606.17043v1)** | 2026-06-15 | <details><summary>Websi...</summary><p>Website: https://acerobotics-vla.github.io/HABC-Website</p></details> |
@@ -18,14 +22,11 @@ labels: documentation
 | **[Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409v1)** | 2026-06-12 |  |
 | **[Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models](https://arxiv.org/abs/2606.14375v1)** | 2026-06-12 |  |
 | **[Encoder Winners Do Not Reliably Transfer Across VLA Backbone Scale: A Frozen-Backbone Grafting Diagnostic](https://arxiv.org/abs/2606.14153v1)** | 2026-06-12 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 8 tables</p></details> |
-| **[Self-Improving VLA Policies: Selected Diffusion Noise for Spurious-Robust Action Smoothing](https://arxiv.org/abs/2606.14084v1)** | 2026-06-12 |  |
-| **[RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation](https://arxiv.org/abs/2606.14010v1)** | 2026-06-12 |  |
-| **[PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation](https://arxiv.org/abs/2606.13886v1)** | 2026-06-11 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, supplementary material included</p></details> |
-| **[Output-Level Regularization Eliminates the Seed Lottery in Single-GPU VLA Fine-Tuning](https://arxiv.org/abs/2606.13856v1)** | 2026-06-11 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, submitted to CoRL 2026</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Must Generalist Agents Remember?](https://arxiv.org/abs/2606.18746v1)** | 2026-06-17 |  |
 | **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v1)** | 2026-06-16 |  |
 | **[An Augmented Reality Brain-Robot Interface for Generalist Robot Arm Manipulation](https://arxiv.org/abs/2606.16413v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</p></details> |
 | **[Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675v2)** | 2026-06-12 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs](https://arxiv.org/abs/2606.04282v1)** | 2026-06-02 |  |
 | **[Can Generalist Agents Automate Data Curation?](https://arxiv.org/abs/2606.04261v1)** | 2026-06-02 | Preprint |
 | **[BlazeEdit: Generalist Image Editing on Mobile Devices with Image-to-Image Diffusion Models](https://arxiv.org/abs/2605.28067v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 EDGE Workshop</p></details> |
-| **[Generalist Graph Anomaly Detection via Prototype-Based Distillation](https://arxiv.org/abs/2605.26857v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Regularized Policy Iteration under Transition Uncertainty](https://arxiv.org/abs/2603.09344v3)** | 2026-06-17 |  |
+| **[When Does Trajectory-Level Supervision Permit Efficient Offline Reinforcement Learning?](https://arxiv.org/abs/2606.18531v1)** | 2026-06-16 | 69 pages |
 | **[Reversal Q-Learning](https://arxiv.org/abs/2606.17551v1)** | 2026-06-16 |  |
 | **[On the Role of Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v3)** | 2026-06-15 |  |
 | **[Diffusion Offline Reinforcement Learning for Fair and Energy-Efficient UAV-Assisted Wireless Networks](https://arxiv.org/abs/2606.16331v1)** | 2026-06-15 |  |
@@ -58,12 +60,12 @@ labels: documentation
 | **[Path-Coupled Bellman Flows for Distributional Reinforcement Learning](https://arxiv.org/abs/2605.08253v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
 | **[When Offline Selectors Cannot Beat the Best Single Model: A Diagnostic Study on edX Dropout Prediction](https://arxiv.org/abs/2606.04161v1)** | 2026-06-02 |  |
 | **[From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning](https://arxiv.org/abs/2606.01123v1)** | 2026-05-31 | <details><summary>Publi...</summary><p>Published in ICML 2026</p></details> |
-| **[Trajectory Data Suffices for Statistically Efficient Policy Evaluation in Fixed-Horizon Offline RL with Linear $q^π$-Realizability and Concentrability](https://arxiv.org/abs/2510.03494v2)** | 2026-05-31 |  |
-| **[A Lecture Note on Offline RL and IRL, Part II: Foundations of Inverse Reinforcement Learning and Dynamic Discrete Choice Models](https://arxiv.org/abs/2605.30843v1)** | 2026-05-29 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation](https://arxiv.org/abs/2606.18960v1)** | 2026-06-17 |  |
+| **[TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer](https://arxiv.org/abs/2606.18959v1)** | 2026-06-17 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables, accepted into IROS 2026</p></details> |
 | **[Unified Motion-Action Modeling for Heterogeneous Robot Learning](https://arxiv.org/abs/2606.16917v2)** | 2026-06-16 | <details><summary>https...</summary><p>https://uma-manipulation.github.io/</p></details> |
 | **[When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning](https://arxiv.org/abs/2605.05172v2)** | 2026-06-16 | <details><summary>Robot...</summary><p>Robotics: Science and Systems, 2026</p></details> |
 | **[GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments](https://arxiv.org/abs/2606.17520v1)** | 2026-06-16 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](https://arxiv.org/abs/2602.13197v2)** | 2026-06-15 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[$μ_0$: A Scalable 3D Interaction-Trace World Model](https://arxiv.org/abs/2606.13769v2)** | 2026-06-15 |  |
 | **[GeoTLM: Geometry-aware Tactile-Language Models for Contact Motion Orientation Reasoning of Dynamic Objects](https://arxiv.org/abs/2606.15909v1)** | 2026-06-14 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 4 tables</p></details> |
-| **[AetheRock: An Arm-Worn Robot Teaching System for Force-Guided Vision-Tactile Learning](https://arxiv.org/abs/2606.09777v2)** | 2026-06-14 |  |
-| **[Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities](https://arxiv.org/abs/2606.15514v1)** | 2026-06-13 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
