@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 19, 2026
+title: Latest 15 Papers - June 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems](https://arxiv.org/abs/2606.20285v1)** | 2026-06-18 |  |
+| **[Tri-Info: Generalizable, Interpretable Failure Prediction for VLA Models via Information Theory](https://arxiv.org/abs/2606.19998v1)** | 2026-06-18 |  |
 | **[Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](https://arxiv.org/abs/2606.19297v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project page: https://tttonyalpha.github.io/act2answer/</p></details> |
 | **[Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos](https://arxiv.org/abs/2606.18955v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to IROS 2026</p></details> |
 | **[Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement](https://arxiv.org/abs/2606.18953v1)** | 2026-06-17 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables; 8-page appendix</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[SAPS: Shared Autonomy for Policy Steering by Blending Teleoperation with a Pretrained VLA](https://arxiv.org/abs/2606.15568v1)** | 2026-06-14 | <details><summary>23 pa...</summary><p>23 pages, 15 figures, 5 tables</p></details> |
 | **[From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges](https://arxiv.org/abs/2604.21391v2)** | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409v1)** | 2026-06-12 |  |
-| **[Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models](https://arxiv.org/abs/2606.14375v1)** | 2026-06-12 |  |
-| **[Encoder Winners Do Not Reliably Transfer Across VLA Backbone Scale: A Frozen-Backbone Grafting Diagnostic](https://arxiv.org/abs/2606.14153v1)** | 2026-06-12 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 8 tables</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,13 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation](https://arxiv.org/abs/2606.18960v1)** | 2026-06-17 |  |
+| **[Generating Robot Hands from Human Demonstrations](https://arxiv.org/abs/2606.20549v1)** | 2026-06-18 |  |
+| **[CoLI: A Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation](https://arxiv.org/abs/2606.20389v1)** | 2026-06-18 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 1 table, accepted by IROS2026</p></details> |
+| **[CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](https://arxiv.org/abs/2505.17006v3)** | 2026-06-18 | CVPR 2026 |
+| **[Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think](https://arxiv.org/abs/2606.20246v1)** | 2026-06-18 |  |
+| **[Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation](https://arxiv.org/abs/2606.18960v2)** | 2026-06-18 |  |
+| **[Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation](https://arxiv.org/abs/2510.08807v2)** | 2026-06-17 |  |
+| **[Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project page: https://playful-rats.github.io/</p></details> |
 | **[TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer](https://arxiv.org/abs/2606.18959v1)** | 2026-06-17 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables, accepted into IROS 2026</p></details> |
 | **[Unified Motion-Action Modeling for Heterogeneous Robot Learning](https://arxiv.org/abs/2606.16917v2)** | 2026-06-16 | <details><summary>https...</summary><p>https://uma-manipulation.github.io/</p></details> |
 | **[When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning](https://arxiv.org/abs/2605.05172v2)** | 2026-06-16 | <details><summary>Robot...</summary><p>Robotics: Science and Systems, 2026</p></details> |
@@ -73,16 +79,11 @@ labels: documentation
 | **[When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning](https://arxiv.org/abs/2606.17493v1)** | 2026-06-16 |  |
 | **[DexLink Hand: A Compact, Affordable, 16-DOF Linkage-Driven Hand with Human-Like Dexterity](https://arxiv.org/abs/2606.17418v1)** | 2026-06-16 |  |
 | **[EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning](https://arxiv.org/abs/2606.17385v1)** | 2026-06-16 | <details><summary>24 pa...</summary><p>24 pages. Project page: https://huggingface.co/spaces/Rice-RobotPI-Lab/EgoInfinity</p></details> |
-| **[VENOM: Versatile Embodied Network for Omni-bodied Motion tracking](https://arxiv.org/abs/2606.16696v1)** | 2026-06-15 |  |
-| **[A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692v4)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project Webpage: https://technology.robbyant.com/lingbot-vla/, Code: https://github.com/Robbyant/lingbot-vla/, GM-100: https://huggingface.co/datasets/robbyant/lingbot-GM-100</p></details> |
-| **[ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture](https://arxiv.org/abs/2606.16370v1)** | 2026-06-15 |  |
-| **[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](https://arxiv.org/abs/2602.13197v2)** | 2026-06-15 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[$μ_0$: A Scalable 3D Interaction-Trace World Model](https://arxiv.org/abs/2606.13769v2)** | 2026-06-15 |  |
-| **[GeoTLM: Geometry-aware Tactile-Language Models for Contact Motion Orientation Reasoning of Dynamic Objects](https://arxiv.org/abs/2606.15909v1)** | 2026-06-14 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 4 tables</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OnDeFog: Online Decision Transformer under Frame Dropping](https://arxiv.org/abs/2606.19721v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to PRICAI 2025</p></details> |
 | **[Neuro-Symbolic Injection of LTLf Constraints in Autoregressive Reinforcement Learning Policies](https://arxiv.org/abs/2606.08312v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted at the Joint Workshop on Statistics and Knowledge Integration for Logic, Learning, Ethical Decisions, and LLMs (SKILLED-LLMs 2026), co-located with KR 2026 and FLoC 2026, Lisbon, Portugal</p></details> |
 | **[Generalizable Multi-Task Learning for Wireless Networks Using Prompt Decision Transformers](https://arxiv.org/abs/2606.04328v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted paper at IEEE International Mediterranean Conference on Communications and Networking (MeditCom) 2026</p></details> |
 | **[Success Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success](https://arxiv.org/abs/2601.18175v2)** | 2026-06-02 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[DeepFleet: Multi-Agent Foundation Models for Mobile Robots](https://arxiv.org/abs/2508.08574v3)** | 2026-04-13 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 2 tables</p></details> |
 | **[Reimagining RAN Automation in 6G: An Agentic AI Framework with Hierarchical Online Decision Transformer](https://arxiv.org/abs/2604.03908v1)** | 2026-04-05 | <details><summary>Paper...</summary><p>Paper currently under review (IEEE TNSE). Contents of this work may change at any time without notice. This is the author's preliminary version</p></details> |
 | **[Knowledge Distillation for Efficient Transformer-Based Reinforcement Learning in Hardware-Constrained Energy Management Systems](https://arxiv.org/abs/2603.26249v1)** | 2026-03-27 |  |
-| **[Offline Decision Transformers for Neural Combinatorial Optimization: Surpassing Heuristics on the Traveling Salesman Problem](https://arxiv.org/abs/2603.25241v1)** | 2026-03-26 | <details><summary>11 pa...</summary><p>11 pages, 1 figures. Accepted at NeurIPS 2025 Workshop on DiffCoALG</p></details> |
 
