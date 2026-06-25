@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation](https://arxiv.org/abs/2606.26006v1)** | 2026-06-24 |  |
+| **[ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models](https://arxiv.org/abs/2606.25800v1)** | 2026-06-24 |  |
+| **[WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning](https://arxiv.org/abs/2606.25591v1)** | 2026-06-24 |  |
+| **[TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945v2)** | 2026-06-24 |  |
+| **[Reflective VLA: In-Context Action Consequences Make VLAs Generalize](https://arxiv.org/abs/2606.25215v1)** | 2026-06-23 |  |
 | **[InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884v1)** | 2026-06-23 | <details><summary>Proje...</summary><p>Project website: https://insight-vla.github.io</p></details> |
 | **[G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models](https://arxiv.org/abs/2606.24472v1)** | 2026-06-23 | <details><summary>Submi...</summary><p>Submitted to CoRL 2026</p></details> |
 | **[Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos](https://arxiv.org/abs/2606.24448v1)** | 2026-06-23 | 14 pages, 5 figures |
@@ -17,11 +22,6 @@ labels: documentation
 | **[VLA Knows Its Limits: Adaptive Execution Horizons for Robot Policies](https://arxiv.org/abs/2602.21445v2)** | 2026-06-20 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page at https://hatchetproject.github.io/autohorizon/</p></details> |
 | **[ASCII Art Turns LLMs into VLA Controllers](https://arxiv.org/abs/2606.21470v1)** | 2026-06-19 |  |
 | **[VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models](https://arxiv.org/abs/2606.21386v1)** | 2026-06-19 |  |
-| **[Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems](https://arxiv.org/abs/2606.20285v1)** | 2026-06-18 |  |
-| **[Tri-Info: Generalizable, Interpretable Failure Prediction for VLA Models via Information Theory](https://arxiv.org/abs/2606.19998v1)** | 2026-06-18 |  |
-| **[Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](https://arxiv.org/abs/2606.19297v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project page: https://tttonyalpha.github.io/act2answer/</p></details> |
-| **[Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos](https://arxiv.org/abs/2606.18955v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to IROS 2026</p></details> |
-| **[Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement](https://arxiv.org/abs/2606.18953v1)** | 2026-06-17 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables; 8-page appendix</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://arxiv.org/abs/2604.25496v2)** | 2026-06-24 | ICML 2026 |
 | **[Offline Reinforcement Learning for Warehouse SLAM Throughput Control](https://arxiv.org/abs/2606.23978v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at 2026 14th International Conference on Control, Mechatronics and Automation (ICCMA 2026)</p></details> |
 | **[Horizon Adaptive Offline Policy Learning via Value Stitching](https://arxiv.org/abs/2606.21136v1)** | 2026-06-19 |  |
 | **[Robust Regularized Policy Iteration under Transition Uncertainty](https://arxiv.org/abs/2603.09344v3)** | 2026-06-17 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[On the Complexity of Offline Reinforcement Learning with $Q^\star$-Approximation and Partial Coverage](https://arxiv.org/abs/2602.12107v2)** | 2026-06-07 |  |
 | **[Semi-Offline Reinforcement Learning for Optimized Text Generation](https://arxiv.org/abs/2306.09712v2)** | 2026-06-04 | <details><summary>In Pr...</summary><p>In Proceedings of the 40th International Conference on Machine Learning (ICML 2023)</p></details> |
 | **[Step-by-Step Optimization-like Reasoning in LLMs over Expanding Search Spaces](https://arxiv.org/abs/2606.05464v1)** | 2026-06-03 |  |
-| **[Path-Coupled Bellman Flows for Distributional Reinforcement Learning](https://arxiv.org/abs/2605.08253v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
