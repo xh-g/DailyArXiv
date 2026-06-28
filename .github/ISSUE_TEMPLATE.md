@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection](https://arxiv.org/abs/2606.27355v1)** | 2026-06-25 |  |
+| **[PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies](https://arxiv.org/abs/2606.27146v1)** | 2026-06-25 |  |
+| **[ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models](https://arxiv.org/abs/2606.27079v1)** | 2026-06-25 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Submitted to IROS 2026</p></details> |
 | **[FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation](https://arxiv.org/abs/2606.26006v1)** | 2026-06-24 |  |
 | **[ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models](https://arxiv.org/abs/2606.25800v1)** | 2026-06-24 |  |
 | **[WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning](https://arxiv.org/abs/2606.25591v1)** | 2026-06-24 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs](https://arxiv.org/abs/2606.23938v1)** | 2026-06-22 |  |
 | **[KEMO: Event-Driven Keyframe Memory for Long-Horizon Robot Manipulation with VLA Policies](https://arxiv.org/abs/2606.23589v1)** | 2026-06-22 |  |
 | **[Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA](https://arxiv.org/abs/2606.22836v1)** | 2026-06-22 |  |
-| **[VLA Knows Its Limits: Adaptive Execution Horizons for Robot Policies](https://arxiv.org/abs/2602.21445v2)** | 2026-06-20 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page at https://hatchetproject.github.io/autohorizon/</p></details> |
-| **[ASCII Art Turns LLMs into VLA Controllers](https://arxiv.org/abs/2606.21470v1)** | 2026-06-19 |  |
-| **[VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models](https://arxiv.org/abs/2606.21386v1)** | 2026-06-19 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/abs/2606.27374v1)** | 2026-06-25 |  |
+| **[How Should a Simulation-to-Reality Transfer Budget Be Spent?](https://arxiv.org/abs/2606.22062v2)** | 2026-06-25 | <details><summary>Both ...</summary><p>Both authors contributed equally and share first authorship. Submitted to IEEE IROS First Workshop on Sim2Real and Classical Control 2026. Code is available: https://github.com/YTomar79/sim2real_budget</p></details> |
+| **[NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation](https://arxiv.org/abs/2606.26265v1)** | 2026-06-24 |  |
 | **[SPACE: Enabling Learning from Cross-Robot Data Toward Generalist Policies](https://arxiv.org/abs/2606.24049v1)** | 2026-06-23 | <details><summary>Proje...</summary><p>Project page: http://haeone.site/space-website</p></details> |
 | **[LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation](https://arxiv.org/abs/2606.23685v1)** | 2026-06-22 |  |
 | **[TSD: A Physics-Inspired Trajectory Saliency Detector for Efficient Imitation Learning](https://arxiv.org/abs/2606.23371v1)** | 2026-06-22 |  |
@@ -72,13 +75,10 @@ labels: documentation
 | **[Do Rigid-Body Simulators Dream of Soft Robots? Learning Contact-Rich Manipulation for Tendon-Driven Continuum Robots](https://arxiv.org/abs/2606.22397v1)** | 2026-06-21 | <details><summary>Proje...</summary><p>Project Page: https://continuumroboticslab.github.io/opencr-mujoco/</p></details> |
 | **[Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks](https://arxiv.org/abs/2606.22332v1)** | 2026-06-21 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 12 tables</p></details> |
 | **[DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects](https://arxiv.org/abs/2606.22116v1)** | 2026-06-20 | <details><summary>11 pa...</summary><p>11 pages, 11 figures, 5 tables, IROS 2026. Website: https://deformx.github.io/</p></details> |
-| **[How Should a Simulation-to-Reality Transfer Budget Be Spent?](https://arxiv.org/abs/2606.22062v1)** | 2026-06-20 | <details><summary>Both ...</summary><p>Both authors contributed equally and share first authorship</p></details> |
 | **[OSCAR: Obstacle Survival Curves for Adaptive Robot Navigation](https://arxiv.org/abs/2606.00990v2)** | 2026-06-20 | <details><summary>8 pag...</summary><p>8 pages main text, appendices included</p></details> |
 | **[Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think](https://arxiv.org/abs/2606.20246v2)** | 2026-06-20 |  |
 | **[Unified Motion-Action Modeling for Heterogeneous Robot Learning](https://arxiv.org/abs/2606.16917v3)** | 2026-06-20 | <details><summary>https...</summary><p>https://uma-manipulation.github.io/</p></details> |
 | **[Robot Self-Improvement via Human-Video Dynamics Models](https://arxiv.org/abs/2606.21406v1)** | 2026-06-19 |  |
-| **[EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning](https://arxiv.org/abs/2606.17385v2)** | 2026-06-19 | <details><summary>24 pa...</summary><p>24 pages. Project page: https://huggingface.co/spaces/Rice-RobotPI-Lab/EgoInfinity</p></details> |
-| **[ScanBot: A Benchmark for Precision Robotic Surface Scanning with Industrial Laser Profilers](https://arxiv.org/abs/2505.17295v2)** | 2026-06-19 | <details><summary>9 pag...</summary><p>9 pages, 7 figures. Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
