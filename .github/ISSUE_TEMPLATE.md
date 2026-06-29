@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation](https://arxiv.org/abs/2606.27872v1)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2026</p></details> |
 | **[RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection](https://arxiv.org/abs/2606.27355v1)** | 2026-06-25 |  |
 | **[PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies](https://arxiv.org/abs/2606.27146v1)** | 2026-06-25 |  |
 | **[ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models](https://arxiv.org/abs/2606.27079v1)** | 2026-06-25 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables. Submitted to IROS 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[DriveStack-VLA: Render-Teacher Alignment for BEV-Based DeepStack Vision-Language-Action Model](https://arxiv.org/abs/2606.24051v1)** | 2026-06-23 |  |
 | **[Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs](https://arxiv.org/abs/2606.23938v1)** | 2026-06-22 |  |
 | **[KEMO: Event-Driven Keyframe Memory for Long-Horizon Robot Manipulation with VLA Policies](https://arxiv.org/abs/2606.23589v1)** | 2026-06-22 |  |
-| **[Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA](https://arxiv.org/abs/2606.22836v1)** | 2026-06-22 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RS-Diffuser: Risk-Sensitive Diffusion Planning with Distributional Value Guidance](https://arxiv.org/abs/2606.27766v1)** | 2026-06-26 | ICIC 2026 Oral |
 | **[Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://arxiv.org/abs/2604.25496v2)** | 2026-06-24 | ICML 2026 |
 | **[Offline Reinforcement Learning for Warehouse SLAM Throughput Control](https://arxiv.org/abs/2606.23978v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at 2026 14th International Conference on Control, Mechatronics and Automation (ICCMA 2026)</p></details> |
 | **[Horizon Adaptive Offline Policy Learning via Value Stitching](https://arxiv.org/abs/2606.21136v1)** | 2026-06-19 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[Offline Reinforcement Learning for Rotation Profile Control in Tokamaks](https://arxiv.org/abs/2605.05857v2)** | 2026-06-09 |  |
 | **[On the Complexity of Offline Reinforcement Learning with $Q^\star$-Approximation and Partial Coverage](https://arxiv.org/abs/2602.12107v2)** | 2026-06-07 |  |
 | **[Semi-Offline Reinforcement Learning for Optimized Text Generation](https://arxiv.org/abs/2306.09712v2)** | 2026-06-04 | <details><summary>In Pr...</summary><p>In Proceedings of the 40th International Conference on Machine Learning (ICML 2023)</p></details> |
-| **[Step-by-Step Optimization-like Reasoning in LLMs over Expanding Search Spaces](https://arxiv.org/abs/2606.05464v1)** | 2026-06-03 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots](https://arxiv.org/abs/2606.28133v1)** | 2026-06-26 | <details><summary>Proje...</summary><p>Project Page: https://translation-as-a-bridging-action.github.io/</p></details> |
+| **[OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](https://arxiv.org/abs/2605.03065v4)** | 2026-06-26 | <details><summary>Websi...</summary><p>Website: https://simchowitzlabpublic.github.io/ogpo-site/ Code: https://github.com/simchowitzlabpublic/OGPO_public</p></details> |
 | **[World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/abs/2606.27374v1)** | 2026-06-25 |  |
 | **[How Should a Simulation-to-Reality Transfer Budget Be Spent?](https://arxiv.org/abs/2606.22062v2)** | 2026-06-25 | <details><summary>Both ...</summary><p>Both authors contributed equally and share first authorship. Submitted to IEEE IROS First Workshop on Sim2Real and Classical Control 2026. Code is available: https://github.com/YTomar79/sim2real_budget</p></details> |
 | **[NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation](https://arxiv.org/abs/2606.26265v1)** | 2026-06-24 |  |
@@ -77,12 +79,11 @@ labels: documentation
 | **[DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects](https://arxiv.org/abs/2606.22116v1)** | 2026-06-20 | <details><summary>11 pa...</summary><p>11 pages, 11 figures, 5 tables, IROS 2026. Website: https://deformx.github.io/</p></details> |
 | **[OSCAR: Obstacle Survival Curves for Adaptive Robot Navigation](https://arxiv.org/abs/2606.00990v2)** | 2026-06-20 | <details><summary>8 pag...</summary><p>8 pages main text, appendices included</p></details> |
 | **[Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think](https://arxiv.org/abs/2606.20246v2)** | 2026-06-20 |  |
-| **[Unified Motion-Action Modeling for Heterogeneous Robot Learning](https://arxiv.org/abs/2606.16917v3)** | 2026-06-20 | <details><summary>https...</summary><p>https://uma-manipulation.github.io/</p></details> |
-| **[Robot Self-Improvement via Human-Video Dynamics Models](https://arxiv.org/abs/2606.21406v1)** | 2026-06-19 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Bootstrapping to Sequence Modeling: A Unified Generative Framework for Personalized Landing-Page Modeling](https://arxiv.org/abs/2606.27865v1)** | 2026-06-26 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.23459</p></details> |
 | **[OnDeFog: Online Decision Transformer under Frame Dropping](https://arxiv.org/abs/2606.19721v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to PRICAI 2025</p></details> |
 | **[Neuro-Symbolic Injection of LTLf Constraints in Autoregressive Reinforcement Learning Policies](https://arxiv.org/abs/2606.08312v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted at the Joint Workshop on Statistics and Knowledge Integration for Logic, Learning, Ethical Decisions, and LLMs (SKILLED-LLMs 2026), co-located with KR 2026 and FLoC 2026, Lisbon, Portugal</p></details> |
 | **[Generalizable Multi-Task Learning for Wireless Networks Using Prompt Decision Transformers](https://arxiv.org/abs/2606.04328v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted paper at IEEE International Mediterranean Conference on Communications and Networking (MeditCom) 2026</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning](https://arxiv.org/abs/2604.25898v1)** | 2026-04-28 |  |
 | **[DeepFleet: Multi-Agent Foundation Models for Mobile Robots](https://arxiv.org/abs/2508.08574v3)** | 2026-04-13 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 2 tables</p></details> |
 | **[Reimagining RAN Automation in 6G: An Agentic AI Framework with Hierarchical Online Decision Transformer](https://arxiv.org/abs/2604.03908v1)** | 2026-04-05 | <details><summary>Paper...</summary><p>Paper currently under review (IEEE TNSE). Contents of this work may change at any time without notice. This is the author's preliminary version</p></details> |
-| **[Knowledge Distillation for Efficient Transformer-Based Reinforcement Learning in Hardware-Constrained Energy Management Systems](https://arxiv.org/abs/2603.26249v1)** | 2026-03-27 |  |
 
