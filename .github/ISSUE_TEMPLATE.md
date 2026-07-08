@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
+| **[SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models](https://arxiv.org/abs/2607.06442v1)** | 2026-07-07 | <details><summary>The c...</summary><p>The code is available at \href{https://github.com/ChangtiWu/SIEVE}{SIEVE}</p></details> |
+| **[From Foundation to Application: Improving VLA Models in Practice](https://arxiv.org/abs/2607.06403v1)** | 2026-07-07 | <details><summary>Websi...</summary><p>Website: https://technology.robbyant.com/lingbot-vla-v2, Github: https://github.com/robbyant/lingbot-vla-v2, Checkpoints: https://huggingface.co/collections/robbyant/lingbot-vla-v2</p></details> |
 | **[Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies](https://arxiv.org/abs/2607.05122v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted for RSS 2026 workshop</p></details> |
 | **[Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies](https://arxiv.org/abs/2602.06575v2)** | 2026-07-06 |  |
 | **[CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models](https://arxiv.org/abs/2607.04816v1)** | 2026-07-06 | 16 pages, 6 figures |
@@ -19,14 +22,11 @@ labels: documentation
 | **[Present but Not Remembered: Auditing How Frozen VLAs Encode, Deploy, and Steer Visual History](https://arxiv.org/abs/2607.03372v1)** | 2026-07-03 |  |
 | **[DREAMSTEER: Latent World Models Can Steer VLA Policies During Deployment Without Any Finetuning](https://arxiv.org/abs/2607.02865v1)** | 2026-07-03 | <details><summary>19 pa...</summary><p>19 pages, 12 figures. Project page: https://dream-steer.github.io/</p></details> |
 | **[BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation](https://arxiv.org/abs/2605.07306v3)** | 2026-07-03 | 17 pages, 10 figures |
-| **[TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training](https://arxiv.org/abs/2607.02840v1)** | 2026-07-03 |  |
-| **[Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs](https://arxiv.org/abs/2607.02466v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026, 21 pages,6 figures</p></details> |
-| **[The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection](https://arxiv.org/abs/2607.02322v1)** | 2026-07-02 | IROS 2026 |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434v1)** | 2026-07-05 | <details><summary>Websi...</summary><p>Website: https://robodojo-benchmark.com/, Code: https://github.com/RoboDojo-Benchmark/RoboDojo, Leaderboard: https://robodojo-benchmark.com/leaderboard</p></details> |
+| **[RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434v2)** | 2026-07-07 | <details><summary>Websi...</summary><p>Website: https://robodojo-benchmark.com/, Code: https://github.com/RoboDojo-Benchmark/RoboDojo, Leaderboard: https://robodojo-benchmark.com/leaderboard</p></details> |
 | **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v2)** | 2026-07-02 |  |
 | **[Hidden-Shot: Towards One-Shot Task Generalization for Low-Level Vision Generalist Models](https://arxiv.org/abs/2607.01535v1)** | 2026-07-01 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, under submission</p></details> |
 | **[RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation](https://arxiv.org/abs/2607.01060v1)** | 2026-07-01 | <details><summary>ICML ...</summary><p>ICML 2026 F2S workshop</p></details> |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model-based Bootstrap of Controlled Markov Chains](https://arxiv.org/abs/2605.12410v2)** | 2026-07-07 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 19 tables</p></details> |
 | **[SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space](https://arxiv.org/abs/2603.26720v3)** | 2026-07-05 |  |
 | **[Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation](https://arxiv.org/abs/2607.02460v1)** | 2026-07-02 |  |
 | **[Generalization in offline RL: The structure is more important than the amount of pessimism](https://arxiv.org/abs/2607.02288v1)** | 2026-07-02 |  |
@@ -59,15 +60,17 @@ labels: documentation
 | **[Robust Regularized Policy Iteration under Transition Uncertainty](https://arxiv.org/abs/2603.09344v3)** | 2026-06-17 |  |
 | **[When Does Trajectory-Level Supervision Permit Efficient Offline Reinforcement Learning?](https://arxiv.org/abs/2606.18531v1)** | 2026-06-16 | 69 pages |
 | **[Reversal Q-Learning](https://arxiv.org/abs/2606.17551v1)** | 2026-06-16 |  |
-| **[Diffusion Offline Reinforcement Learning for Fair and Energy-Efficient UAV-Assisted Wireless Networks](https://arxiv.org/abs/2606.16331v1)** | 2026-06-15 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
+| **[EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World](https://arxiv.org/abs/2604.07607v2)** | 2026-07-07 |  |
+| **[OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics](https://arxiv.org/abs/2607.06337v1)** | 2026-07-07 |  |
+| **[Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning](https://arxiv.org/abs/2607.02205v2)** | 2026-07-07 | 15 pages, 6 figures |
 | **[Spatial Attention: Adapting Execution Horizons for Diffusion Policies via Observation Sensitivity](https://arxiv.org/abs/2607.04739v1)** | 2026-07-06 |  |
 | **[Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation](https://arxiv.org/abs/2510.08807v3)** | 2026-07-04 |  |
 | **[Scalable Dexterous Robot Learning with AR-based Remote Human-Robot Interactions](https://arxiv.org/abs/2602.07341v2)** | 2026-07-04 |  |
-| **[Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning](https://arxiv.org/abs/2607.02205v1)** | 2026-07-02 | 15 pages, 6 figures |
 | **[RoboTacDex: A Dexterous Visual-Tactile-Action Dataset for Humanoid Manipulation](https://arxiv.org/abs/2606.31836v1)** | 2026-06-30 |  |
 | **[RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383v2)** | 2026-06-30 |  |
 | **[Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot](https://arxiv.org/abs/2601.02078v3)** | 2026-06-30 |  |
@@ -76,9 +79,6 @@ labels: documentation
 | **[STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning](https://arxiv.org/abs/2606.29834v1)** | 2026-06-29 |  |
 | **[Learning Transferable Dynamics Priors from Action to World Modeling](https://arxiv.org/abs/2606.29501v1)** | 2026-06-28 | ECCV 2026 Accepted |
 | **[When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning](https://arxiv.org/abs/2605.05172v3)** | 2026-06-27 | <details><summary>Robot...</summary><p>Robotics: Science and Systems, 2026</p></details> |
-| **[Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots](https://arxiv.org/abs/2606.28133v1)** | 2026-06-26 | <details><summary>Proje...</summary><p>Project Page: https://translation-as-a-bridging-action.github.io/</p></details> |
-| **[OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](https://arxiv.org/abs/2605.03065v4)** | 2026-06-26 | <details><summary>Websi...</summary><p>Website: https://simchowitzlabpublic.github.io/ogpo-site/ Code: https://github.com/simchowitzlabpublic/OGPO_public</p></details> |
-| **[World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/abs/2606.27374v1)** | 2026-06-25 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
