@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,12 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pelican-VLA 0.5: Attending Before Acting Benefits Generalization](https://arxiv.org/abs/2607.06655v2)** | 2026-07-09 |  |
+| **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v1)** | 2026-07-09 |  |
+| **[WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.08375v1)** | 2026-07-09 | 20 pages, 7 figures |
 | **[HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies](https://arxiv.org/abs/2512.05693v2)** | 2026-07-08 |  |
 | **[Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review](https://arxiv.org/abs/2607.06706v1)** | 2026-07-07 | <details><summary>56 pa...</summary><p>56 pages, 11 figures, 16 tables</p></details> |
 | **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
-| **[Pelican-VLA 0.5: Attending Before Acting Benefits Generalization](https://arxiv.org/abs/2607.06655v1)** | 2026-07-07 |  |
 | **[SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models](https://arxiv.org/abs/2607.06442v1)** | 2026-07-07 | <details><summary>The c...</summary><p>The code is available at \href{https://github.com/ChangtiWu/SIEVE}{SIEVE}</p></details> |
 | **[From Foundation to Application: Improving VLA Models in Practice](https://arxiv.org/abs/2607.06403v1)** | 2026-07-07 | <details><summary>Websi...</summary><p>Website: https://technology.robbyant.com/lingbot-vla-v2, Github: https://github.com/robbyant/lingbot-vla-v2, Checkpoints: https://huggingface.co/collections/robbyant/lingbot-vla-v2</p></details> |
 | **[Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies](https://arxiv.org/abs/2607.05122v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted for RSS 2026 workshop</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills](https://arxiv.org/abs/2604.24182v2)** | 2026-07-05 |  |
 | **[XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control](https://arxiv.org/abs/2607.04171v1)** | 2026-07-05 | Preprint |
 | **[StageCraft: Execution Aware Mitigation of Distractor and Obstruction Failures in VLA Models](https://arxiv.org/abs/2603.20659v2)** | 2026-07-05 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
-| **[Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models](https://arxiv.org/abs/2607.03751v1)** | 2026-07-04 |  |
-| **[CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts](https://arxiv.org/abs/2607.03693v1)** | 2026-07-04 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,11 +45,12 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalization in offline RL: The structure is more important than the amount of pessimism](https://arxiv.org/abs/2607.02288v2)** | 2026-07-09 |  |
+| **[Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies](https://arxiv.org/abs/2603.15136v2)** | 2026-07-09 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 3 tables; First 2 authors have contributed equally; Paper accepted at Reinforcement Learning Conference (RLC) 2026</p></details> |
 | **[Latent Policy Steering through One-Step Flow Policies](https://arxiv.org/abs/2603.05296v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to RSS 2026, Project Webpage : https://jellyho.github.io/LPS/</p></details> |
 | **[Model-based Bootstrap of Controlled Markov Chains](https://arxiv.org/abs/2605.12410v2)** | 2026-07-07 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 19 tables</p></details> |
 | **[SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space](https://arxiv.org/abs/2603.26720v3)** | 2026-07-05 |  |
 | **[Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation](https://arxiv.org/abs/2607.02460v1)** | 2026-07-02 |  |
-| **[Generalization in offline RL: The structure is more important than the amount of pessimism](https://arxiv.org/abs/2607.02288v1)** | 2026-07-02 |  |
 | **[On the Role of Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v4)** | 2026-07-02 | <details><summary>ICML ...</summary><p>ICML 2026, Website: https://rajghugare19.github.io/computation-rl/index.html</p></details> |
 | **[SPLC: Social Preference Learning for Crowd Robot Navigation](https://arxiv.org/abs/2607.01925v1)** | 2026-07-02 |  |
 | **[AETDICE: Unified Framework and Offline Optimization for Nonlinear Multi-Objective RL](https://arxiv.org/abs/2606.31178v1)** | 2026-06-30 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Offline Reinforcement Learning for Warehouse SLAM Throughput Control](https://arxiv.org/abs/2606.23978v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at 2026 14th International Conference on Control, Mechatronics and Automation (ICCMA 2026)</p></details> |
 | **[Horizon Adaptive Offline Policy Learning via Value Stitching](https://arxiv.org/abs/2606.21136v1)** | 2026-06-19 |  |
 | **[Robust Regularized Policy Iteration under Transition Uncertainty](https://arxiv.org/abs/2603.09344v3)** | 2026-06-17 |  |
-| **[When Does Trajectory-Level Supervision Permit Efficient Offline Reinforcement Learning?](https://arxiv.org/abs/2606.18531v1)** | 2026-06-16 | 69 pages |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
