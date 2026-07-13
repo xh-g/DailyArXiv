@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project website: https://omron-sinicx.github.io/clap/</p></details> |
 | **[Pelican-VLA 0.5: Attending Before Acting Benefits Generalization](https://arxiv.org/abs/2607.06655v2)** | 2026-07-09 |  |
 | **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v1)** | 2026-07-09 |  |
 | **[WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.08375v1)** | 2026-07-09 | 20 pages, 7 figures |
@@ -21,11 +22,11 @@ labels: documentation
 | **[VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models](https://arxiv.org/abs/2607.04517v1)** | 2026-07-05 |  |
 | **[$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills](https://arxiv.org/abs/2604.24182v2)** | 2026-07-05 |  |
 | **[XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control](https://arxiv.org/abs/2607.04171v1)** | 2026-07-05 | Preprint |
-| **[StageCraft: Execution Aware Mitigation of Distractor and Obstruction Failures in VLA Models](https://arxiv.org/abs/2603.20659v2)** | 2026-07-05 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy](https://arxiv.org/abs/2607.09135v1)** | 2026-07-10 |  |
 | **[RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434v3)** | 2026-07-08 | <details><summary>Websi...</summary><p>Website: https://robodojo-benchmark.com/, Code: https://github.com/RoboDojo-Benchmark/RoboDojo, Leaderboard: https://robodojo-benchmark.com/leaderboard</p></details> |
 | **[Initiation Safety: A Missing Dimension in Generalist-Robot Safety](https://arxiv.org/abs/2607.07420v1)** | 2026-07-08 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Accepted to RSS 2026 Workshop on Rethinking Safety for Generalist Robots</p></details> |
 | **[Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector](https://arxiv.org/abs/2607.07382v1)** | 2026-07-08 | 24 pages, 4 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Vesta: A Generalist Embodied Reasoning Model](https://arxiv.org/abs/2606.20905v1)** | 2026-06-18 |  |
 | **[Artificial collectives of specialists and generalists excel at different tasks](https://arxiv.org/abs/2606.20877v1)** | 2026-06-18 | 10 pages, 4 figures |
 | **[What Must Generalist Agents Remember?](https://arxiv.org/abs/2606.18746v1)** | 2026-06-17 |  |
-| **[An Augmented Reality Brain-Robot Interface for Generalist Robot Arm Manipulation](https://arxiv.org/abs/2606.16413v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks](https://arxiv.org/abs/2606.22332v2)** | 2026-07-09 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 12 tables</p></details> |
 | **[RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383v3)** | 2026-07-08 |  |
 | **[Compositional Motion Generation from Demonstration with Object-Centric Neural Fields](https://arxiv.org/abs/2607.07129v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RAL)</p></details> |
 | **[Rapidly Learning Soft Robot Control via Implicit Time-Stepping](https://arxiv.org/abs/2511.06667v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to IROS 2026. Code: https://github.com/QuantuMope/dismech-rl</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[RoboTacDex: A Dexterous Visual-Tactile-Action Dataset for Humanoid Manipulation](https://arxiv.org/abs/2606.31836v1)** | 2026-06-30 |  |
 | **[Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot](https://arxiv.org/abs/2601.02078v3)** | 2026-06-30 |  |
 | **[X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies](https://arxiv.org/abs/2606.30290v1)** | 2026-06-29 |  |
-| **[SIR: Structured Image Representations for Explainable Robot Learning](https://arxiv.org/abs/2606.30101v1)** | 2026-06-29 | <details><summary>Publi...</summary><p>Published at CVPR 2026</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
