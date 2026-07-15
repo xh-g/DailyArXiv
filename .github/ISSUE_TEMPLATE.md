@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2026
+title: Latest 15 Papers - July 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,11 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v2)** | 2026-07-14 |  |
+| **[VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation](https://arxiv.org/abs/2607.12356v1)** | 2026-07-14 |  |
 | **[TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging](https://arxiv.org/abs/2607.09818v1)** | 2026-07-10 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
 | **[CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project website: https://omron-sinicx.github.io/clap/</p></details> |
 | **[Pelican-VLA 0.5: Attending Before Acting Benefits Generalization](https://arxiv.org/abs/2607.06655v2)** | 2026-07-09 |  |
-| **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v1)** | 2026-07-09 |  |
 | **[WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.08375v1)** | 2026-07-09 | 20 pages, 7 figures |
 | **[HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies](https://arxiv.org/abs/2512.05693v2)** | 2026-07-08 |  |
 | **[Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review](https://arxiv.org/abs/2607.06706v1)** | 2026-07-07 | <details><summary>56 pa...</summary><p>56 pages, 11 figures, 16 tables</p></details> |
@@ -21,12 +22,12 @@ labels: documentation
 | **[Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies](https://arxiv.org/abs/2602.06575v2)** | 2026-07-06 |  |
 | **[CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models](https://arxiv.org/abs/2607.04816v1)** | 2026-07-06 | 16 pages, 6 figures |
 | **[VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models](https://arxiv.org/abs/2607.04517v1)** | 2026-07-05 |  |
-| **[$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills](https://arxiv.org/abs/2604.24182v2)** | 2026-07-05 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation](https://arxiv.org/abs/2607.01060v2)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project page: https://byeongguks.github.io/RoboWorld/</p></details> |
+| **[Enabling Energy-Efficient Simultaneous Multi-Task Reinforcement Learning through Spiking Neural Networks with Active Dendrites for Bio-inspired Generalist Agents](https://arxiv.org/abs/2412.04847v2)** | 2026-07-14 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 7 tables</p></details> |
+| **[RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation](https://arxiv.org/abs/2607.01060v3)** | 2026-07-14 | <details><summary>Proje...</summary><p>Project page: https://byeongguks.github.io/RoboWorld/</p></details> |
 | **[Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy](https://arxiv.org/abs/2607.09135v1)** | 2026-07-10 |  |
 | **[RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434v3)** | 2026-07-08 | <details><summary>Websi...</summary><p>Website: https://robodojo-benchmark.com/, Code: https://github.com/RoboDojo-Benchmark/RoboDojo, Leaderboard: https://robodojo-benchmark.com/leaderboard</p></details> |
 | **[Initiation Safety: A Missing Dimension in Generalist-Robot Safety](https://arxiv.org/abs/2607.07420v1)** | 2026-07-08 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Accepted to RSS 2026 Workshop on Rethinking Safety for Generalist Robots</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://arxiv.org/abs/2606.13102v2)** | 2026-06-19 |  |
 | **[Vesta: A Generalist Embodied Reasoning Model](https://arxiv.org/abs/2606.20905v1)** | 2026-06-18 |  |
 | **[Artificial collectives of specialists and generalists excel at different tasks](https://arxiv.org/abs/2606.20877v1)** | 2026-06-18 | 10 pages, 4 figures |
-| **[What Must Generalist Agents Remember?](https://arxiv.org/abs/2606.18746v1)** | 2026-06-17 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
+| **[UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies](https://arxiv.org/abs/2607.12892v1)** | 2026-07-14 |  |
+| **[Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences](https://arxiv.org/abs/2607.12466v1)** | 2026-07-14 | 23 pages, 20 figures |
+| **[APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model](https://arxiv.org/abs/2603.08862v2)** | 2026-07-14 |  |
+| **[Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers](https://arxiv.org/abs/2507.15833v3)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project page: https://soltanilara.github.io/giava/</p></details> |
 | **[Task Parameter Extrapolation via Learning Inverse Tasks from Forward Demonstrations](https://arxiv.org/abs/2603.05576v3)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE RA-L</p></details> |
 | **[Towards Predictive, Aligned, and Scalable Robot Learning](https://arxiv.org/abs/2607.11270v1)** | 2026-07-13 |  |
 | **[Pipette: An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics](https://arxiv.org/abs/2606.12936v2)** | 2026-07-13 | 19 pages, 19figures |
@@ -74,11 +79,6 @@ labels: documentation
 | **[RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383v3)** | 2026-07-08 |  |
 | **[Compositional Motion Generation from Demonstration with Object-Centric Neural Fields](https://arxiv.org/abs/2607.07129v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RAL)</p></details> |
 | **[Rapidly Learning Soft Robot Control via Implicit Time-Stepping](https://arxiv.org/abs/2511.06667v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to IROS 2026. Code: https://github.com/QuantuMope/dismech-rl</p></details> |
-| **[RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation](https://arxiv.org/abs/2607.06699v1)** | 2026-07-07 | <details><summary>24 pa...</summary><p>24 pages, 16 figures, Project page: https://robosnap.github.io</p></details> |
-| **[EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World](https://arxiv.org/abs/2604.07607v2)** | 2026-07-07 |  |
-| **[OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics](https://arxiv.org/abs/2607.06337v1)** | 2026-07-07 |  |
-| **[Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning](https://arxiv.org/abs/2607.02205v2)** | 2026-07-07 | 15 pages, 6 figures |
-| **[Spatial Attention: Adapting Execution Horizons for Diffusion Policies via Observation Sensitivity](https://arxiv.org/abs/2607.04739v1)** | 2026-07-06 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
