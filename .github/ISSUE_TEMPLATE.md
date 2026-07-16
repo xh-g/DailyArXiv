@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2026
+title: Latest 15 Papers - July 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,11 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v2)** | 2026-07-14 |  |
+| **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v3)** | 2026-07-15 |  |
+| **[When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs](https://arxiv.org/abs/2602.17659v2)** | 2026-07-15 | <details><summary>Websi...</summary><p>Website: https://vla-cf.github.io/</p></details> |
+| **[S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2607.13926v1)** | 2026-07-15 |  |
+| **[An Empirical Study on Stage-Information Interfaces for VLA Fine-Tuning](https://arxiv.org/abs/2607.13605v1)** | 2026-07-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 4 tables</p></details> |
+| **[Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment](https://arxiv.org/abs/2607.13429v1)** | 2026-07-15 | <details><summary>Code:...</summary><p>Code: https://github.com/dwipddalal/Anchor-Align</p></details> |
 | **[VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation](https://arxiv.org/abs/2607.12356v1)** | 2026-07-14 |  |
 | **[TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging](https://arxiv.org/abs/2607.09818v1)** | 2026-07-10 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
 | **[CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project website: https://omron-sinicx.github.io/clap/</p></details> |
@@ -18,19 +22,16 @@ labels: documentation
 | **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
 | **[SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models](https://arxiv.org/abs/2607.06442v1)** | 2026-07-07 | <details><summary>The c...</summary><p>The code is available at \href{https://github.com/ChangtiWu/SIEVE}{SIEVE}</p></details> |
 | **[From Foundation to Application: Improving VLA Models in Practice](https://arxiv.org/abs/2607.06403v1)** | 2026-07-07 | <details><summary>Websi...</summary><p>Website: https://technology.robbyant.com/lingbot-vla-v2, Github: https://github.com/robbyant/lingbot-vla-v2, Checkpoints: https://huggingface.co/collections/robbyant/lingbot-vla-v2</p></details> |
-| **[Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies](https://arxiv.org/abs/2607.05122v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted for RSS 2026 workshop</p></details> |
-| **[Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies](https://arxiv.org/abs/2602.06575v2)** | 2026-07-06 |  |
-| **[CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models](https://arxiv.org/abs/2607.04816v1)** | 2026-07-06 | 16 pages, 6 figures |
-| **[VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models](https://arxiv.org/abs/2607.04517v1)** | 2026-07-05 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Initiation Safety: A Missing Dimension in Generalist-Robot Safety](https://arxiv.org/abs/2607.07420v2)** | 2026-07-15 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Accepted to RSS 2026 Workshop on Rethinking Safety for Generalist Robots</p></details> |
+| **[RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation](https://arxiv.org/abs/2607.01060v4)** | 2026-07-15 | <details><summary>Proje...</summary><p>Project page: https://byeongguks.github.io/RoboWorld/</p></details> |
+| **[Adapting Generalist Vehicle Models for High-Speed MPC Across Terrains](https://arxiv.org/abs/2607.13319v1)** | 2026-07-14 |  |
 | **[Enabling Energy-Efficient Simultaneous Multi-Task Reinforcement Learning through Spiking Neural Networks with Active Dendrites for Bio-inspired Generalist Agents](https://arxiv.org/abs/2412.04847v2)** | 2026-07-14 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 7 tables</p></details> |
-| **[RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation](https://arxiv.org/abs/2607.01060v3)** | 2026-07-14 | <details><summary>Proje...</summary><p>Project page: https://byeongguks.github.io/RoboWorld/</p></details> |
 | **[Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy](https://arxiv.org/abs/2607.09135v1)** | 2026-07-10 |  |
 | **[RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434v3)** | 2026-07-08 | <details><summary>Websi...</summary><p>Website: https://robodojo-benchmark.com/, Code: https://github.com/RoboDojo-Benchmark/RoboDojo, Leaderboard: https://robodojo-benchmark.com/leaderboard</p></details> |
-| **[Initiation Safety: A Missing Dimension in Generalist-Robot Safety](https://arxiv.org/abs/2607.07420v1)** | 2026-07-08 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Accepted to RSS 2026 Workshop on Rethinking Safety for Generalist Robots</p></details> |
 | **[Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector](https://arxiv.org/abs/2607.07382v1)** | 2026-07-08 | 24 pages, 4 figures |
 | **[GeoProp: Grounding Robot State in Vision for Generalist Manipulation](https://arxiv.org/abs/2607.07101v1)** | 2026-07-08 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 11 tables. Project page: https://alibaba-damo-academy.github.io/GeoProp/</p></details> |
 | **[HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies](https://arxiv.org/abs/2512.05693v2)** | 2026-07-08 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v2)** | 2026-06-20 |  |
 | **[FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://arxiv.org/abs/2606.13102v2)** | 2026-06-19 |  |
 | **[Vesta: A Generalist Embodied Reasoning Model](https://arxiv.org/abs/2606.20905v1)** | 2026-06-18 |  |
-| **[Artificial collectives of specialists and generalists excel at different tasks](https://arxiv.org/abs/2606.20877v1)** | 2026-06-18 | 10 pages, 4 figures |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v2)** | 2026-07-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026). Project page: https://radar-iros.netlify.app/</p></details> |
+| **[Where Should RL Post-Training Compute Go? Model Size, Search, Learning, and Feedback](https://arxiv.org/abs/2607.13389v1)** | 2026-07-15 |  |
 | **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
 | **[UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies](https://arxiv.org/abs/2607.12892v1)** | 2026-07-14 |  |
 | **[Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences](https://arxiv.org/abs/2607.12466v1)** | 2026-07-14 | 23 pages, 20 figures |
@@ -77,8 +79,6 @@ labels: documentation
 | **[VINE: Taming Generative Control Policies for Reinforcement Learning](https://arxiv.org/abs/2607.10369v1)** | 2026-07-11 |  |
 | **[Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks](https://arxiv.org/abs/2606.22332v2)** | 2026-07-09 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 12 tables</p></details> |
 | **[RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383v3)** | 2026-07-08 |  |
-| **[Compositional Motion Generation from Demonstration with Object-Centric Neural Fields](https://arxiv.org/abs/2607.07129v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RAL)</p></details> |
-| **[Rapidly Learning Soft Robot Control via Implicit Time-Stepping](https://arxiv.org/abs/2511.06667v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to IROS 2026. Code: https://github.com/QuantuMope/dismech-rl</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
