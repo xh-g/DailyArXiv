@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2026
+title: Latest 15 Papers - July 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models](https://arxiv.org/abs/2607.16074v1)** | 2026-07-17 | 23 pages, 12 figures |
+| **[AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning](https://arxiv.org/abs/2607.15714v1)** | 2026-07-17 |  |
 | **[Safe-Night VLA: Seeing the Unseen via Thermal-Perceptive Vision-Language-Action Models for Safety-Critical Manipulation](https://arxiv.org/abs/2603.05754v2)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
 | **[CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking](https://arxiv.org/abs/2607.15004v1)** | 2026-07-16 |  |
 | **[UniSteer: Unified Noise Steering for Efficient Human-Guided VLA Adaptation](https://arxiv.org/abs/2605.10821v2)** | 2026-07-16 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[An Empirical Study on Stage-Information Interfaces for VLA Fine-Tuning](https://arxiv.org/abs/2607.13605v1)** | 2026-07-15 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 4 tables</p></details> |
 | **[Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment](https://arxiv.org/abs/2607.13429v1)** | 2026-07-15 | <details><summary>Code:...</summary><p>Code: https://github.com/dwipddalal/Anchor-Align</p></details> |
 | **[TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging](https://arxiv.org/abs/2607.09818v1)** | 2026-07-10 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
-| **[CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project website: https://omron-sinicx.github.io/clap/</p></details> |
-| **[Pelican-VLA 0.5: Attending Before Acting Benefits Generalization](https://arxiv.org/abs/2607.06655v2)** | 2026-07-09 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,8 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://arxiv.org/abs/2507.15356v3)** | 2026-07-17 |  |
 | **[Evaluating covariate balance for long time horizon Markov decision processes](https://arxiv.org/abs/2607.15080v1)** | 2026-07-16 |  |
-| **[RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://arxiv.org/abs/2507.15356v2)** | 2026-07-16 |  |
 | **[Similarity as Reward Alignment: Robust and Versatile Preference-based Reinforcement Learning](https://arxiv.org/abs/2506.12529v2)** | 2026-07-16 |  |
 | **[Fully Offline Reinforcement Learning](https://arxiv.org/abs/2505.22442v3)** | 2026-07-15 |  |
 | **[Active Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2607.11720v1)** | 2026-07-13 |  |
@@ -64,6 +64,8 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Handroid: Bridging Dexterous Hand and Humanoid](https://arxiv.org/abs/2607.16187v1)** | 2026-07-17 | <details><summary>Proje...</summary><p>Project website: https://handroid.org</p></details> |
+| **[RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383v4)** | 2026-07-17 |  |
 | **[Pipette: An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics](https://arxiv.org/abs/2606.12936v3)** | 2026-07-16 | 19 pages, 19figures |
 | **[An offline approach to fNIRS-guided reinforcement learning for robot behavior](https://arxiv.org/abs/2607.14393v1)** | 2026-07-15 | Preliminary results |
 | **[Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning](https://arxiv.org/abs/2607.14183v1)** | 2026-07-15 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[Task Parameter Extrapolation via Learning Inverse Tasks from Forward Demonstrations](https://arxiv.org/abs/2603.05576v3)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE RA-L</p></details> |
 | **[Towards Predictive, Aligned, and Scalable Robot Learning](https://arxiv.org/abs/2607.11270v1)** | 2026-07-13 |  |
 | **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v2)** | 2026-07-12 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
-| **[Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification](https://arxiv.org/abs/2607.10706v1)** | 2026-07-12 | <details><summary>Proje...</summary><p>Project Website: https://haojhuang.github.io/amp_page/</p></details> |
-| **[VINE: Taming Generative Control Policies for Reinforcement Learning](https://arxiv.org/abs/2607.10369v1)** | 2026-07-11 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
