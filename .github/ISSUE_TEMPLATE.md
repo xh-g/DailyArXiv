@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2026
+title: Latest 15 Papers - July 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conservative Query and Adaptive Regularization for Offline RL Under Uncertainty Estimation](https://arxiv.org/abs/2607.19199v1)** | 2026-07-21 | Accepted by ECAI2025 |
 | **[RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://arxiv.org/abs/2507.15356v3)** | 2026-07-17 |  |
 | **[Evaluating covariate balance for long time horizon Markov decision processes](https://arxiv.org/abs/2607.15080v1)** | 2026-07-16 |  |
 | **[Similarity as Reward Alignment: Robust and Versatile Preference-based Reinforcement Learning](https://arxiv.org/abs/2506.12529v2)** | 2026-07-16 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space](https://arxiv.org/abs/2603.26720v3)** | 2026-07-05 |  |
 | **[Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation](https://arxiv.org/abs/2607.02460v1)** | 2026-07-02 |  |
 | **[On the Role of Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v4)** | 2026-07-02 | <details><summary>ICML ...</summary><p>ICML 2026, Website: https://rajghugare19.github.io/computation-rl/index.html</p></details> |
-| **[SPLC: Social Preference Learning for Crowd Robot Navigation](https://arxiv.org/abs/2607.01925v1)** | 2026-07-02 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EquiBim: Learning Symmetry-Equivariant Policy for Bimanual Manipulation](https://arxiv.org/abs/2603.08541v3)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to IROS 2026. Project page: https://zhangzhiyuanzhang.github.io/equibim-website/</p></details> |
 | **[Patch Policy: Efficient Embodied Control via Dense Visual Representations](https://arxiv.org/abs/2607.18236v1)** | 2026-07-20 |  |
 | **[Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409v2)** | 2026-07-20 |  |
 | **[User-Driven Learning from Demonstration: A Trajectory and Impedance Learning Method](https://arxiv.org/abs/2607.16998v1)** | 2026-07-18 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Automation Science and Engineering (CASE) 2026, 7 pages</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies](https://arxiv.org/abs/2607.12892v1)** | 2026-07-14 |  |
 | **[Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences](https://arxiv.org/abs/2607.12466v1)** | 2026-07-14 | 23 pages, 20 figures |
 | **[APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model](https://arxiv.org/abs/2603.08862v2)** | 2026-07-14 |  |
-| **[Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers](https://arxiv.org/abs/2507.15833v3)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project page: https://soltanilara.github.io/giava/</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
