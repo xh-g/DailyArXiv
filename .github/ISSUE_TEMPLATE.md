@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids](https://arxiv.org/abs/2607.20345v1)** | 2026-07-22 | <details><summary>8 pag...</summary><p>8 pages. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation](https://arxiv.org/abs/2607.18231v1)** | 2026-07-20 |  |
 | **[Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation](https://arxiv.org/abs/2607.18016v1)** | 2026-07-20 |  |
 | **[Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409v2)** | 2026-07-20 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Reflex: Real-Time VLA Control through Streaming Inference](https://arxiv.org/abs/2607.14695v1)** | 2026-07-16 | Accepted by ICML2026 |
 | **[VistaVLA: Geometry- and Semantic-Aware 3D Gaussian-Grounded VLA for Robotic Manipulation](https://arxiv.org/abs/2607.12356v2)** | 2026-07-16 |  |
 | **[Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection](https://arxiv.org/abs/2607.14236v1)** | 2026-07-15 | <details><summary>Proje...</summary><p>Project page: https://lift-policy.github.io/</p></details> |
-| **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v3)** | 2026-07-15 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Extreme-RGMT: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Control](https://arxiv.org/abs/2607.20110v1)** | 2026-07-22 |  |
+| **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v1)** | 2026-07-21 |  |
 | **[MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization](https://arxiv.org/abs/2604.21370v2)** | 2026-07-20 | <details><summary>9 pag...</summary><p>9 pages, 9 tables. Published in Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026), Task 9</p></details> |
 | **[TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423v1)** | 2026-07-19 | Technical Report |
 | **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935v1)** | 2026-07-16 |  |
@@ -39,13 +41,13 @@ labels: documentation
 | **[Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy](https://arxiv.org/abs/2607.09135v1)** | 2026-07-10 |  |
 | **[RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434v3)** | 2026-07-08 | <details><summary>Websi...</summary><p>Website: https://robodojo-benchmark.com/, Code: https://github.com/RoboDojo-Benchmark/RoboDojo, Leaderboard: https://robodojo-benchmark.com/leaderboard</p></details> |
 | **[Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector](https://arxiv.org/abs/2607.07382v1)** | 2026-07-08 | 24 pages, 4 figures |
-| **[GeoProp: Grounding Robot State in Vision for Generalist Manipulation](https://arxiv.org/abs/2607.07101v1)** | 2026-07-08 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 11 tables. Project page: https://alibaba-damo-academy.github.io/GeoProp/</p></details> |
-| **[HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies](https://arxiv.org/abs/2512.05693v2)** | 2026-07-08 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Mechanism Matters: When Knowledge Graphs Help Reinforcement Learning](https://arxiv.org/abs/2607.19616v1)** | 2026-07-21 |  |
 | **[Conservative Query and Adaptive Regularization for Offline RL Under Uncertainty Estimation](https://arxiv.org/abs/2607.19199v1)** | 2026-07-21 | Accepted by ECAI2025 |
+| **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v1)** | 2026-07-21 |  |
 | **[RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://arxiv.org/abs/2507.15356v3)** | 2026-07-17 |  |
 | **[Evaluating covariate balance for long time horizon Markov decision processes](https://arxiv.org/abs/2607.15080v1)** | 2026-07-16 |  |
 | **[Similarity as Reward Alignment: Robust and Versatile Preference-based Reinforcement Learning](https://arxiv.org/abs/2506.12529v2)** | 2026-07-16 |  |
@@ -58,12 +60,11 @@ labels: documentation
 | **[Latent Policy Steering through One-Step Flow Policies](https://arxiv.org/abs/2603.05296v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to RSS 2026, Project Webpage : https://jellyho.github.io/LPS/</p></details> |
 | **[Model-based Bootstrap of Controlled Markov Chains](https://arxiv.org/abs/2605.12410v2)** | 2026-07-07 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 19 tables</p></details> |
 | **[SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space](https://arxiv.org/abs/2603.26720v3)** | 2026-07-05 |  |
-| **[Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation](https://arxiv.org/abs/2607.02460v1)** | 2026-07-02 |  |
-| **[On the Role of Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v4)** | 2026-07-02 | <details><summary>ICML ...</summary><p>ICML 2026, Website: https://rajghugare19.github.io/computation-rl/index.html</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments](https://arxiv.org/abs/2607.20289v1)** | 2026-07-22 | 9 Pages |
 | **[EquiBim: Learning Symmetry-Equivariant Policy for Bimanual Manipulation](https://arxiv.org/abs/2603.08541v3)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to IROS 2026. Project page: https://zhangzhiyuanzhang.github.io/equibim-website/</p></details> |
 | **[Patch Policy: Efficient Embodied Control via Dense Visual Representations](https://arxiv.org/abs/2607.18236v1)** | 2026-07-20 |  |
 | **[Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409v2)** | 2026-07-20 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
 | **[UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies](https://arxiv.org/abs/2607.12892v1)** | 2026-07-14 |  |
 | **[Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences](https://arxiv.org/abs/2607.12466v1)** | 2026-07-14 | 23 pages, 20 figures |
-| **[APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model](https://arxiv.org/abs/2603.08862v2)** | 2026-07-14 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
