@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725v1)** | 2026-07-23 |  |
 | **[Extreme-RGMT: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Control](https://arxiv.org/abs/2607.20110v1)** | 2026-07-22 |  |
 | **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v1)** | 2026-07-21 |  |
 | **[MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization](https://arxiv.org/abs/2604.21370v2)** | 2026-07-20 | <details><summary>9 pag...</summary><p>9 pages, 9 tables. Published in Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026), Task 9</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Enabling Energy-Efficient Simultaneous Multi-Task Reinforcement Learning through Spiking Neural Networks with Active Dendrites for Bio-inspired Generalist Agents](https://arxiv.org/abs/2412.04847v2)** | 2026-07-14 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 7 tables</p></details> |
 | **[Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy](https://arxiv.org/abs/2607.09135v1)** | 2026-07-10 |  |
 | **[RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434v3)** | 2026-07-08 | <details><summary>Websi...</summary><p>Website: https://robodojo-benchmark.com/, Code: https://github.com/RoboDojo-Benchmark/RoboDojo, Leaderboard: https://robodojo-benchmark.com/leaderboard</p></details> |
-| **[Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector](https://arxiv.org/abs/2607.07382v1)** | 2026-07-08 | 24 pages, 4 figures |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Reason for Factuality](https://arxiv.org/abs/2508.05618v2)** | 2026-07-24 | ICML 2026 |
 | **[TOUR: A Trajectory-Level Unlearning Benchmark for Offline Reinforcement Learning](https://arxiv.org/abs/2607.21111v1)** | 2026-07-23 |  |
 | **[Offline RL with Hierarchical Action Chunking](https://arxiv.org/abs/2607.20834v1)** | 2026-07-23 | RLC/RLJ 2026 |
 | **[The Mechanism Matters: When Knowledge Graphs Help Reinforcement Learning](https://arxiv.org/abs/2607.19616v1)** | 2026-07-21 |  |
@@ -59,13 +60,15 @@ labels: documentation
 | **[Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2607.09866v1)** | 2026-07-10 | <details><summary>Pleas...</summary><p>Please refer to our website: https://gewu-lab.github.io/Robo-ValueRL/</p></details> |
 | **[Generalization in offline RL: The structure is more important than the amount of pessimism](https://arxiv.org/abs/2607.02288v2)** | 2026-07-09 |  |
 | **[Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies](https://arxiv.org/abs/2603.15136v2)** | 2026-07-09 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 3 tables; First 2 authors have contributed equally; Paper accepted at Reinforcement Learning Conference (RLC) 2026</p></details> |
-| **[Latent Policy Steering through One-Step Flow Policies](https://arxiv.org/abs/2603.05296v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to RSS 2026, Project Webpage : https://jellyho.github.io/LPS/</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2607.22530v1)** | 2026-07-24 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 5 tables. Project page: https://vitacworld.github.io/</p></details> |
+| **[Robot Learning to Communicate through Projected Visual Abstractions](https://arxiv.org/abs/2607.22434v1)** | 2026-07-24 | <details><summary>Our p...</summary><p>Our project website is at:https://generalroboticslab.com/shadow</p></details> |
 | **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
 | **[TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://arxiv.org/abs/2602.19313v2)** | 2026-07-22 |  |
+| **[Progress Reward Modeling for Robotic Learning: A Comprehensive Survey](https://arxiv.org/abs/2607.21655v1)** | 2026-07-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/sterzhang/Awesome-Progress-Models</p></details> |
 | **[Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments](https://arxiv.org/abs/2607.20289v1)** | 2026-07-22 | 9 Pages |
 | **[EquiBim: Learning Symmetry-Equivariant Policy for Bimanual Manipulation](https://arxiv.org/abs/2603.08541v3)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to IROS 2026. Project page: https://zhangzhiyuanzhang.github.io/equibim-website/</p></details> |
 | **[Patch Policy: Efficient Embodied Control via Dense Visual Representations](https://arxiv.org/abs/2607.18236v1)** | 2026-07-20 |  |
@@ -76,9 +79,6 @@ labels: documentation
 | **[RhinoVLA Technical Report](https://arxiv.org/abs/2606.07383v4)** | 2026-07-17 |  |
 | **[Pipette: An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics](https://arxiv.org/abs/2606.12936v3)** | 2026-07-16 | 19 pages, 19figures |
 | **[An offline approach to fNIRS-guided reinforcement learning for robot behavior](https://arxiv.org/abs/2607.14393v1)** | 2026-07-15 | Preliminary results |
-| **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v2)** | 2026-07-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026). Project page: https://radar-iros.netlify.app/</p></details> |
-| **[Where Should RL Post-Training Compute Go? Model Size, Search, Learning, and Feedback](https://arxiv.org/abs/2607.13389v1)** | 2026-07-15 |  |
-| **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
