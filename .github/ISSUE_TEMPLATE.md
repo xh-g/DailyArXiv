@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving](https://arxiv.org/abs/2608.10976v1)** | 2026-08-11 |  |
+| **[HoloQ-VLA: Uniform W4A4 Quantization of Vision-Language-Action Models](https://arxiv.org/abs/2605.28803v3)** | 2026-08-11 |  |
 | **[VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models](https://arxiv.org/abs/2512.22539v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA](https://arxiv.org/abs/2608.01035v2)** | 2026-08-07 |  |
 | **[CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models](https://arxiv.org/abs/2608.07621v1)** | 2026-08-07 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Fast and Accurate: An Adaptive VLA Inference Framework through Environment-aware Model Selection](https://arxiv.org/abs/2608.06434v1)** | 2026-08-06 |  |
 | **[MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation](https://arxiv.org/abs/2603.25406v3)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
 | **[Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies](https://arxiv.org/abs/2608.04692v1)** | 2026-08-05 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, 40 tables. Preprint</p></details> |
-| **[Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2608.04633v1)** | 2026-08-05 |  |
-| **[GUARD: Grounding Uncertainty and Ablation-Based Risk Detection for Diffusion-Based VLAs](https://arxiv.org/abs/2608.04510v1)** | 2026-08-05 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](https://arxiv.org/abs/2608.11204v1)** | 2026-08-11 |  |
+| **[BooST: Bridging Semantics and Motions for Efficient Skill Transfer](https://arxiv.org/abs/2608.10600v1)** | 2026-08-11 | <details><summary>Proje...</summary><p>Project page: https://boost-robots.github.io/</p></details> |
 | **[RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance](https://arxiv.org/abs/2608.09853v1)** | 2026-08-10 | 23 pages, 5 figures |
 | **[Data Pyramid for Embodied Manipulation: A Survey](https://arxiv.org/abs/2607.24744v2)** | 2026-08-08 | <details><summary>Aweso...</summary><p>Awesome Embodied Data Pyramid; Project Page at https://jasper-aaa.github.io/embodied-data-pyramid/ GitHub Repo at https://github.com/worldbench/awesome-embodied-data-pyramid</p></details> |
 | **[GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions](https://arxiv.org/abs/2608.06332v1)** | 2026-08-06 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[CoLI: A Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation](https://arxiv.org/abs/2606.20389v2)** | 2026-08-03 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 1 table, accepted by IROS2026</p></details> |
 | **[TWINS: A Tactile Wearable Isomorphic Arm Networked System for Contact-Rich Manipulation Learning](https://arxiv.org/abs/2608.01733v1)** | 2026-08-03 |  |
 | **[Concurrent Prehensile and Nonprehensile Manipulation: A Practical Approach to Multi-Stage Dexterous Tasks](https://arxiv.org/abs/2603.11655v4)** | 2026-08-03 | 12 pages, 6 figures |
-| **[Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning](https://arxiv.org/abs/2608.07558v1)** | 2026-08-02 | 53 pages, 7 figures |
-| **[Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer](https://arxiv.org/abs/2607.28394v2)** | 2026-08-01 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
