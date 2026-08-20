@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066v1)** | 2026-08-19 |  |
 | **[WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA](https://arxiv.org/abs/2608.01035v4)** | 2026-08-18 |  |
 | **[Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups](https://arxiv.org/abs/2608.17423v1)** | 2026-08-18 |  |
 | **[$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](https://arxiv.org/abs/2608.16885v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Project page: https://tau0-vla.github.io/</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[ForceU-VLA: A Force-Aware Vision-Language-Action Model for Embodied Ultrasound Scanning](https://arxiv.org/abs/2608.15009v1)** | 2026-08-15 |  |
 | **[SSP: An Event-Matched Syn2Sim2Phy Cross-Domain Evaluation Framework for Autonomous Driving VLA Models](https://arxiv.org/abs/2608.14024v1)** | 2026-08-14 |  |
 | **[AtomBridge: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430v2)** | 2026-08-14 |  |
-| **[BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control](https://arxiv.org/abs/2608.13924v1)** | 2026-08-14 | 9 pages,4 figures |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Future Policy Approximation for Offline Reinforcement Learning in LLM Reasoning](https://arxiv.org/abs/2509.19893v3)** | 2026-08-19 | 12 pages |
 | **[DiSA-IQL: Offline Reinforcement Learning for Robust Soft Robot Control under Distribution Shifts](https://arxiv.org/abs/2510.00358v2)** | 2026-08-15 |  |
 | **[Offline Deep Q* Estimation with Diffusion Models](https://arxiv.org/abs/2608.14401v1)** | 2026-08-14 |  |
 | **[Yes, Q-learning Helps Offline In-Context RL](https://arxiv.org/abs/2502.17666v5)** | 2026-08-13 | <details><summary>https...</summary><p>https://github.com/dunnolab/yesq</p></details> |
@@ -59,11 +60,13 @@ labels: documentation
 | **[RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy](https://arxiv.org/abs/2607.27782v1)** | 2026-07-30 |  |
 | **[RL$^2$-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models](https://arxiv.org/abs/2607.26991v2)** | 2026-07-30 | <details><summary>Code ...</summary><p>Code and models are available at https://rl2-vla.github.io</p></details> |
 | **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v2)** | 2026-07-29 |  |
-| **[Learning from the Unseen: Offline Reinforcement Learning with Hidden Actions](https://arxiv.org/abs/2607.25241v1)** | 2026-07-28 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience](https://arxiv.org/abs/2608.18948v1)** | 2026-08-19 | <details><summary>14 pa...</summary><p>14 pages, 13 figures. Supplementary material included</p></details> |
+| **[Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2608.18787v1)** | 2026-08-19 | 12 pages, 7 figures |
+| **[LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories](https://arxiv.org/abs/2608.18618v1)** | 2026-08-19 | 13 pages, 3 figures |
 | **[PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing](https://arxiv.org/abs/2608.17962v1)** | 2026-08-18 |  |
 | **[LIBERO-VIFO: Benchmarking the Capability and Safety of Visual Cue Following in Vision-Language-Action Models](https://arxiv.org/abs/2608.17600v1)** | 2026-08-18 |  |
 | **[Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](https://arxiv.org/abs/2512.00074v4)** | 2026-08-18 | <details><summary>Proje...</summary><p>Project Page: https://kolakivy.github.io/AFRO/, accepted by CVPR 2026</p></details> |
@@ -76,14 +79,11 @@ labels: documentation
 | **[H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models](https://arxiv.org/abs/2608.13049v1)** | 2026-08-13 |  |
 | **[HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing](https://arxiv.org/abs/2608.12122v1)** | 2026-08-12 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://handedit.github.io/</p></details> |
 | **[Adaptation of Generalist Robot Policies with Minimal Data](https://arxiv.org/abs/2608.11363v1)** | 2026-08-11 |  |
-| **[Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](https://arxiv.org/abs/2608.11204v1)** | 2026-08-11 |  |
-| **[BooST: Bridging Semantics and Motions for Efficient Skill Transfer](https://arxiv.org/abs/2608.10600v1)** | 2026-08-11 | <details><summary>Proje...</summary><p>Project page: https://boost-robots.github.io/</p></details> |
-| **[RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance](https://arxiv.org/abs/2608.09853v1)** | 2026-08-10 | 23 pages, 5 figures |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[G-ReAct: Graph-Guided Deep Search via Structure-State Co-Evolution](https://arxiv.org/abs/2608.01324v2)** | 2026-08-18 |  |
+| **[G-ReAct: Graph-Guided Deep Search via Structure-State Co-Evolution](https://arxiv.org/abs/2608.01324v3)** | 2026-08-19 |  |
 | **[PRO-Bid: Pareto-Prioritized Regret Optimization for Constraint-Aware Generative Auto-Bidding](https://arxiv.org/abs/2602.08261v2)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted to CIKM2026 Full Research Paper Track</p></details> |
 | **[Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies](https://arxiv.org/abs/2601.02754v3)** | 2026-08-16 | 11 pages, 5 figures |
 | **[Unmasking Toxic Mimicry in Medical Offline Reinforcement Learning for ICU Sepsis Management via Counterfactual Clinical Audits](https://arxiv.org/abs/2608.11410v1)** | 2026-08-11 |  |
