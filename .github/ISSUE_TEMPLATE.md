@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Route by Kinematics, Act by Observation: Kinematics-Supervised Expert Routing in MoE-Augmented VLA](https://arxiv.org/abs/2607.26807v2)** | 2026-08-20 | 9 pages |
+| **[EXIMO: VLM Guided Exploration of VLA Policies](https://arxiv.org/abs/2608.19891v1)** | 2026-08-20 |  |
+| **[Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation](https://arxiv.org/abs/2608.19490v1)** | 2026-08-19 | <details><summary>Proje...</summary><p>Project Page: https://self-supervised-control.pages.dev/</p></details> |
 | **[GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066v1)** | 2026-08-19 |  |
 | **[WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA](https://arxiv.org/abs/2608.01035v4)** | 2026-08-18 |  |
 | **[Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups](https://arxiv.org/abs/2608.17423v1)** | 2026-08-18 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification](https://arxiv.org/abs/2608.15636v1)** | 2026-08-16 |  |
 | **[StructRL: Structured Action-Space Exploration for Flow-Based VLAs](https://arxiv.org/abs/2608.15139v1)** | 2026-08-15 |  |
 | **[EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control](https://arxiv.org/abs/2605.21862v2)** | 2026-08-15 |  |
-| **[ForceU-VLA: A Force-Aware Vision-Language-Action Model for Embodied Ultrasound Scanning](https://arxiv.org/abs/2608.15009v1)** | 2026-08-15 |  |
-| **[SSP: An Event-Matched Syn2Sim2Phy Cross-Domain Evaluation Framework for Autonomous Driving VLA Models](https://arxiv.org/abs/2608.14024v1)** | 2026-08-14 |  |
-| **[AtomBridge: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments](https://arxiv.org/abs/2602.09430v2)** | 2026-08-14 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector](https://arxiv.org/abs/2607.07382v2)** | 2026-08-20 | <details><summary>31 pa...</summary><p>31 pages, 7 figures. Section added with analysis for real data. New figures and tables added. Other minor changes</p></details> |
 | **[Hydra-0: Action Flow for Generalist World Modeling and Control](https://arxiv.org/abs/2608.18077v1)** | 2026-08-18 | <details><summary>Proje...</summary><p>Project page: https://nvidia-isaac.github.io/video_to_data/hydra-0/</p></details> |
 | **[HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL](https://arxiv.org/abs/2608.16837v1)** | 2026-08-17 | <details><summary>Proje...</summary><p>Project page: https://grange007.github.io/HAF</p></details> |
 | **[RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies](https://arxiv.org/abs/2604.09860v4)** | 2026-08-14 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935v1)** | 2026-07-16 |  |
 | **[Beyond Generalist LLMs: Specialist Agentic Systems for Structured Code Workflow Execution](https://arxiv.org/abs/2607.14456v1)** | 2026-07-16 |  |
 | **[Active Real-World Factor-Based Evaluation for Generalist Robot Policies](https://arxiv.org/abs/2607.14439v1)** | 2026-07-16 |  |
-| **[Initiation Safety: A Missing Dimension in Generalist-Robot Safety](https://arxiv.org/abs/2607.07420v2)** | 2026-07-15 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. Accepted to RSS 2026 Workshop on Rethinking Safety for Generalist Robots</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation](https://arxiv.org/abs/2608.20208v1)** | 2026-08-20 |  |
 | **[Future Policy Approximation for Offline Reinforcement Learning in LLM Reasoning](https://arxiv.org/abs/2509.19893v3)** | 2026-08-19 | 12 pages |
 | **[DiSA-IQL: Offline Reinforcement Learning for Robust Soft Robot Control under Distribution Shifts](https://arxiv.org/abs/2510.00358v2)** | 2026-08-15 |  |
 | **[Offline Deep Q* Estimation with Diffusion Models](https://arxiv.org/abs/2608.14401v1)** | 2026-08-14 |  |
@@ -59,11 +60,14 @@ labels: documentation
 | **[RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning](https://arxiv.org/abs/2608.00335v1)** | 2026-07-31 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, and 6 tables. Includes appendices</p></details> |
 | **[RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy](https://arxiv.org/abs/2607.27782v1)** | 2026-07-30 |  |
 | **[RL$^2$-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models](https://arxiv.org/abs/2607.26991v2)** | 2026-07-30 | <details><summary>Code ...</summary><p>Code and models are available at https://rl2-vla.github.io</p></details> |
-| **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v2)** | 2026-07-29 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Matters for Latent Actions in Robot Learning](https://arxiv.org/abs/2608.19613v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project page: https://carldegio.github.io/latent_action.github.io</p></details> |
+| **[OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation](https://arxiv.org/abs/2608.19589v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted by PRCV 2026</p></details> |
+| **[SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation](https://arxiv.org/abs/2608.19425v1)** | 2026-08-19 | 22 pages |
+| **[Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control](https://arxiv.org/abs/2608.19375v1)** | 2026-08-19 |  |
 | **[RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience](https://arxiv.org/abs/2608.18948v1)** | 2026-08-19 | <details><summary>14 pa...</summary><p>14 pages, 13 figures. Supplementary material included</p></details> |
 | **[Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2608.18787v1)** | 2026-08-19 | 12 pages, 7 figures |
 | **[LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories](https://arxiv.org/abs/2608.18618v1)** | 2026-08-19 | 13 pages, 3 figures |
@@ -75,10 +79,6 @@ labels: documentation
 | **[Max-Q Selective Imitation for Human-in-the-Loop Online Robot Learning](https://arxiv.org/abs/2608.15088v1)** | 2026-08-15 |  |
 | **[EgoTac: In-the-wild Tactile Prediction from Egocentric Vision](https://arxiv.org/abs/2608.15060v1)** | 2026-08-15 |  |
 | **[Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot](https://arxiv.org/abs/2601.02078v4)** | 2026-08-14 |  |
-| **[hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance](https://arxiv.org/abs/2608.13678v1)** | 2026-08-13 | <details><summary>Video...</summary><p>Videos available on our project page: https://anonymous-hint2.github.io/</p></details> |
-| **[H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models](https://arxiv.org/abs/2608.13049v1)** | 2026-08-13 |  |
-| **[HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing](https://arxiv.org/abs/2608.12122v1)** | 2026-08-12 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://handedit.github.io/</p></details> |
-| **[Adaptation of Generalist Robot Policies with Minimal Data](https://arxiv.org/abs/2608.11363v1)** | 2026-08-11 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
