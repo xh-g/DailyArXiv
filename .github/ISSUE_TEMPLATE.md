@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving](https://arxiv.org/abs/2605.10426v3)** | 2026-08-25 |  |
+| **[VLANeXt: Recipes for Building Strong VLA Models](https://arxiv.org/abs/2602.18532v3)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted in ICML 2026, Project Page: https://dravenalg.github.io/VLANeXt/</p></details> |
+| **[Output-Level Regularization Eliminates the Seed Lottery in Single-GPU VLA Fine-Tuning](https://arxiv.org/abs/2606.13856v2)** | 2026-08-25 | <details><summary>Some ...</summary><p>Some errors in the reference, and Im still developing to make it more novel</p></details> |
 | **[Q-VGM: Q-Value-Gradient Matching for Offline-to-Online Reinforcement Learning of Flow-Matching VLA](https://arxiv.org/abs/2606.08015v3)** | 2026-08-24 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 4 tables</p></details> |
 | **[Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation](https://arxiv.org/abs/2608.23138v1)** | 2026-08-24 |  |
 | **[ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation](https://arxiv.org/abs/2608.20735v2)** | 2026-08-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Introduces ForeTime-VLA, a causal future-token distillation method for conveyor-belt manipulation from a frozen world action model teacher</p></details> |
@@ -19,13 +22,11 @@ labels: documentation
 | **[WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA](https://arxiv.org/abs/2608.01035v4)** | 2026-08-18 |  |
 | **[Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics](https://arxiv.org/abs/2608.21440v1)** | 2026-08-18 |  |
 | **[Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups](https://arxiv.org/abs/2608.17423v1)** | 2026-08-18 |  |
-| **[$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](https://arxiv.org/abs/2608.16885v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Project page: https://tau0-vla.github.io/</p></details> |
-| **[HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL](https://arxiv.org/abs/2608.16837v1)** | 2026-08-17 | <details><summary>Proje...</summary><p>Project page: https://grange007.github.io/HAF</p></details> |
-| **[FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy](https://arxiv.org/abs/2608.16697v1)** | 2026-08-17 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency](https://arxiv.org/abs/2608.23831v1)** | 2026-08-24 | 25 pages, 12 figures |
 | **[Specialist-Generalist Fusion with Outcome-Supervised Rationales for Deepfake Detection](https://arxiv.org/abs/2605.31192v2)** | 2026-08-24 |  |
 | **[Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416v3)** | 2026-08-24 | No |
 | **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935v2)** | 2026-08-23 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v2)** | 2026-07-29 |  |
 | **[Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725v1)** | 2026-07-23 |  |
 | **[Extreme-RGMT: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Control](https://arxiv.org/abs/2607.20110v1)** | 2026-07-22 |  |
-| **[MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization](https://arxiv.org/abs/2604.21370v2)** | 2026-07-20 | <details><summary>9 pag...</summary><p>9 pages, 9 tables. Published in Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026), Task 9</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoDrift: Compositional Drifting for Offline Reinforcement Learning](https://arxiv.org/abs/2608.23939v1)** | 2026-08-25 |  |
 | **[Learning from the Test: Self-Referential Differential Testing for Deep RL Agents](https://arxiv.org/abs/2608.22284v1)** | 2026-08-23 |  |
 | **[CounterAlign: Counterfactual Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2608.21740v1)** | 2026-08-22 | <details><summary>Proje...</summary><p>Project page: https://counteralign.airoa.io</p></details> |
 | **[Decoupling Policy Extraction for Offline Reinforcement Learning](https://arxiv.org/abs/2608.20909v1)** | 2026-08-21 |  |
@@ -59,11 +60,13 @@ labels: documentation
 | **[Training a Conditioned Video Game Agent on a VLM Annotated Dataset](https://arxiv.org/abs/2608.05954v1)** | 2026-08-06 |  |
 | **[Target-Aligned Fusion for Decision-Sequence Learning under Dynamics Shift](https://arxiv.org/abs/2511.09173v3)** | 2026-08-04 | 22 pages,4 figures |
 | **[Convex-Hull-Neighborhood Smooth Dual Generalization: Controlling Local Correction Propagation in Offline RL](https://arxiv.org/abs/2608.03108v1)** | 2026-08-04 |  |
-| **[ReBRAC-v2: The Return of the King](https://arxiv.org/abs/2608.01205v1)** | 2026-08-02 | <details><summary>https...</summary><p>https://github.com/DT6A/ReBRAC-v2</p></details> |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](https://arxiv.org/abs/2604.23775v2)** | 2026-08-25 |  |
+| **[Bridging Teacher Expectations and Robot Learning via Coupling Dynamics](https://arxiv.org/abs/2608.23994v1)** | 2026-08-25 | 8 pages, 1 figure |
+| **[GlanceWAM: Sparse Test-Time Imagination for World-Action Models](https://arxiv.org/abs/2608.23927v1)** | 2026-08-25 |  |
 | **[An offline approach to fNIRS-guided reinforcement learning for robot behavior](https://arxiv.org/abs/2607.14393v2)** | 2026-08-24 | Preliminary results |
 | **[Physics Filtering Favors the Generalization of Robot Learning](https://arxiv.org/abs/2608.22701v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by npj Robotics</p></details> |
 | **[Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning](https://arxiv.org/abs/2608.21083v1)** | 2026-08-21 |  |
@@ -76,14 +79,12 @@ labels: documentation
 | **[LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories](https://arxiv.org/abs/2608.18618v1)** | 2026-08-19 | 13 pages, 3 figures |
 | **[PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing](https://arxiv.org/abs/2608.17962v1)** | 2026-08-18 |  |
 | **[LIBERO-VIFO: Benchmarking the Capability and Safety of Visual Cue Following in Vision-Language-Action Models](https://arxiv.org/abs/2608.17600v1)** | 2026-08-18 |  |
-| **[Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](https://arxiv.org/abs/2512.00074v4)** | 2026-08-18 | <details><summary>Proje...</summary><p>Project Page: https://kolakivy.github.io/AFRO/, accepted by CVPR 2026</p></details> |
-| **[Teach and Grow: An Agent-Centered Architecture for General Robot Learning](https://arxiv.org/abs/2608.17209v1)** | 2026-08-17 |  |
-| **[SADP: Subgoal-Aware Diffusion Policy for Long-Horizon Manipulation Learned from Foundation Model Generated Demonstrations](https://arxiv.org/abs/2605.16871v2)** | 2026-08-17 | <details><summary>Revis...</summary><p>Revised manuscript with an updated title, evaluation protocol, and simulation results</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control and Decision Transformers](https://arxiv.org/abs/2608.23204v1)** | 2026-08-24 |  |
+| **[Auditing Return Conditioning as a Control Knob: An Offline Diagnostic for Decision Transformer Recommendation](https://arxiv.org/abs/2608.24815v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at CONSEQUENCES '26, the 5th Workshop on Causality, Counterfactuals and Sequential Decision- Making for Recommender Systems, co-located with ACM RecSys 2026. 5 pages, 2 figures</p></details> |
+| **[Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control and Decision Transformers](https://arxiv.org/abs/2608.23204v2)** | 2026-08-25 |  |
 | **[LLMs are Few-Shot Decision-Makers: Generalized Context-Aware Microgrid Frequency Control through Prompt Decision Transformer](https://arxiv.org/abs/2608.21858v1)** | 2026-08-22 |  |
 | **[G-ReAct: Graph-Guided Deep Search via Structure-State Co-Evolution](https://arxiv.org/abs/2608.01324v3)** | 2026-08-19 |  |
 | **[PRO-Bid: Pareto-Prioritized Regret Optimization for Constraint-Aware Generative Auto-Bidding](https://arxiv.org/abs/2602.08261v2)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted to CIKM2026 Full Research Paper Track</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[From Bootstrapping to Sequence Modeling: A Unified Generative Framework for Personalized Landing-Page Modeling](https://arxiv.org/abs/2606.27865v1)** | 2026-06-26 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.23459</p></details> |
 | **[OnDeFog: Online Decision Transformer under Frame Dropping](https://arxiv.org/abs/2606.19721v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to PRICAI 2025</p></details> |
 | **[HOBA: Hierarchical On-Policy Bidding Agents for Adaptive Online Advertising](https://arxiv.org/abs/2607.24779v1)** | 2026-06-17 | <details><summary>10pag...</summary><p>10pages,accepted by KDD 2026 ads track</p></details> |
-| **[Neuro-Symbolic Injection of LTLf Constraints in Autoregressive Reinforcement Learning Policies](https://arxiv.org/abs/2606.08312v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted at the Joint Workshop on Statistics and Knowledge Integration for Logic, Learning, Ethical Decisions, and LLMs (SKILLED-LLMs 2026), co-located with KR 2026 and FLoC 2026, Lisbon, Portugal</p></details> |
 
