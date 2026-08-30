@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2026
+title: Latest 15 Papers - August 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference](https://arxiv.org/abs/2608.27384v1)** | 2026-08-27 | 17 pages, 8 figures |
+| **[TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2608.26821v1)** | 2026-08-27 |  |
+| **[MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization](https://arxiv.org/abs/2608.25864v1)** | 2026-08-26 | ECCV 2026 |
+| **[RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](https://arxiv.org/abs/2608.25585v1)** | 2026-08-26 | <details><summary>ICML ...</summary><p>ICML 2026. Contact: s.jang@postech.ac.kr</p></details> |
 | **[CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving](https://arxiv.org/abs/2605.10426v3)** | 2026-08-25 |  |
 | **[VLANeXt: Recipes for Building Strong VLA Models](https://arxiv.org/abs/2602.18532v3)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted in ICML 2026, Project Page: https://dravenalg.github.io/VLANeXt/</p></details> |
 | **[Output-Level Regularization Eliminates the Seed Lottery in Single-GPU VLA Fine-Tuning](https://arxiv.org/abs/2606.13856v2)** | 2026-08-25 | <details><summary>Some ...</summary><p>Some errors in the reference, and Im still developing to make it more novel</p></details> |
@@ -18,15 +22,12 @@ labels: documentation
 | **[Route by Kinematics, Act by Observation: Kinematics-Supervised Expert Routing in MoE-Augmented VLA](https://arxiv.org/abs/2607.26807v2)** | 2026-08-20 | 9 pages |
 | **[EXIMO: VLM Guided Exploration of VLA Policies](https://arxiv.org/abs/2608.19891v1)** | 2026-08-20 |  |
 | **[Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation](https://arxiv.org/abs/2608.19490v1)** | 2026-08-19 | <details><summary>Proje...</summary><p>Project Page: https://self-supervised-control.pages.dev/</p></details> |
-| **[GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066v1)** | 2026-08-19 |  |
-| **[WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA](https://arxiv.org/abs/2608.01035v4)** | 2026-08-18 |  |
-| **[Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics](https://arxiv.org/abs/2608.21440v1)** | 2026-08-18 |  |
-| **[Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups](https://arxiv.org/abs/2608.17423v1)** | 2026-08-18 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency](https://arxiv.org/abs/2608.23831v1)** | 2026-08-24 | 25 pages, 12 figures |
+| **[LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation](https://arxiv.org/abs/2608.25757v2)** | 2026-08-27 |  |
+| **[Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency](https://arxiv.org/abs/2608.23831v2)** | 2026-08-26 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, project website: https://async-rl-intermediate-information.github.io/</p></details> |
 | **[Specialist-Generalist Fusion with Outcome-Supervised Rationales for Deepfake Detection](https://arxiv.org/abs/2605.31192v2)** | 2026-08-24 |  |
 | **[Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416v3)** | 2026-08-24 | No |
 | **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935v2)** | 2026-08-23 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models](https://arxiv.org/abs/2607.27512v1)** | 2026-07-29 | <details><summary>33 pa...</summary><p>33 pages (14 pages of main text), 7 figures, 14 tables</p></details> |
 | **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v2)** | 2026-07-29 |  |
 | **[Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725v1)** | 2026-07-23 |  |
-| **[Extreme-RGMT: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Control](https://arxiv.org/abs/2607.20110v1)** | 2026-07-22 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Simple Actors and Deep Critics for Scalable Reinforcement Learning](https://arxiv.org/abs/2608.26659v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
+| **[Bayesian Flow Networks for Offline Trajectory Planning](https://arxiv.org/abs/2608.25163v1)** | 2026-08-25 |  |
 | **[CoDrift: Compositional Drifting for Offline Reinforcement Learning](https://arxiv.org/abs/2608.23939v1)** | 2026-08-25 |  |
 | **[Learning from the Test: Self-Referential Differential Testing for Deep RL Agents](https://arxiv.org/abs/2608.22284v1)** | 2026-08-23 |  |
 | **[CounterAlign: Counterfactual Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2608.21740v1)** | 2026-08-22 | <details><summary>Proje...</summary><p>Project page: https://counteralign.airoa.io</p></details> |
@@ -58,12 +60,17 @@ labels: documentation
 | **[SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://arxiv.org/abs/2602.17632v3)** | 2026-08-09 |  |
 | **[Minimal Ingredients for Reward Assignment from Expert Demonstrations](https://arxiv.org/abs/2506.06793v2)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by Reinforcement Learning Conference 2026</p></details> |
 | **[Training a Conditioned Video Game Agent on a VLM Annotated Dataset](https://arxiv.org/abs/2608.05954v1)** | 2026-08-06 |  |
-| **[Target-Aligned Fusion for Decision-Sequence Learning under Dynamics Shift](https://arxiv.org/abs/2511.09173v3)** | 2026-08-04 | 22 pages,4 figures |
-| **[Convex-Hull-Neighborhood Smooth Dual Generalization: Controlling Local Correction Propagation in Offline RL](https://arxiv.org/abs/2608.03108v1)** | 2026-08-04 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization](https://arxiv.org/abs/2608.26103v2)** | 2026-08-27 | <details><summary>https...</summary><p>https://robbyant-research.github.io/Zero-WAM/</p></details> |
+| **[Rapid On-Robot Learning for Dynamic Manipulation Skills: Robot Juggling](https://arxiv.org/abs/2608.26800v1)** | 2026-08-27 |  |
+| **[Memory Anchors for Continual Robot Learning](https://arxiv.org/abs/2608.26545v1)** | 2026-08-27 | 22 pages, 15 figures |
+| **[WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression](https://arxiv.org/abs/2608.26239v1)** | 2026-08-26 |  |
+| **[Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065v2)** | 2026-08-26 |  |
+| **[Longitudinal Robot Learning from Demonstration with Care Providers in a Home Environment](https://arxiv.org/abs/2608.25196v1)** | 2026-08-25 | <details><summary>ICRA ...</summary><p>ICRA 2026 Workshop on Bridging the Gap between Robot Learning and Human-Robot Interaction</p></details> |
+| **[CRESSim-Neo: A Batched GPU Simulation Engine for Surgical Robotics and Robot Learning](https://arxiv.org/abs/2608.25192v1)** | 2026-08-25 | 8 pages, 11 figures |
 | **[Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](https://arxiv.org/abs/2604.23775v2)** | 2026-08-25 |  |
 | **[Bridging Teacher Expectations and Robot Learning via Coupling Dynamics](https://arxiv.org/abs/2608.23994v1)** | 2026-08-25 | 8 pages, 1 figure |
 | **[GlanceWAM: Sparse Test-Time Imagination for World-Action Models](https://arxiv.org/abs/2608.23927v1)** | 2026-08-25 |  |
@@ -72,13 +79,6 @@ labels: documentation
 | **[Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning](https://arxiv.org/abs/2608.21083v1)** | 2026-08-21 |  |
 | **[What Matters for Latent Actions in Robot Learning](https://arxiv.org/abs/2608.19613v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project page: https://carldegio.github.io/latent_action.github.io</p></details> |
 | **[OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation](https://arxiv.org/abs/2608.19589v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted by PRCV 2026</p></details> |
-| **[SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation](https://arxiv.org/abs/2608.19425v1)** | 2026-08-19 | 22 pages |
-| **[Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control](https://arxiv.org/abs/2608.19375v1)** | 2026-08-19 |  |
-| **[RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience](https://arxiv.org/abs/2608.18948v1)** | 2026-08-19 | <details><summary>14 pa...</summary><p>14 pages, 13 figures. Supplementary material included</p></details> |
-| **[Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2608.18787v1)** | 2026-08-19 | 12 pages, 7 figures |
-| **[LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories](https://arxiv.org/abs/2608.18618v1)** | 2026-08-19 | 13 pages, 3 figures |
-| **[PRISM: Precision and contact-rich Real-world Industrial Skill dataset with Multimodal sensing](https://arxiv.org/abs/2608.17962v1)** | 2026-08-18 |  |
-| **[LIBERO-VIFO: Benchmarking the Capability and Safety of Visual Cue Following in Vision-Language-Action Models](https://arxiv.org/abs/2608.17600v1)** | 2026-08-18 |  |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
