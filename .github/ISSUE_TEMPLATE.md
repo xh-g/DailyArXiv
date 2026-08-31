@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA](https://arxiv.org/abs/2608.28108v1)** | 2026-08-28 |  |
+| **[Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2608.04633v2)** | 2026-08-27 | 9 pages, 4 figures |
+| **[PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2608.27609v1)** | 2026-08-27 |  |
 | **[FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference](https://arxiv.org/abs/2608.27384v1)** | 2026-08-27 | 17 pages, 8 figures |
 | **[TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2608.26821v1)** | 2026-08-27 |  |
 | **[MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization](https://arxiv.org/abs/2608.25864v1)** | 2026-08-26 | ECCV 2026 |
@@ -19,13 +22,11 @@ labels: documentation
 | **[ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation](https://arxiv.org/abs/2608.20735v2)** | 2026-08-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Introduces ForeTime-VLA, a causal future-token distillation method for conveyor-belt manipulation from a frozen world action model teacher</p></details> |
 | **[A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving](https://arxiv.org/abs/2608.20890v1)** | 2026-08-21 |  |
 | **[Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model](https://arxiv.org/abs/2608.20556v1)** | 2026-08-20 |  |
-| **[Route by Kinematics, Act by Observation: Kinematics-Supervised Expert Routing in MoE-Augmented VLA](https://arxiv.org/abs/2607.26807v2)** | 2026-08-20 | 9 pages |
-| **[EXIMO: VLM Guided Exploration of VLA Policies](https://arxiv.org/abs/2608.19891v1)** | 2026-08-20 |  |
-| **[Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation](https://arxiv.org/abs/2608.19490v1)** | 2026-08-19 | <details><summary>Proje...</summary><p>Project Page: https://self-supervised-control.pages.dev/</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents](https://arxiv.org/abs/2608.27866v1)** | 2026-08-28 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, and 4 tables</p></details> |
 | **[LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation](https://arxiv.org/abs/2608.25757v2)** | 2026-08-27 |  |
 | **[Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency](https://arxiv.org/abs/2608.23831v2)** | 2026-08-26 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, project website: https://async-rl-intermediate-information.github.io/</p></details> |
 | **[Specialist-Generalist Fusion with Outcome-Supervised Rationales for Deepfake Detection](https://arxiv.org/abs/2605.31192v2)** | 2026-08-24 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[SemiSAM-O1: Pushing the Boundary of Annotation-Efficient Medical Image Segmentation with Generalist Knowledge Fusion](https://arxiv.org/abs/2604.24109v2)** | 2026-08-05 |  |
 | **[Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models](https://arxiv.org/abs/2607.27512v1)** | 2026-07-29 | <details><summary>33 pa...</summary><p>33 pages (14 pages of main text), 7 figures, 14 tables</p></details> |
 | **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v2)** | 2026-07-29 |  |
-| **[Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725v1)** | 2026-07-23 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Allocate Incentives for Incentivized Advertising via Offline Model-Based Reinforcement Learning](https://arxiv.org/abs/2608.28065v1)** | 2026-08-28 |  |
 | **[Simple Actors and Deep Critics for Scalable Reinforcement Learning](https://arxiv.org/abs/2608.26659v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
 | **[Bayesian Flow Networks for Offline Trajectory Planning](https://arxiv.org/abs/2608.25163v1)** | 2026-08-25 |  |
 | **[CoDrift: Compositional Drifting for Offline Reinforcement Learning](https://arxiv.org/abs/2608.23939v1)** | 2026-08-25 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Redistribution-based Cost Inference Improves Sparse Safe Offline RL](https://arxiv.org/abs/2608.12306v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at the 1st IJCAI Workshop on Safe Physical AI (SPAI 2026), affiliated with IJCAI/ECAI 2026</p></details> |
 | **[SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://arxiv.org/abs/2602.17632v3)** | 2026-08-09 |  |
 | **[Minimal Ingredients for Reward Assignment from Expert Demonstrations](https://arxiv.org/abs/2506.06793v2)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by Reinforcement Learning Conference 2026</p></details> |
-| **[Training a Conditioned Video Game Agent on a VLM Annotated Dataset](https://arxiv.org/abs/2608.05954v1)** | 2026-08-06 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience](https://arxiv.org/abs/2608.18948v2)** | 2026-08-28 | <details><summary>14 pa...</summary><p>14 pages, 13 figures. Supplementary material included</p></details> |
 | **[Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization](https://arxiv.org/abs/2608.26103v2)** | 2026-08-27 | <details><summary>https...</summary><p>https://robbyant-research.github.io/Zero-WAM/</p></details> |
 | **[Rapid On-Robot Learning for Dynamic Manipulation Skills: Robot Juggling](https://arxiv.org/abs/2608.26800v1)** | 2026-08-27 |  |
 | **[Memory Anchors for Continual Robot Learning](https://arxiv.org/abs/2608.26545v1)** | 2026-08-27 | 22 pages, 15 figures |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Physics Filtering Favors the Generalization of Robot Learning](https://arxiv.org/abs/2608.22701v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by npj Robotics</p></details> |
 | **[Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning](https://arxiv.org/abs/2608.21083v1)** | 2026-08-21 |  |
 | **[What Matters for Latent Actions in Robot Learning](https://arxiv.org/abs/2608.19613v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project page: https://carldegio.github.io/latent_action.github.io</p></details> |
-| **[OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation](https://arxiv.org/abs/2608.19589v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted by PRCV 2026</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
