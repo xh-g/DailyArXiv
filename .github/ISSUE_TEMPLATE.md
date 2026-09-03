@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models](https://arxiv.org/abs/2603.09542v2)** | 2026-09-02 | <details><summary>32 pa...</summary><p>32 pages, 10 figures, 2 tables. Major revision: updated author list and affiliations; revised methods, experiments, analysis, and appendices; added project page, code, model, and dataset links. Project page: https://zuzuzzy.github.io/NS-VLA/</p></details> |
+| **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v4)** | 2026-09-02 |  |
+| **[ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation](https://arxiv.org/abs/2609.02546v1)** | 2026-09-02 |  |
+| **[Towards Zero-Shot Transfer Across Embodiments For Driving VLAs](https://arxiv.org/abs/2609.02341v1)** | 2026-09-02 |  |
 | **[EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents](https://arxiv.org/abs/2609.01281v1)** | 2026-09-01 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 5 tables</p></details> |
 | **[REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs](https://arxiv.org/abs/2609.01215v1)** | 2026-09-01 | 30 pages, 5 figures |
 | **[Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs](https://arxiv.org/abs/2609.00908v1)** | 2026-09-01 | 8 pages |
@@ -18,14 +22,11 @@ labels: documentation
 | **[VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing](https://arxiv.org/abs/2605.30117v2)** | 2026-08-30 |  |
 | **[Drive the Thoughts: Runtime Monitoring of VLA Reasoning-Trajectory Consistency](https://arxiv.org/abs/2608.29583v1)** | 2026-08-30 |  |
 | **[AGM: Achievement-Grounded Memory for Closed-Loop Agents with Frozen VLA Policies](https://arxiv.org/abs/2608.29537v1)** | 2026-08-30 | 19 pages, 9 figures |
-| **[SMILE: Smooth Motion for Improved Long-Horizon VLA Execution](https://arxiv.org/abs/2608.29432v1)** | 2026-08-29 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA](https://arxiv.org/abs/2608.28108v1)** | 2026-08-28 |  |
-| **[Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2608.04633v2)** | 2026-08-27 | 9 pages, 4 figures |
-| **[PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2608.27609v1)** | 2026-08-27 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hidden-Shot: Towards One-Shot Task Generalization for Low-Level Vision Generalist Models](https://arxiv.org/abs/2607.01535v2)** | 2026-09-02 | <details><summary>Added...</summary><p>Added experimental results, corrected minor issues</p></details> |
 | **[LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation](https://arxiv.org/abs/2608.30935v1)** | 2026-08-31 | Technical report |
 | **[Generalist Graph Anomaly Detection via Prototype-Based Distillation](https://arxiv.org/abs/2605.26857v2)** | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents](https://arxiv.org/abs/2608.27866v1)** | 2026-08-28 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, and 4 tables</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL](https://arxiv.org/abs/2608.16837v1)** | 2026-08-17 | <details><summary>Proje...</summary><p>Project page: https://grange007.github.io/HAF</p></details> |
 | **[RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies](https://arxiv.org/abs/2604.09860v4)** | 2026-08-14 |  |
 | **[Can Generalist Vision Language Models (VLMs) Rival Specialist Medical VLMs? Benchmarking and Strategic Insights](https://arxiv.org/abs/2506.17337v5)** | 2026-08-12 | version 5 |
-| **[SemiSAM-O1: Pushing the Boundary of Annotation-Efficient Medical Image Segmentation with Generalist Knowledge Fusion](https://arxiv.org/abs/2604.24109v2)** | 2026-08-05 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
