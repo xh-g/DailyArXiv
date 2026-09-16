@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence](https://arxiv.org/abs/2609.17210v1)** | 2026-09-15 |  |
+| **[Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement](https://arxiv.org/abs/2609.17115v1)** | 2026-09-15 |  |
 | **[CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models](https://arxiv.org/abs/2607.04816v2)** | 2026-09-14 | 9 pages, 5 figures |
 | **[TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945v3)** | 2026-09-14 |  |
 | **[vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966v3)** | 2026-09-14 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies](https://arxiv.org/abs/2609.10915v1)** | 2026-09-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables. Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026. Project page: https://kianhk6.github.io/IMLE-VLA/</p></details> |
 | **[RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility](https://arxiv.org/abs/2609.10021v1)** | 2026-09-09 |  |
 | **[VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models](https://arxiv.org/abs/2609.04355v2)** | 2026-09-09 | 17 pages, 14 figures |
-| **[Q-VGM: Q-Guided Value-Gradient Matching for Offline-to-Online RL of Flow-Matching VLA](https://arxiv.org/abs/2606.08015v4)** | 2026-09-08 | <details><summary>8 pag...</summary><p>8 pages, 3 figures. v4: added a coauthor, added LIBERO-Long results and a BPTT-only baseline; PPO baseline re-run under identical conditions; two-column format</p></details> |
-| **[LongNav-R1: Horizon-Adaptive Multi-Turn RL for Long-Horizon VLA Navigation](https://arxiv.org/abs/2602.12351v2)** | 2026-09-08 | VLA, Navigation |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement](https://arxiv.org/abs/2609.17115v1)** | 2026-09-15 |  |
+| **[Artificial Intelligence-Enabled Space Robot Operations: Technologies, Challenges and Prospects](https://arxiv.org/abs/2609.16880v1)** | 2026-09-15 |  |
+| **[Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation](https://arxiv.org/abs/2606.18960v3)** | 2026-09-15 | CoRL 2026 |
+| **[Beyond Gestures: Estimating Full Hand Pose and Contact Forces from Wrist-Worn Pressure Sensor Array](https://arxiv.org/abs/2609.16518v1)** | 2026-09-15 |  |
+| **[HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos](https://arxiv.org/abs/2605.24934v3)** | 2026-09-14 | <details><summary>Proje...</summary><p>Project page: https://humanego-ai.github.io</p></details> |
+| **[World-Action Models for Robot Learning and Control: A Survey](https://arxiv.org/abs/2609.16074v1)** | 2026-09-13 | 19 pages |
 | **[VGFM: Expressive Robot Policies via Dense Value Guidance in Flow Matching](https://arxiv.org/abs/2609.14261v1)** | 2026-09-13 | IROS 2026 |
 | **[DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction](https://arxiv.org/abs/2609.14183v1)** | 2026-09-12 |  |
 | **[Colosseum V2: Benchmarking Generalization for Vision-Language-Action Models](https://arxiv.org/abs/2605.27759v2)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
@@ -73,12 +79,6 @@ labels: documentation
 | **[GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning](https://arxiv.org/abs/2609.05927v2)** | 2026-09-10 | <details><summary>50 pa...</summary><p>50 pages, including supplementary material</p></details> |
 | **[TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos](https://arxiv.org/abs/2605.01234v2)** | 2026-09-09 |  |
 | **[Ergodic Control and Controlled Diffusion for Robot Learning: Review and Tutorial](https://arxiv.org/abs/2609.13295v1)** | 2026-09-09 | <details><summary>Under...</summary><p>Under review at Foundations and Trends in Robotics</p></details> |
-| **[Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction](https://arxiv.org/abs/2609.07747v2)** | 2026-09-09 | <details><summary>Proje...</summary><p>Project website: https://dexx-code.github.io/dexx-code/</p></details> |
-| **[Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning](https://arxiv.org/abs/2609.09492v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted at 2026 Conference on Robot Learning (CoRL)</p></details> |
-| **[A Decade of Bayesian Optimization for Controller Tuning and Robot Learning: Tutorial, Review, and Future Prospects](https://arxiv.org/abs/2609.09403v1)** | 2026-09-08 | <details><summary>Curre...</summary><p>Currently under review</p></details> |
-| **[MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision](https://arxiv.org/abs/2609.04958v2)** | 2026-09-08 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 5 tables</p></details> |
-| **[CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements](https://arxiv.org/abs/2609.07498v1)** | 2026-09-07 | <details><summary>SIGGR...</summary><p>SIGGRAPH Aisa 2026; Project page: https://cosmoh2g.github.io</p></details> |
-| **[Continual Policy Consolidation for Lifelong Robot Learning](https://arxiv.org/abs/2601.22475v2)** | 2026-09-06 | 22 pages |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
