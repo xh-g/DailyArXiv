@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2026
+title: Latest 15 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge](https://arxiv.org/abs/2609.18663v1)** | 2026-09-16 | Preprint |
+| **[FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory](https://arxiv.org/abs/2609.18623v1)** | 2026-09-16 |  |
+| **[Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs](https://arxiv.org/abs/2609.00908v3)** | 2026-09-16 | 8 pages |
+| **[DistAL: Distance-based Advantage Learning for VLA Fine-Tuning](https://arxiv.org/abs/2609.18392v1)** | 2026-09-16 |  |
+| **[Veo-Act: Enhancing VLA Policies with Frontier Video Models](https://arxiv.org/abs/2604.04502v2)** | 2026-09-16 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Equal contribution by Zhongru Zhang, Chenghan Yang, Qingzhou Lu and Yanjiang Guo. Project lead: Yanjiang Guo</p></details> |
+| **[ForceDelta-VLA: Distilling Force-Conditioned ActionCorrections for Contact-Rich Manipulation](https://arxiv.org/abs/2609.18242v1)** | 2026-09-16 | 8 pages, 8 figures |
+| **[RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.17728v1)** | 2026-09-15 |  |
 | **[FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence](https://arxiv.org/abs/2609.17210v1)** | 2026-09-15 |  |
 | **[Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement](https://arxiv.org/abs/2609.17115v1)** | 2026-09-15 |  |
 | **[CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models](https://arxiv.org/abs/2607.04816v2)** | 2026-09-14 | 9 pages, 5 figures |
@@ -15,17 +22,13 @@ labels: documentation
 | **[IMPACT-VLA: Interaction-aware Multimodal Propagation Attribution via Counterfactual Trajectories for Vision-Language-Action Policies](https://arxiv.org/abs/2609.15005v1)** | 2026-09-14 |  |
 | **[When Faster VLA Deployment Changes Closed-Loop Behavior: Task Success-Latency Analysis of SmolVLA Across PyTorch and ONNX Variants](https://arxiv.org/abs/2609.14146v1)** | 2026-09-12 | <details><summary>6 pag...</summary><p>6 pages. Code: https://github.com/rafiqul713/smolvla-libero-onnx</p></details> |
 | **[What Makes an Efficient VLA? Navigating Action-Head Design, Scaling, and Latency](https://arxiv.org/abs/2609.13984v1)** | 2026-09-12 |  |
-| **[ReWeight: Leveraging Human Data for VLA Post-Training via Demonstration Retrieval and Sample Weighting](https://arxiv.org/abs/2609.13851v1)** | 2026-09-12 |  |
-| **[GROOVE: Geometry-Guided Reduction of Operational-Space Jerk in VLA Execution](https://arxiv.org/abs/2609.13695v1)** | 2026-09-12 | <details><summary>Proje...</summary><p>Project page: https://devsangho.github.io/GROOVE-public/</p></details> |
-| **[NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models](https://arxiv.org/abs/2603.09542v3)** | 2026-09-11 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 2 tables. Removed the submission checklist; the scientific content is unchanged from v2. Project page: https://zuzuzzy.github.io/NS-VLA/</p></details> |
-| **[HuRo: Robotizing Human Videos for Scalable VLA Pretraining](https://arxiv.org/abs/2609.10706v2)** | 2026-09-11 | <details><summary>Accep...</summary><p>Accepted at CoRL 2026</p></details> |
-| **[IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies](https://arxiv.org/abs/2609.10915v1)** | 2026-09-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables. Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026. Project page: https://kianhk6.github.io/IMLE-VLA/</p></details> |
-| **[RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility](https://arxiv.org/abs/2609.10021v1)** | 2026-09-09 |  |
-| **[VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models](https://arxiv.org/abs/2609.04355v2)** | 2026-09-09 | 17 pages, 14 figures |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalist-Specialist Mixture-of-Experts for Rare Pathology Detection in Multimodal Imaging](https://arxiv.org/abs/2609.18688v1)** | 2026-09-16 |  |
+| **[FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback](https://arxiv.org/abs/2609.18651v1)** | 2026-09-16 | 8 pages, 5 figures |
+| **[Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416v4)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project page: https://learning-while-deploying.github.io/</p></details> |
 | **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v3)** | 2026-09-12 |  |
 | **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239v3)** | 2026-09-10 |  |
 | **[HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy](https://arxiv.org/abs/2609.09941v1)** | 2026-09-09 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Generalist Graph Anomaly Detection via Prototype-Based Distillation](https://arxiv.org/abs/2605.26857v2)** | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents](https://arxiv.org/abs/2608.27866v1)** | 2026-08-28 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, and 4 tables</p></details> |
 | **[Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency](https://arxiv.org/abs/2608.23831v2)** | 2026-08-26 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, project website: https://async-rl-intermediate-information.github.io/</p></details> |
-| **[Specialist-Generalist Fusion with Outcome-Supervised Rationales for Deepfake Detection](https://arxiv.org/abs/2605.31192v2)** | 2026-08-24 |  |
-| **[Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416v3)** | 2026-08-24 | No |
-| **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935v2)** | 2026-08-23 |  |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[In-Context Robot Learning with VLM Agents](https://arxiv.org/abs/2609.19138v1)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project Page: https://cheng-haha.github.io/GPT-Policy GitHub Code: https://github.com/cheng-haha/GPT-Policy</p></details> |
+| **[Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation](https://arxiv.org/abs/2609.18293v1)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project page: https://fpsa-r2s2r.github.io/</p></details> |
+| **[Veo-Act: Enhancing VLA Policies with Frontier Video Models](https://arxiv.org/abs/2604.04502v2)** | 2026-09-16 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Equal contribution by Zhongru Zhang, Chenghan Yang, Qingzhou Lu and Yanjiang Guo. Project lead: Yanjiang Guo</p></details> |
+| **[UMI-Bridge: Action-Anchored Latent Alignment across Human and Robot Manipulation Data](https://arxiv.org/abs/2609.18232v1)** | 2026-09-16 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables</p></details> |
 | **[Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement](https://arxiv.org/abs/2609.17115v1)** | 2026-09-15 |  |
 | **[Artificial Intelligence-Enabled Space Robot Operations: Technologies, Challenges and Prospects](https://arxiv.org/abs/2609.16880v1)** | 2026-09-15 |  |
 | **[Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation](https://arxiv.org/abs/2606.18960v3)** | 2026-09-15 | CoRL 2026 |
@@ -75,14 +79,11 @@ labels: documentation
 | **[Colosseum V2: Benchmarking Generalization for Vision-Language-Action Models](https://arxiv.org/abs/2605.27759v2)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[ReWeight: Leveraging Human Data for VLA Post-Training via Demonstration Retrieval and Sample Weighting](https://arxiv.org/abs/2609.13851v1)** | 2026-09-12 |  |
 | **[How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026](https://arxiv.org/abs/2609.13679v1)** | 2026-09-12 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables</p></details> |
-| **[SCQ: Stabilizing Conservative Q-Learning with Sigmoid-Bounded Entropy](https://arxiv.org/abs/2609.12749v1)** | 2026-09-11 |  |
-| **[GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning](https://arxiv.org/abs/2609.05927v2)** | 2026-09-10 | <details><summary>50 pa...</summary><p>50 pages, including supplementary material</p></details> |
-| **[TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos](https://arxiv.org/abs/2605.01234v2)** | 2026-09-09 |  |
-| **[Ergodic Control and Controlled Diffusion for Robot Learning: Review and Tutorial](https://arxiv.org/abs/2609.13295v1)** | 2026-09-09 | <details><summary>Under...</summary><p>Under review at Foundations and Trends in Robotics</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Operable Pareto Front: Distilling Offline Search into Run-Time Control for Multi-Objective UAV Edge-Computing Scheduling](https://arxiv.org/abs/2609.17992v1)** | 2026-09-16 | <details><summary>Inclu...</summary><p>Includes supplementary material</p></details> |
 | **[Dual-Process Atomic Skill Learning: Decoupling Semantic Reasoning and Real-Time Control](https://arxiv.org/abs/2607.10625v2)** | 2026-09-11 | <details><summary>28 pa...</summary><p>28 pages,20 figures,21 tables</p></details> |
 | **[Decision Transformer for UAV-Mounted RIS-Assisted Dynamic D2D Communications](https://arxiv.org/abs/2609.09885v1)** | 2026-09-09 |  |
 | **[WiSDoM: Wireless Sparse Decision Transformer with Mixture-of-Experts for Multi-Task Mobile Network Optimization](https://arxiv.org/abs/2609.00284v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 11 figures, submitted to IEEE for possible publication</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Unmasking Toxic Mimicry in Medical Offline Reinforcement Learning for ICU Sepsis Management via Counterfactual Clinical Audits](https://arxiv.org/abs/2608.11410v1)** | 2026-08-11 |  |
 | **[Target-Aligned Fusion for Decision-Sequence Learning under Dynamics Shift](https://arxiv.org/abs/2511.09173v3)** | 2026-08-04 | 22 pages,4 figures |
 | **[A Self-Triggered Agentic Push Recommendation System](https://arxiv.org/abs/2608.01949v1)** | 2026-08-03 |  |
-| **[SOV-CAD: Stepwise Orthographic Views Guided CAD Modeling Sequence Reconstruction](https://arxiv.org/abs/2607.04119v1)** | 2026-07-05 | <details><summary>Accep...</summary><p>Accepted to ICME 2026</p></details> |
 
