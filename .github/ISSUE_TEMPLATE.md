@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies](https://arxiv.org/abs/2609.20776v1)** | 2026-09-17 | <details><summary>9 pag...</summary><p>9 pages, 6 figures. Submitted to the IEEE International Conference on Robotics and Automation (ICRA) 2027</p></details> |
+| **[SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation](https://arxiv.org/abs/2609.20648v1)** | 2026-09-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Q-VGM: Q-Guided Value-Gradient Matching for Offline-to-Online RL of Flow-Matching VLA Policies](https://arxiv.org/abs/2606.08015v5)** | 2026-09-17 | <details><summary>Revis...</summary><p>Revised manuscript. 8 pages, 4 figures, 6 tables</p></details> |
+| **[Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models](https://arxiv.org/abs/2609.19923v1)** | 2026-09-17 |  |
+| **[Towards High-DoF Dexterous Manipulation through VLA Post-Training](https://arxiv.org/abs/2609.19666v1)** | 2026-09-17 | 29pages, 10 figures |
+| **[FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models](https://arxiv.org/abs/2609.19475v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted by the 18th International Conference on Networking, Architecture, and Storage (NAS 2026)</p></details> |
+| **[When Faster VLA Deployment Changes Closed-Loop Behavior: Task Success-Latency Analysis of SmolVLA Across PyTorch and ONNX Variants](https://arxiv.org/abs/2609.14146v2)** | 2026-09-16 | <details><summary>6 pag...</summary><p>6 pages. Code: https://github.com/rafiqul713/smolvla-libero-onnx</p></details> |
 | **[VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge](https://arxiv.org/abs/2609.18663v1)** | 2026-09-16 | Preprint |
 | **[FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory](https://arxiv.org/abs/2609.18623v1)** | 2026-09-16 |  |
 | **[Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs](https://arxiv.org/abs/2609.00908v3)** | 2026-09-16 | 8 pages |
@@ -15,13 +22,6 @@ labels: documentation
 | **[ForceDelta-VLA: Distilling Force-Conditioned ActionCorrections for Contact-Rich Manipulation](https://arxiv.org/abs/2609.18242v1)** | 2026-09-16 | 8 pages, 8 figures |
 | **[RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.17728v1)** | 2026-09-15 |  |
 | **[FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence](https://arxiv.org/abs/2609.17210v1)** | 2026-09-15 |  |
-| **[Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement](https://arxiv.org/abs/2609.17115v1)** | 2026-09-15 |  |
-| **[CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models](https://arxiv.org/abs/2607.04816v2)** | 2026-09-14 | 9 pages, 5 figures |
-| **[TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945v3)** | 2026-09-14 |  |
-| **[vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966v3)** | 2026-09-14 |  |
-| **[IMPACT-VLA: Interaction-aware Multimodal Propagation Attribution via Counterfactual Trajectories for Vision-Language-Action Policies](https://arxiv.org/abs/2609.15005v1)** | 2026-09-14 |  |
-| **[When Faster VLA Deployment Changes Closed-Loop Behavior: Task Success-Latency Analysis of SmolVLA Across PyTorch and ONNX Variants](https://arxiv.org/abs/2609.14146v1)** | 2026-09-12 | <details><summary>6 pag...</summary><p>6 pages. Code: https://github.com/rafiqul713/smolvla-libero-onnx</p></details> |
-| **[What Makes an Efficient VLA? Navigating Action-Head Design, Scaling, and Latency](https://arxiv.org/abs/2609.13984v1)** | 2026-09-12 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,12 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Teach and Grow: An Agent-Centered Architecture for General Robot Learning](https://arxiv.org/abs/2608.17209v2)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted by The International Journal of Robotics Research (IJRR 2026). Project page: https://hear.irmv.top</p></details> |
+| **[How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026](https://arxiv.org/abs/2609.13679v2)** | 2026-09-17 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables</p></details> |
+| **[Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models](https://arxiv.org/abs/2609.19923v1)** | 2026-09-17 |  |
+| **[WorldContact: A Contact-Centric World Model for Scalable Robot Learning](https://arxiv.org/abs/2609.19600v1)** | 2026-09-17 |  |
 | **[In-Context Robot Learning with VLM Agents](https://arxiv.org/abs/2609.19138v1)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project Page: https://cheng-haha.github.io/GPT-Policy GitHub Code: https://github.com/cheng-haha/GPT-Policy</p></details> |
+| **[ULOHA: An Underwater Bimanual Robot System for Robot Learning](https://arxiv.org/abs/2609.19200v1)** | 2026-09-16 |  |
 | **[Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation](https://arxiv.org/abs/2609.18293v1)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project page: https://fpsa-r2s2r.github.io/</p></details> |
 | **[Veo-Act: Enhancing VLA Policies with Frontier Video Models](https://arxiv.org/abs/2604.04502v2)** | 2026-09-16 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Equal contribution by Zhongru Zhang, Chenghan Yang, Qingzhou Lu and Yanjiang Guo. Project lead: Yanjiang Guo</p></details> |
 | **[UMI-Bridge: Action-Anchored Latent Alignment across Human and Robot Manipulation Data](https://arxiv.org/abs/2609.18232v1)** | 2026-09-16 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables</p></details> |
@@ -74,11 +79,6 @@ labels: documentation
 | **[Beyond Gestures: Estimating Full Hand Pose and Contact Forces from Wrist-Worn Pressure Sensor Array](https://arxiv.org/abs/2609.16518v1)** | 2026-09-15 |  |
 | **[HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos](https://arxiv.org/abs/2605.24934v3)** | 2026-09-14 | <details><summary>Proje...</summary><p>Project page: https://humanego-ai.github.io</p></details> |
 | **[World-Action Models for Robot Learning and Control: A Survey](https://arxiv.org/abs/2609.16074v1)** | 2026-09-13 | 19 pages |
-| **[VGFM: Expressive Robot Policies via Dense Value Guidance in Flow Matching](https://arxiv.org/abs/2609.14261v1)** | 2026-09-13 | IROS 2026 |
-| **[DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction](https://arxiv.org/abs/2609.14183v1)** | 2026-09-12 |  |
-| **[Colosseum V2: Benchmarking Generalization for Vision-Language-Action Models](https://arxiv.org/abs/2605.27759v2)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[ReWeight: Leveraging Human Data for VLA Post-Training via Demonstration Retrieval and Sample Weighting](https://arxiv.org/abs/2609.13851v1)** | 2026-09-12 |  |
-| **[How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026](https://arxiv.org/abs/2609.13679v1)** | 2026-09-12 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
