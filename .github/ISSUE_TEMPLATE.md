@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Less Language, More Latents: Annotation-Efficient VLAs for Driving](https://arxiv.org/abs/2609.27747v1)** | 2026-09-23 |  |
+| **[DreamAvoid: Critical-Phase Test-Time Dreaming to Avoid Failures in VLA Policies](https://arxiv.org/abs/2605.11750v2)** | 2026-09-23 | 23 pages, 7 figures |
+| **[What Makes an Efficient VLA? Navigating Action-Head Design, Scaling, and Latency](https://arxiv.org/abs/2609.13984v2)** | 2026-09-23 |  |
+| **[Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection](https://arxiv.org/abs/2607.14236v2)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to CoRL 2026.Project page: https://lift-policy.github.io/</p></details> |
 | **[RoboTwin-Phys: Do WAMs and VLAs Understand the Physical World?](https://arxiv.org/abs/2609.26292v1)** | 2026-09-22 | <details><summary>techn...</summary><p>technical report for a benchmark</p></details> |
 | **[Fisheye-VLA: Decoupling Coverage and Acuity for Manipulation with a Single Fisheye Camera](https://arxiv.org/abs/2609.25750v1)** | 2026-09-22 |  |
 | **[StenoVLA-3D: 3D-Aware Reasoning VLA for Navigation Through Gastrointestinal Stenoses](https://arxiv.org/abs/2609.24187v2)** | 2026-09-22 |  |
@@ -18,14 +22,11 @@ labels: documentation
 | **[See like a Robot: Robot-Centric Pointmaps for VLA Models](https://arxiv.org/abs/2607.11498v2)** | 2026-09-21 | <details><summary>Proje...</summary><p>Project page: https://davian-robotics.github.io/pointmap/</p></details> |
 | **[Imagine-RL: Residual-Confidence-Guided Cross-Attention for World-Model-Augmented VLA Reinforcement Learning](https://arxiv.org/abs/2609.24033v1)** | 2026-09-21 | 8 pages, 9 figures |
 | **[ReVeal: A Reconstruction-Aware Real-to-Sim Framework for VLA Policy Evaluation](https://arxiv.org/abs/2609.23910v1)** | 2026-09-20 |  |
-| **[Beyond Appearance Shifts: Task-Semantic Action Calibration for VLA Models](https://arxiv.org/abs/2609.23650v1)** | 2026-09-20 | <details><summary>27 pa...</summary><p>27 pages (10-page main text), 15 figures, 24 tables. Project page: https://nebulis-lab.com/Beyond-Appearance-Shifts</p></details> |
-| **[TaskAnchor: Grounding Task State in Reactive VLAs for Long-Horizon Manipulation](https://arxiv.org/abs/2609.23580v1)** | 2026-09-20 |  |
-| **[SCULPT-VLA: Learning Structured Control through Staged Action Grounding](https://arxiv.org/abs/2609.23275v1)** | 2026-09-20 | <details><summary>31 pa...</summary><p>31 pages, 25 figures, 16 tables</p></details> |
-| **[H-VLA: Hierarchical Vision-Language-Action Model with Key-Action Reasoning and Motion Planning in a Unified Action Space](https://arxiv.org/abs/2609.22895v1)** | 2026-09-19 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[X2Real: an eXtensive simulation benchmark for real-world generalist policies](https://arxiv.org/abs/2609.27449v1)** | 2026-09-23 |  |
 | **[GeCCo -- a Generalist Contact-Conditioned Policy for Loco-Manipulation Skills on Legged Robots](https://arxiv.org/abs/2509.17582v2)** | 2026-09-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
 | **[Can Generalist Agents Automate Data Curation?](https://arxiv.org/abs/2606.04261v2)** | 2026-09-19 | <details><summary>Publi...</summary><p>Published as a Main Conference paper at EMNLP 2026</p></details> |
 | **[SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2609.22085v1)** | 2026-09-18 | <details><summary>Websi...</summary><p>Website: : https://saksham002.github.io/seeq/</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Generalist Open-World Temporal Perception](https://arxiv.org/abs/2609.06823v1)** | 2026-09-06 | 42 pages, 4 figures |
 | **[Hierarchical Wasserstein Merging for Multi-Domain Multi-Task Learning: From Specialists to a Generalist](https://arxiv.org/abs/2609.06406v1)** | 2026-09-06 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, accepted for publication in EMNLP 2026 Findings</p></details> |
 | **[Rethinking Safety for Generalist Robots](https://arxiv.org/abs/2609.06326v1)** | 2026-09-06 | 11 pages, 2 figures |
-| **[Hidden-Shot: Towards One-Shot Task Generalization for Low-Level Vision Generalist Models](https://arxiv.org/abs/2607.01535v2)** | 2026-09-02 | <details><summary>Added...</summary><p>Added experimental results, corrected minor issues</p></details> |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,13 +64,14 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Duet: Dual-Robot Understanding via Efficient Teaching](https://arxiv.org/abs/2606.20990v2)** | 2026-09-22 |  |
+| **[H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer](https://arxiv.org/abs/2609.24778v2)** | 2026-09-22 | <details><summary>10th ...</summary><p>10th Conference on Robot Learning (CoRL 2026), Austin, TX, USA</p></details> |
 | **[What is the Better Curriculum: Controller-Shaped Grasping Behavior for Contact Force-Sensitive Manipulation](https://arxiv.org/abs/2609.25887v1)** | 2026-09-22 | <details><summary>22 pa...</summary><p>22 pages, 6 figures. Project page: https://shayfeng.github.io/better-curriculum/</p></details> |
 | **[From Instrument-Mounted Demonstrations to In-Vivo Execution: Learning Bimanual Laparoscopic Appendectomy Without Robot-Collected Demonstrations](https://arxiv.org/abs/2609.25625v1)** | 2026-09-22 | <details><summary>Submi...</summary><p>Submitted to IEEE ICRA 2027</p></details> |
 | **[Recording Hand-Held Laparoscopic Instrument Motion in the Operating Room: Magnetometer-Free Fusion of Inertial, Range and Visual Sensing](https://arxiv.org/abs/2609.25577v1)** | 2026-09-22 | <details><summary>Submi...</summary><p>Submitted to IEEE ICRA 2027</p></details> |
 | **[DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://arxiv.org/abs/2605.16257v2)** | 2026-09-22 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, project page is available at: https://dexjoco.github.io</p></details> |
 | **[RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking](https://arxiv.org/abs/2605.11151v3)** | 2026-09-21 | <details><summary>Proje...</summary><p>Project page: https://horizonrobotics.github.io/gail/projects/rankq/</p></details> |
 | **[Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models](https://arxiv.org/abs/2609.19923v2)** | 2026-09-21 |  |
-| **[H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer](https://arxiv.org/abs/2609.24778v1)** | 2026-09-21 | <details><summary>10th ...</summary><p>10th Conference on Robot Learning (CoRL 2026), Austin, TX, USA</p></details> |
 | **[Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors](https://arxiv.org/abs/2609.24385v1)** | 2026-09-21 |  |
 | **[FinsSim: A Reality-Aligned Integrated Simulation Platform for Underwater Robot Learning](https://arxiv.org/abs/2609.23943v1)** | 2026-09-20 | 8 pages, 6 figures |
 | **[Cognitive Action Reasoning for Proactive Robots from Human-Centered Multimodal Observations](https://arxiv.org/abs/2609.23486v1)** | 2026-09-20 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Teach and Grow: An Agent-Centered Architecture for General Robot Learning](https://arxiv.org/abs/2608.17209v3)** | 2026-09-20 | <details><summary>Proje...</summary><p>Project page: https://tgl.changnie.top</p></details> |
 | **[Robot World Models Are Not Invariant to How the Actions Are Written](https://arxiv.org/abs/2609.23252v1)** | 2026-09-19 |  |
 | **[AquaWorld: Structure-Consistent Underwater World Generation for Robot Simulation](https://arxiv.org/abs/2609.22670v1)** | 2026-09-19 | 7 pages, 6 figures |
-| **[HiBerNAC: Hierarchical Brain-inspired Robotic Neural Agent Collective for Disentangling Complex Manipulation](https://arxiv.org/abs/2506.08296v3)** | 2026-09-18 | <details><summary>accep...</summary><p>accepted by Biomimetic Intelligence and Robotics, 24 pages,7 figures</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
