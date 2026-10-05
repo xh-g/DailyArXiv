@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v1)** | 2026-10-02 |  |
+| **[TimelyDAgger: Timing-Aware Expert Querying for VLA Policy Improvement](https://arxiv.org/abs/2609.33157v2)** | 2026-10-02 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, 1 table</p></details> |
+| **[FastOPD: On-Policy Distillation for Lightweight VLA Deployment](https://arxiv.org/abs/2610.02832v1)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project page: https://fastopd.github.io/</p></details> |
+| **[ManiPhysicsBench: Physics-Based Assessment of Object Preservation in VLA Manipulation](https://arxiv.org/abs/2610.02802v1)** | 2026-10-02 | Preprint |
+| **[CHASE-VLA: Post-Training Quantization Framework for Vision-Language-Action Models with Chunk-Aware Scale Estimation](https://arxiv.org/abs/2610.02666v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026. 22 pages, including references and supplementary material</p></details> |
+| **[Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination](https://arxiv.org/abs/2610.02626v1)** | 2026-10-02 |  |
+| **[Find Something You Can't Do: Agentic Real-World Reinforcement Learning for Self-Improving VLA Models](https://arxiv.org/abs/2609.32069v2)** | 2026-10-01 |  |
+| **[SocialVLA: A Social Perception Gateway for Human-Reaction-Based Failure Detection and Recovery in VLA Manipulation](https://arxiv.org/abs/2610.02360v1)** | 2026-10-01 |  |
 | **[Continuous Conditioning of VLAs with Augmenting EMG and Visual Task Descriptors](https://arxiv.org/abs/2610.01794v1)** | 2026-10-01 | <details><summary>Prese...</summary><p>Presented at IROS WORLDS Workshop 2026. Four main pages double-column format plus references and appendices</p></details> |
 | **[ATI-VLA: Action-Centric Predictive Vision-Language-Action Models via Actionable Alignment Then Adaptive Injection](https://arxiv.org/abs/2610.01741v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. Project page: https://jiutian-vl.github.io/ATI-VLA-page/</p></details> |
 | **[BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models](https://arxiv.org/abs/2605.30226v3)** | 2026-10-01 | 9 pages,7 figures |
@@ -14,18 +22,11 @@ labels: documentation
 | **[Where Predictive Supervision Goes Shapes What VLA Policies Learn](https://arxiv.org/abs/2609.36645v2)** | 2026-10-01 | <details><summary>38 pa...</summary><p>38 pages (9 pages main text + appendix), 13 figures, 21 tables</p></details> |
 | **[Divide-and-Remember: Recursive Action-Relevant Memory for Long-Horizon VLA Policies](https://arxiv.org/abs/2610.00982v1)** | 2026-10-01 |  |
 | **[eRLT: Efficient VLA Reinforcement Learning via Action-Relevant Token Routing](https://arxiv.org/abs/2610.00913v1)** | 2026-10-01 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 8 tables</p></details> |
-| **[MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation](https://arxiv.org/abs/2610.00604v1)** | 2026-09-30 | <details><summary>57 pa...</summary><p>57 pages, 39 figures, 38 tables</p></details> |
-| **[Same Scene, Different Task: Skill Alignment for Compositional Generalization in VLAs](https://arxiv.org/abs/2610.00524v1)** | 2026-09-30 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Project page: https://taegeunyang.github.io/craft/</p></details> |
-| **[XS-VLA: Teaching Tiny Vision-Language-Action Models with Spatial Supervision and Demonstration Conditioning](https://arxiv.org/abs/2607.04171v4)** | 2026-09-30 | Preprint |
-| **[Multi-Link Safety Filtering for VLA Policies Around Moving Hazards](https://arxiv.org/abs/2609.40007v1)** | 2026-09-30 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables. Project page: https://yathag.github.io/multilink-safety-filter/</p></details> |
-| **[When Instructions Retrieve Trajectories: Diagnosing and Mitigating Generalization Failures in VLA Models](https://arxiv.org/abs/2609.39971v1)** | 2026-09-30 |  |
-| **[Uni-VLaT: Whole-Body Tactile Adaptation of VLA Policies for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.35450v2)** | 2026-09-30 | 12 pages, 5 figures |
-| **[MAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy](https://arxiv.org/abs/2608.16697v2)** | 2026-09-30 |  |
-| **[Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation](https://arxiv.org/abs/2609.39822v1)** | 2026-09-30 | <details><summary>31 pa...</summary><p>31 pages, 21 figures (including 10 supplementary figures), and 10 tables (including 3 supplementary tables). Project page: https://embodied.magiclab.top/works/inference/index.html. Code: https://github.com/MagiclabRobotics/Inference</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Quantification for Flow-Based Generalist Robot Policies](https://arxiv.org/abs/2606.18043v2)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project page: tum-lsy.github.io/uq_generalist_policies/. 41 pages, 18 figures</p></details> |
 | **[Generalist Representation, Specialist Detection: TS-Router for Time-Series Anomaly Detection](https://arxiv.org/abs/2610.00978v1)** | 2026-10-01 |  |
 | **[Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena](https://arxiv.org/abs/2610.00854v1)** | 2026-10-01 | <details><summary>40 pa...</summary><p>40 pages, including appendices. Project page: https://embodied-agent-arena.github.io/embodied-agent-arena/</p></details> |
 | **[Asking the World: Generalist Physical Reasoning through Agentic World Modeling and Probing](https://arxiv.org/abs/2609.39135v1)** | 2026-09-30 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 6 tables</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[GeCCo -- a Generalist Contact-Conditioned Policy for Loco-Manipulation Skills on Legged Robots](https://arxiv.org/abs/2509.17582v2)** | 2026-09-21 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
 | **[Can Generalist Agents Automate Data Curation?](https://arxiv.org/abs/2606.04261v2)** | 2026-09-19 | <details><summary>Publi...</summary><p>Published as a Main Conference paper at EMNLP 2026</p></details> |
 | **[Generalist-Specialist Mixture-of-Experts for Rare Pathology Detection in Multimodal Imaging](https://arxiv.org/abs/2609.18688v1)** | 2026-09-16 |  |
-| **[FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback](https://arxiv.org/abs/2609.18651v1)** | 2026-09-16 | 8 pages, 5 figures |
 
 ## offline rl
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EVEWorld: Physical Evolution Supervision for Embodied World Models](https://arxiv.org/abs/2610.03374v1)** | 2026-10-02 | 44 pages |
+| **[RIFAR: Reliability and Forgetting-Aware Replay for Continual Robot Learning](https://arxiv.org/abs/2610.03079v1)** | 2026-10-02 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 9 tables, including appendices</p></details> |
+| **[Permutation Robustness Is Not Enough: Action Collapse in Multi-Agent Transformer Policies](https://arxiv.org/abs/2610.02848v1)** | 2026-10-02 |  |
+| **[Network-in-the-Loop at Scale: GPU-Batched 5G Simulation for Massively Parallel Robot Learning](https://arxiv.org/abs/2610.02370v1)** | 2026-10-01 | <details><summary>It is...</summary><p>It is open source at https://github.com/ZzZTripleZzZ/isaac-net</p></details> |
 | **[Robot Learning on Discrete Surfaces: Theory and Applications](https://arxiv.org/abs/2610.01910v1)** | 2026-10-01 |  |
 | **[Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction](https://arxiv.org/abs/2609.07747v3)** | 2026-10-01 | <details><summary>Proje...</summary><p>Project website: https://dexx-code.github.io/dexx-code/</p></details> |
 | **[PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models](https://arxiv.org/abs/2610.01162v1)** | 2026-10-01 |  |
@@ -75,10 +79,6 @@ labels: documentation
 | **[RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking](https://arxiv.org/abs/2605.11151v4)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project page: https://horizonrobotics.github.io/gail/rankq</p></details> |
 | **[GlanceWAM: Sparse Test-Time Imagination for World-Action Models](https://arxiv.org/abs/2608.23927v2)** | 2026-09-29 | <details><summary>Add r...</summary><p>Add real-robot experiments</p></details> |
 | **[Memorize, Adapt, Ignore: Diagnosing Robot Learning Mechanisms under Training Data Variation](https://arxiv.org/abs/2609.38401v1)** | 2026-09-29 |  |
-| **[In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks](https://arxiv.org/abs/2609.38173v1)** | 2026-09-29 |  |
-| **[WorldLine: Action-Driven Visual Simulation for Robotic Manipulation](https://arxiv.org/abs/2609.38059v1)** | 2026-09-29 | <details><summary>A wor...</summary><p>A work about visual simulators for embodied AI</p></details> |
-| **[EVO-WAM: Evolving World Action Models through Video-Action Verification](https://arxiv.org/abs/2609.38057v1)** | 2026-09-29 |  |
-| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v3)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
