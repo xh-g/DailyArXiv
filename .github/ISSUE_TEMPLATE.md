@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2026
+title: Latest 15 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering](https://arxiv.org/abs/2606.12299v2)** | 2026-10-16 | CoRL 2026 |
+| **[From Sliding Windows to Self-evolving Lifelong Memory: A Dual-perspective Survey of Memory Paradigms for Long-Horizon Robotics VLA Models](https://arxiv.org/abs/2610.23319v1)** | 2026-10-16 | 10 pages, 1 figure |
+| **[OxyGen: Unified KV Cache Management for VLA Inference under Multi-Task Parallelism](https://arxiv.org/abs/2603.14371v5)** | 2026-10-16 | NeurIPS 2026 |
+| **[VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents](https://arxiv.org/abs/2610.23018v1)** | 2026-10-16 | <details><summary>17 pa...</summary><p>17 pages, including references and appendices. Project website: https://nebulis-lab.com/VLA-Fabric/</p></details> |
+| **[RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://arxiv.org/abs/2610.14018v2)** | 2026-10-16 | <details><summary>18 pa...</summary><p>18 pages, including references and appendices</p></details> |
 | **[REKI: Registering Knowledge in VLAs](https://arxiv.org/abs/2610.22178v1)** | 2026-10-15 |  |
 | **[VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs with Latent World Models](https://arxiv.org/abs/2610.21985v1)** | 2026-10-15 |  |
 | **[Policy-Aligned Predictive Verification for Adaptive VLA Action-Chunk Execution](https://arxiv.org/abs/2610.21434v1)** | 2026-10-15 |  |
@@ -17,19 +22,14 @@ labels: documentation
 | **[SAPS: Shared Autonomy for Policy Steering by Blending Teleoperation with a Pretrained VLA](https://arxiv.org/abs/2606.15568v3)** | 2026-10-14 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 4 tables</p></details> |
 | **[ValueFormer: Stage-Aware Value Labels for Online Failure Detection and VLA Post-Training](https://arxiv.org/abs/2608.02958v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted as a poster at the 8th Robot Learning Workshop (WRL) at NeurIPS 2026. 12 pages, 6 figures. Video: https://bit.ly/4i4kWTL</p></details> |
 | **[G$^3$VLA: Geometric Inductive Bias for Vision-Language-Action Models](https://arxiv.org/abs/2606.24472v2)** | 2026-10-14 |  |
-| **[FoveaVLA: Foveation Actions Replace the Wrist Camera in VLAs](https://arxiv.org/abs/2610.20064v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project website: https://tml.stanford.edu/FoveaVLA/</p></details> |
-| **[SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation](https://arxiv.org/abs/2604.05656v2)** | 2026-10-14 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 9 tables</p></details> |
-| **[OxyGen: Unified KV Cache Management for VLA Inference under Multi-Task Parallelism](https://arxiv.org/abs/2603.14371v4)** | 2026-10-14 | NeurIPS 2026 |
-| **[SPECTRA-VLA: Base-Fine Hyperspectral Token Transfer at Frozen Vision-Language-Action Interfaces](https://arxiv.org/abs/2610.19651v1)** | 2026-10-14 | <details><summary>34 pa...</summary><p>34 pages: 11-page main paper and 23-page supplementary material</p></details> |
-| **[Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered](https://arxiv.org/abs/2510.08464v2)** | 2026-10-14 |  |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adapting Generalist Vehicle Models for High-Speed MPC Across Terrains](https://arxiv.org/abs/2607.13319v4)** | 2026-10-16 | <details><summary>https...</summary><p>https://amrl.cs.utexas.edu/optcar/ Selected at CORL 2026</p></details> |
 | **[OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://arxiv.org/abs/2610.22200v1)** | 2026-10-15 |  |
 | **[LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts](https://arxiv.org/abs/2610.18873v2)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project page: https://loop-wam.github.io/</p></details> |
 | **[DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation](https://arxiv.org/abs/2610.19089v2)** | 2026-10-15 | <details><summary>13 pa...</summary><p>13 pages, including 4 pages of supplementary material. v2: Updated author affiliations; scientific content unchanged. Project page: https://zhexiluo.github.io/DexMimic/</p></details> |
-| **[Adapting Generalist Vehicle Models for High-Speed MPC Across Terrains](https://arxiv.org/abs/2607.13319v3)** | 2026-10-14 | <details><summary>https...</summary><p>https://amrl.cs.utexas.edu/optcar/</p></details> |
 | **[X2Real: an eXtensive simulation benchmark for real-world generalist policies](https://arxiv.org/abs/2609.27449v2)** | 2026-10-13 |  |
 | **[FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://arxiv.org/abs/2606.13102v3)** | 2026-10-13 |  |
 | **[Training Generalist Navigation Policies via Action Self-Distillation](https://arxiv.org/abs/2610.17593v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to the 10th Conference on Robot Learning (CoRL 2026)</p></details> |
@@ -64,6 +64,10 @@ labels: documentation
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analytic Robot Self-Model: Learning Screw-Axis Kinematics for Rendering and Model-Based Control](https://arxiv.org/abs/2610.15558v2)** | 2026-10-16 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, supplementary information included</p></details> |
+| **[Unifying Embodied Foundation Models via a Model-to-Policy Formulation](https://arxiv.org/abs/2610.23053v1)** | 2026-10-16 |  |
+| **[EgoTac: In-the-wild Tactile Prediction from Egocentric Vision](https://arxiv.org/abs/2608.15060v2)** | 2026-10-16 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Accepted. Project Page: https://egotac.github.io/</p></details> |
+| **[Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project website is at https://robot-agent-exploration.com/</p></details> |
 | **[Dexterity from Supervised Play](https://arxiv.org/abs/2610.22340v1)** | 2026-10-15 |  |
 | **[Cross-Embodiment Causal Transfer from Human Videos to Robot Manipulation](https://arxiv.org/abs/2610.21798v1)** | 2026-10-15 |  |
 | **[SPEAR: Selective Preference Elicitation with Adaptive Rewards for VLM-Guided Robotic Manipulation](https://arxiv.org/abs/2610.21621v1)** | 2026-10-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Accepted at IROS 2026. Project page: https://zevinwu.github.io/spear-project</p></details> |
@@ -75,10 +79,6 @@ labels: documentation
 | **[AutoRSR: Automated Real-to-Sim-to-Real Data Generation for Scalable Robot Learning](https://arxiv.org/abs/2610.20336v1)** | 2026-10-14 |  |
 | **[TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation](https://arxiv.org/abs/2610.20320v1)** | 2026-10-14 |  |
 | **[Tactile-Guided Robot Learning: From Representation Learning to Foundation Models](https://arxiv.org/abs/2610.20134v1)** | 2026-10-14 |  |
-| **[MorphAct: Robot Policies Morphing with the Worlds They Act In](https://arxiv.org/abs/2610.20019v1)** | 2026-10-14 | <details><summary>25 pa...</summary><p>25 pages. Project page: https://mint-sjtu.github.io/MorphAct.io/</p></details> |
-| **[Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE](https://arxiv.org/abs/2610.19635v1)** | 2026-10-14 |  |
-| **[Immiscible Diffusion Policy: Preserving Multimodal Robot Actions through Label-Free Noise Assignment](https://arxiv.org/abs/2610.09369v2)** | 2026-10-14 |  |
-| **[Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training](https://arxiv.org/abs/2610.19479v1)** | 2026-10-14 | CoRL 2026 |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
