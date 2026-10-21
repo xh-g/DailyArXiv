@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## VLA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA](https://arxiv.org/abs/2610.25927v2)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 39 pages, including supplementary material and the NeurIPS paper checklist. Project page: https://github.com/FeiyangHong/CondenseVLA</p></details> |
+| **[Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs](https://arxiv.org/abs/2610.28184v1)** | 2026-10-20 |  |
+| **[PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations](https://arxiv.org/abs/2610.28019v1)** | 2026-10-20 |  |
+| **[DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs](https://arxiv.org/abs/2605.19294v3)** | 2026-10-20 |  |
+| **[VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](https://arxiv.org/abs/2610.25043v2)** | 2026-10-20 |  |
+| **[VLA-Retain: Benchmarking Cross-Dimension Effects of Vision Tuning in VLAs](https://arxiv.org/abs/2610.27698v1)** | 2026-10-20 |  |
 | **[HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control](https://arxiv.org/abs/2610.26584v1)** | 2026-10-19 |  |
 | **[VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](https://arxiv.org/abs/2605.29562v2)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 (Poster)</p></details> |
 | **[BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation](https://arxiv.org/abs/2605.07306v4)** | 2026-10-19 | 17 pages, 10 figures |
 | **[FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation](https://arxiv.org/abs/2610.25981v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to CoRL 2026</p></details> |
-| **[CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA](https://arxiv.org/abs/2610.25927v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 39 pages, including supplementary material and the NeurIPS paper checklist. Project page: https://github.com/FeiyangHong/CondenseVLA</p></details> |
 | **[Accelerating VLA Inference with Perturbation Informed Execution](https://arxiv.org/abs/2610.19656v3)** | 2026-10-18 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, 10 tables</p></details> |
-| **[VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](https://arxiv.org/abs/2610.25043v1)** | 2026-10-18 |  |
 | **[VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing](https://arxiv.org/abs/2605.30117v3)** | 2026-10-18 |  |
 | **[Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing](https://arxiv.org/abs/2610.24590v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Retrieval-triggered Action Projection Adjustment for Frozen VLA Policies: An Empirical Study and Failure Analysis](https://arxiv.org/abs/2610.24573v1)** | 2026-10-17 |  |
 | **[Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering](https://arxiv.org/abs/2606.12299v2)** | 2026-10-16 | CoRL 2026 |
-| **[From Sliding Windows to Self-evolving Lifelong Memory: A Dual-perspective Survey of Memory Paradigms for Long-Horizon Robotics VLA Models](https://arxiv.org/abs/2610.23319v1)** | 2026-10-16 | 10 pages, 1 figure |
-| **[OxyGen: Unified KV Cache Management for VLA Inference under Multi-Task Parallelism](https://arxiv.org/abs/2603.14371v5)** | 2026-10-16 | NeurIPS 2026 |
-| **[VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents](https://arxiv.org/abs/2610.23018v1)** | 2026-10-16 | <details><summary>17 pa...</summary><p>17 pages, including references and appendices. Project website: https://nebulis-lab.com/VLA-Fabric/</p></details> |
-| **[RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://arxiv.org/abs/2610.14018v2)** | 2026-10-16 | <details><summary>18 pa...</summary><p>18 pages, including references and appendices</p></details> |
 
 ## Generalist
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## offline rl
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Where it Matters: Autonomous Data Collection and Offline Reinforcement Learning for Local Contact-Rich Manipulation](https://arxiv.org/abs/2607.15982v2)** | 2026-10-20 | <details><summary>Proje...</summary><p>Project webpage: https://anonymous.4open.science/w/data_and_learning_where_it_matters/</p></details> |
+| **[AWLS: Advantage-Weighted Latent Steering for One-Step Generative Robotic Manipulation Policies](https://arxiv.org/abs/2610.27736v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at CoRL 2026</p></details> |
 | **[Next Best Action: Causal Constrained Offline RL for Business Action Targeting](https://arxiv.org/abs/2610.26817v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the ACM RecSys 2026 Workshop on Online and Adaptive Recommender System (OARS)</p></details> |
 | **[Anatomy of Off-Policy Policy Gradient: Importance Sampling, KL Regularization, and Baselines](https://arxiv.org/abs/2610.25725v1)** | 2026-10-19 |  |
 | **[Enhancing Offline Model-Based RL via Active Model Selection: A Bayesian Optimization Perspective](https://arxiv.org/abs/2502.11480v2)** | 2026-10-18 | 30 pages, 6 figures |
@@ -58,12 +60,15 @@ labels: documentation
 | **[Can an Agent Learn to Predict Its Own Failure? Outcome-Grounded Confidence Calibration in LLM Agents](https://arxiv.org/abs/2610.18614v1)** | 2026-10-13 |  |
 | **[From Suboptimal to Optimal: One-Step Latent Flow Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2610.16984v1)** | 2026-10-12 |  |
 | **[REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450v4)** | 2026-10-12 |  |
-| **[Flow Matching for Offline Reinforcement Learning with Discrete Actions](https://arxiv.org/abs/2602.06138v3)** | 2026-10-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Recovering Low-Bit Failures in Vision-Language-Action Policies via Quantization-Conditioned Reinforcement Learning](https://arxiv.org/abs/2610.15675v1)** | 2026-10-11 |  |
 
 ## robotic learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning](https://arxiv.org/abs/2610.28470v1)** | 2026-10-20 |  |
+| **[From Instrument-Mounted Demonstrations to In-Vivo Execution: Learning Bimanual Laparoscopic Appendectomy Without Robot-Collected Demonstrations](https://arxiv.org/abs/2609.25625v2)** | 2026-10-20 | <details><summary>Submi...</summary><p>Submitted to IEEE ICRA 2027. Project page & Dataset: https://rosota-research.github.io/instrument-mounted-demonstrations-in-vivo/</p></details> |
+| **[Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos](https://arxiv.org/abs/2610.27794v1)** | 2026-10-20 | <details><summary>Websi...</summary><p>Website: https://learnsyslab.github.io/multiview_latent_action_pretraining/</p></details> |
+| **[CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction](https://arxiv.org/abs/2512.11988v4)** | 2026-10-19 | <details><summary>Updat...</summary><p>Update table 1 and table 2 after fixing a bug in evaluation</p></details> |
+| **[Learning to Be Different: Component Specialization for Compositional Diffusion Policies](https://arxiv.org/abs/2610.27194v1)** | 2026-10-19 |  |
 | **[V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos](https://arxiv.org/abs/2610.26780v1)** | 2026-10-19 |  |
 | **[Robot Learning with Vision-Language-Action Models for Agricultural Manipulation](https://arxiv.org/abs/2610.26717v1)** | 2026-10-19 |  |
 | **[RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion](https://arxiv.org/abs/2610.26414v1)** | 2026-10-19 |  |
@@ -74,11 +79,6 @@ labels: documentation
 | **[What Does It Take For A Generalist Robot Policy To Adapt From Minimal Data?](https://arxiv.org/abs/2608.11363v2)** | 2026-10-18 |  |
 | **[Vision as Proprioception: Estimating Humanoid Robot Pose from Video](https://arxiv.org/abs/2610.25288v1)** | 2026-10-18 | <details><summary>Code:...</summary><p>Code: https://github.com/eth-siplab/HumanoidPose</p></details> |
 | **[Online World Modeling Enables Real-World Inverse Reinforcement Learning from Observation](https://arxiv.org/abs/2602.24121v3)** | 2026-10-18 | CoRL 2026 |
-| **[Scalable, Intuitive, Mixed Reality-Based Semi-Autonomous Robotic Telemanipulation for the Execution of a Fine-Grained Bimanual Task](https://arxiv.org/abs/2610.25006v1)** | 2026-10-18 | <details><summary>8 pag...</summary><p>8 pages, 9 figures. Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
-| **[SARAM: Sparse Adapter Allocation with Reuse and Merging for Lifelong Robot Learning](https://arxiv.org/abs/2610.24804v1)** | 2026-10-17 |  |
-| **[Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065v3)** | 2026-10-17 |  |
-| **[RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience](https://arxiv.org/abs/2608.18948v4)** | 2026-10-17 | <details><summary>22 pa...</summary><p>22 pages, 14 figures, 7 tables, including supplementary material. Revised version with additional experiments and implementation details</p></details> |
-| **[SADP: Subgoal-Aware Diffusion Policy for Long-Horizon Manipulation Learned from Foundation Model Generated Demonstrations](https://arxiv.org/abs/2605.16871v3)** | 2026-10-17 | <details><summary>Autho...</summary><p>Author-accepted manuscript; published in IEEE Robotics and Automation Letters</p></details> |
 
 ## decision transformer
 | **Title** | **Date** | **Comment** |
